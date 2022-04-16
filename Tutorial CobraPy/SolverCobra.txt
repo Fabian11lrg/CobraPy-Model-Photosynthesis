@@ -1,0 +1,4205 @@
+\* Problem: Unknown *\
+
+Maximize
+ obj: + BOF - BOF_reverse_2629d
+
+Subject To
+ gam6p_c: + GF6PTA - GF6PTA_reverse_21fb1 + PGAMT - PGAMT_reverse_52c23
+ - G6PDA + G6PDA_reverse_74cec + AGDC - AGDC_reverse_2ab9d = 0
+ cgly_c: - GGCLUT2_reverse_70203 + GGCLUT2 - GTHRDH_reverse_b9665
+ + GTHRDH + AMPTASECG_reverse_11d5d - AMPTASECG = 0
+ achms_c: + HSERTA - HSERTA_reverse_23c8f - AHSERL2
+ + AHSERL2_reverse_2d820 = 0
+ pccu2p_u: + PSIum - PSIum_reverse_43c5e + 4 CYOOum
+ - 4 CYOOum_reverse_37909 - 2 CBFCum + 2 CBFCum_reverse_e7502 + PSICRum
+ - PSICRum_reverse_31595 = 0
+ octe9ACP_c: - DESAT18a_reverse_fd859 + DESAT18a - G3PAT1819Z
+ + G3PAT1819Z_reverse_56ab2 = 0
+ fdp_c: - PFK_reverse_d24a6 + PFK + FBP_reverse_bf2c9 - FBP - FBA
+ + FBA_reverse_84806 = 0
+ agm_c: - AGDI + AGDI_reverse_0a098 + ARGDC - ARGDC_reverse_08faf = 0
+ r_8: - AIRC2_reverse_50d74 + AIRC2 + AIRC3 - AIRC3_reverse_f015f = 0
+ pep_c: + KDOPS_reverse_d4842 - KDOPS - ENO_reverse_40eea + ENO
+ + UAGCVT_reverse_ba1ab - UAGCVT - PPS_reverse_1c319 + PPS
+ + PSCVT_reverse_1a852 - PSCVT - DDPA + DDPA_reverse_575e8 - PEPC
+ + PEPC_reverse_66f39 - PYK + PYK_reverse_bc8ff = 0
+ coa_c: + PFOR_reverse_1e1f4 - PFOR - KAS15_reverse_6f7fb + KAS15
+ - OGMEACPS_reverse_13b17 + OGMEACPS + PDH_reverse_ca160 - PDH
+ - DHNCOAT_reverse_58c26 + DHNCOAT - CITMS_reverse_37134 + CITMS
+ - MCOATA_reverse_d10f2 + MCOATA + ACS_reverse_37635 - ACS
+ + 0.016 BM_COFACTORS_reverse_ee9a6 - 0.016 BM_COFACTORS
+ - G1PACT_reverse_51580 + G1PACT - SUCBZL + SUCBZL_reverse_536e6
+ + ACOATA - ACOATA_reverse_8c02f + CS - CS_reverse_8d7e9 + SERAT
+ - SERAT_reverse_0de5e + IPPS - IPPS_reverse_d94c0 + DPCOAK
+ - DPCOAK_reverse_56ab9 + HSERTA - HSERTA_reverse_23c8f + ACGS
+ - ACGS_reverse_c8939 = 0
+ hgbam_c: - HGYDAS_reverse_bc303 + HGYDAS + COCHL_reverse_a39d4 - COCHL
+ = 0
+ nac_c: - NNDMBRT_reverse_13f8c + NNDMBRT + NAMNPP_reverse_ebb31
+ - NAMNPP = 0
+ r3mmal_c: + ERTHMMOR_reverse_d7ffe - ERTHMMOR + CITCIb
+ - CITCIb_reverse_a5ab2 = 0
+ leu__L_c: - LEUabcpp_reverse_ab30a + LEUabcpp + LEUTA_reverse_0b6fe
+ - LEUTA - LEUTRS + LEUTRS_reverse_06175 = 0
+ ahcys_c: - PC20M_reverse_ceb32 + PC20M - 2 UPP3MT_reverse_2adf0
+ + 2 UPP3MT - MPOMT_reverse_ccd2e + MPOMT - 2 PC6YM_reverse_82472
+ + 2 PC6YM - AMPQT_reverse_441c1 + AMPQT - DNAMTn2r_reverse_2612b
+ + DNAMTn2r - MSBENZMT_reverse_a902a + MSBENZMT + PC6AS
+ - PC6AS_reverse_590fa - AHCi + AHCi_reverse_d29ff + PC17M
+ - PC17M_reverse_28a28 + PC11M - PC11M_reverse_f4161 + NPHBDC
+ - NPHBDC_reverse_8b305 + 2 SHS1 - 2 SHS1_reverse_92a6f + MALCOAMT
+ - MALCOAMT_reverse_1031e = 0
+ ru5p__D_c: + PRUK_reverse_a0fb4 - PRUK + GND - GND_reverse_eec5c
+ - DB4PS + DB4PS_reverse_43dd1 - RPE + RPE_reverse_a1b04 + RPI
+ - RPI_reverse_853a1 - A5PISO + A5PISO_reverse_3adc0 = 0
+ r_17: + DHNCOAS - DHNCOAS_reverse_af3a9 - DHNCOAT
+ + DHNCOAT_reverse_58c26 = 0
+ h2o_cx: + 0.99 RBPCcx_reverse_6742e - 0.99 RBPCcx
+ - HCO3E_1_cx_reverse_3a8f8 + HCO3E_1_cx + H2Otcx - H2Otcx_reverse_6097e
+ = 0
+ h2s_c: + AHSERL2_reverse_2d820 - AHSERL2 - SULR_reverse_12727 + SULR
+ + CYSS_2_reverse_8e1d0 - CYSS_2 = 0
+ orot_c: + DHORD3um - DHORD3um_reverse_137f3 + ORPT - ORPT_reverse_19432
+ = 0
+ g1p_c: - ADPGDP_reverse_29379 + ADPGDP + G1PCTYT_reverse_16243
+ - G1PCTYT + PGMT_reverse_5bcdd - PGMT + G1PTT_reverse_acd22 - G1PTT
+ - GLCP2_reverse_550c1 + GLCP2 - GALUi + GALUi_reverse_c40d5 - GLGC
+ + GLGC_reverse_f6fb0 = 0
+ r_22: + x_288 - x_287 + x_137 - x_138 = 0
+ na1_c: + MNHNAtpp_reverse_59fe7 - MNHNAtpp + NAt3ipp_reverse_c262c
+ - NAt3ipp + Nat_Kpp_reverse_03d15 - Nat_Kpp
+ + 0.0001 BM_COFACTORS_reverse_ee9a6 - 0.0001 BM_COFACTORS
+ - H2CO3_NAt_syn_reverse_5b4d9 + H2CO3_NAt_syn = 0
+ r_24: - PGLYCP + PGLYCP_reverse_9063f + x_1021 - s_1022 = 0
+ ala_B_c: + PANTS_reverse_11dcb - PANTS - ASP1DC_reverse_5dad1 + ASP1DC
+ = 0
+ glyc3p_c: + PGPS_OLE_PALM_reverse_108ca - PGPS_OLE_PALM
+ + G3PD2_reverse_0c363 - G3PD2 - G3PAT160 + G3PAT160_reverse_446d0
+ - G3PAT161 + G3PAT161_reverse_1ef08 - G3PAT1819Z
+ + G3PAT1819Z_reverse_56ab2 = 0
+ pqh2_um: - NDH~1(3)um_reverse_d4f81 + NDH~1(3)um
+ - NDH~1(2)um_reverse_c7743 + NDH~1(2)um - 2 ZCARDS_reverse_28abb
+ + 2 ZCARDS - 2 PHYPQOX_reverse_846b6 + 2 PHYPQOX
+ - NDH~1(4)um_reverse_f9189 + NDH~1(4)um - DHORD3um_reverse_137f3
+ + DHORD3um - NDH~1(1)um_reverse_85750 + NDH~1(1)um + PQH2tum
+ - PQH2tum_reverse_270a9 + ARGOXRum - ARGOXRum_reverse_9f603 + SUCDum
+ - SUCDum_reverse_abf66 + NDHPQRum - NDHPQRum_reverse_c36b6 - 2 CYTBD4um
+ + 2 CYTBD4um_reverse_0a2a0 + 1.9998 PSIIum
+ - 1.9998 PSIIum_reverse_30799 - CBFCum + CBFCum_reverse_e7502 - 2 NGAM
+ + 2 NGAM_reverse_0959e = 0
+ r_28: - DAPE + DAPE_reverse_e08be + DAPNH4T - DAPNH4T_reverse_37b98 = 0
+ ddcaACP_c: - EAR120y_reverse_c7353 + EAR120y + s_300 - x_299 = 0
+ r_30: + s_1022 - x_1021 - 0.01 RBPCcx_reverse_6742e + 0.01 RBPCcx = 0
+ trdox_c: - RNDR2_reverse_7df82 + RNDR2 + TRDRf_reverse_45a8b - TRDRf
+ - RNDR3_reverse_bc84a + RNDR3 + RNDR1 - RNDR1_reverse_f4be1 + PAPSR
+ - PAPSR_reverse_75961 - TRDR + TRDR_reverse_6372e + RNDR4
+ - RNDR4_reverse_aff84 = 0
+ r_32: + x_112 - x_111 + x_739 - s_740 = 0
+ glu__D_c: + UAMAGS_reverse_a0d94 - UAMAGS - GLUR + GLUR_reverse_6b3bf
+ = 0
+ h_cx: - 2 RBPCcx_reverse_6742e + 2 RBPCcx - Htcx_reverse_e3f6b + Htcx
+ - HCO3E_1_cx + HCO3E_1_cx_reverse_3a8f8 = 0
+ dutp_c: - DCTPD_reverse_a48d6 + DCTPD + NDPK6 - NDPK6_reverse_d41ea = 0
+ paps_c: - ADSK_reverse_6806d + ADSK + BPNT2_reverse_ab8bb - BPNT2
+ - PAPSR + PAPSR_reverse_75961 = 0
+ mg2_c: - MG2uabcpp_reverse_adeed + MG2uabcpp - MPML
+ + MPML_reverse_2bf21 + CHLADMT - CHLADMT_reverse_2790a = 0
+ hdeACP_c: + G3PAT161_reverse_1ef08 - G3PAT161 + DESAT16a
+ - DESAT16a_reverse_7f95a - AGPAT161 + AGPAT161_reverse_debc5
+ - AGPATACP_OLE_HDE + AGPATACP_OLE_HDE_reverse_d491a = 0
+ o2_c: + NGAM_reverse_0959e - NGAM + FDH6_reverse_bc29e - FDH6
+ + ZXANHX_reverse_a99d5 - ZXANHX + ALDDC17_reverse_1b5d0 - ALDDC17
+ + GLYCOX1_reverse_b84e6 - GLYCOX1 + PHEOX_reverse_c1df7 - PHEOX
+ + MPOMOR_reverse_ad3a7 - MPOMOR + CPPPGO_reverse_f858f - CPPPGO
+ + CYTBD4um_reverse_0a2a0 - CYTBD4um + BCAROHX_reverse_82eaa - BCAROHX
+ + MPOMMM_reverse_30349 - MPOMMM + GLXO3r_reverse_9f4c1 - GLXO3r
+ + CYOOum_reverse_37909 - CYOOum + PRE3BS_reverse_ea947 - PRE3BS
+ - O2tu_reverse_2d1e7 + O2tu + DMBZIDS2_reverse_6417b - DMBZIDS2
+ + 0.01 PSIum_reverse_43c5e - 0.01 PSIum - DESAT18a
+ + DESAT18a_reverse_fd859 - NOR + NOR_reverse_11d45 - O2tcx
+ + O2tcx_reverse_6b2f8 - 3 HOXGfx + 3 HOXGfx_reverse_2964c - MEHLER
+ + MEHLER_reverse_20c70 + O2tpp - O2tpp_reverse_28c7e - CYTBD4cm
+ + CYTBD4cm_reverse_64e50 - 3 PPPGO2 + 3 PPPGO2_reverse_79864 - PROHX
+ + PROHX_reverse_27f44 - PDX5POi + PDX5POi_reverse_797dd - BCAROHX2
+ + BCAROHX2_reverse_888eb - ASPO6 + ASPO6_reverse_ec15c + SPODM
+ - SPODM_reverse_2648f - ZDS + ZDS_reverse_25837 - DESAT16a
+ + DESAT16a_reverse_7f95a - MPOMC1 + MPOMC1_reverse_5b08b + CAT
+ - CAT_reverse_c01ae - ARD + ARD_reverse_1e910 - CXANHX
+ + CXANHX_reverse_34809 - PSICRum + PSICRum_reverse_31595 = 0
+ anth_c: + ANS - ANS_reverse_4e062 - ANPRT + ANPRT_reverse_e2684 + ANS2
+ - ANS2_reverse_5a40c = 0
+ dhpt_c: + DHFS_reverse_f7920 - DHFS + FOLD3 - FOLD3_reverse_4bc58 = 0
+ thex2eACP_c: + EAR60y_reverse_02e5e - EAR60y + x_61 - x_62 = 0
+ fmn_c: + FMNRy_reverse_1ba9b - FMNRy - RBFK_reverse_8faa7 + RBFK - AFAT
+ + AFAT_reverse_951b7 = 0
+ pppi_c: - PTHPS_reverse_272ea + PTHPS + PPK2r - PPK2r_reverse_30874
+ + CYRDAAT - CYRDAAT_reverse_d0652 + CPH4S - CPH4S_reverse_542c3 = 0
+ udp_c: - UAGPT3_reverse_7f3f7 + UAGPT3 - ACMAMT_reverse_098cf + ACMAMT
+ - GLUDGS_OLE_PALM_reverse_da027 + GLUDGS_OLE_PALM
+ - GLUDGS_HDE_HDE_reverse_66701 + GLUDGS_HDE_HDE
+ - DGDGS_OLE_HDE_reverse_ee8ff + DGDGS_OLE_HDE
+ - DGDGS_HDE_PALM_reverse_d95be + DGDGS_HDE_PALM
+ - SQDGS_PALM_PALM_reverse_eec5a + SQDGS_PALM_PALM
+ - LPADSS2_reverse_9cafc + LPADSS2 + NDPK2_reverse_10df6 - NDPK2 + SPS
+ - SPS_reverse_5835b + UMPK - UMPK_reverse_ae8e3 - RNDR4
+ + RNDR4_reverse_aff84 + THBTGT - THBTGT_reverse_0885a + SQDGS_HDE_PALM
+ - SQDGS_HDE_PALM_reverse_af549 + DGDGS_HDE_HDE
+ - DGDGS_HDE_HDE_reverse_c88d1 + GLUDGS_HDE_PALM
+ - GLUDGS_HDE_PALM_reverse_99a1b + GLUDGS_OLE_HDE
+ - GLUDGS_OLE_HDE_reverse_ab756 + DGDGS_OLE_PALM
+ - DGDGS_OLE_PALM_reverse_e6526 + 0.3774 OANTS
+ - 0.3774 OANTS_reverse_6b135 + CELLSYN - CELLSYN_reverse_287bb = 0
+ cit_c: - CS_reverse_8d7e9 + CS + ACONT_reverse_7c2d5 - ACONT = 0
+ acACP_c: - ACOATA_reverse_8c02f + ACOATA + KAS14_reverse_25582 - KAS14
+ = 0
+ uama_c: - UAMAS_reverse_2b5e6 + UAMAS + UAMAGS_reverse_a0d94 - UAMAGS
+ = 0
+ eig3p_c: + IGPDH_reverse_b1a3c - IGPDH + IG3PS - IG3PS_reverse_12008
+ = 0
+ r_50: - IPMD_reverse_d7a5e + IPMD - OMCDC + OMCDC_reverse_74477 = 0
+ lys__L_c: + DAPDC - DAPDC_reverse_d3ab8 - LYSTRS + LYSTRS_reverse_d3497
+ = 0
+ r_52: + PGK - PGK_reverse_02696 - GAPDi_nadp + GAPDi_nadp_reverse_782a6
+ + GAPD - GAPD_reverse_459c1 = 0
+ gmp_c: - GMPS2_reverse_aa6c4 + GMPS2 - ADOCBLS_reverse_005a5 + ADOCBLS
+ + GK1_reverse_11a40 - GK1 + NTPP2 - NTPP2_reverse_bff4f = 0
+ utp_c: + UAGDP_reverse_a5ec0 - UAGDP - DCTPD2_reverse_164e0 + DCTPD2
+ - NDPK2_reverse_10df6 + NDPK2 + GALUi_reverse_c40d5 - GALUi - NTPP8
+ + NTPP8_reverse_ce3f8 - 0.69466 BM_RNA + 0.69466 BM_RNA_reverse_81982
+ - CTPS2 + CTPS2_reverse_9c0ad = 0
+ trdrd_c: + RNDR4_reverse_aff84 - RNDR4 - TRDRf_reverse_45a8b + TRDRf
+ - TRDR_reverse_6372e + TRDR + PAPSR_reverse_75961 - PAPSR
+ + RNDR3_reverse_bc84a - RNDR3 + RNDR1_reverse_f4be1 - RNDR1 - RNDR2
+ + RNDR2_reverse_7df82 = 0
+ so4_c: + SADT_reverse_91e08 - SADT + SULabcpp - SULabcpp_reverse_40679
+ = 0
+ r_57: - DHPPDA_reverse_11c00 + DHPPDA - APRAUR + APRAUR_reverse_e674d
+ = 0
+ hmppp9_c: - MPOMMM + MPOMMM_reverse_30349 + MPOMC1
+ - MPOMC1_reverse_5b08b = 0
+ pydx5p_c: + 0.022 BM_COFACTORS_reverse_ee9a6 - 0.022 BM_COFACTORS
+ + PDX5POi - PDX5POi_reverse_797dd = 0
+ r_60: + DPR_reverse_691d8 - DPR + MOHMT - MOHMT_reverse_83ce0 = 0
+ ade_c: + x_55 - s_56 + MTAP - MTAP_reverse_96009 - ADPT
+ + ADPT_reverse_567cf + SAMTRI - SAMTRI_reverse_06c4c = 0
+ asp__L_c: + ASPO5_reverse_4d759 - ASPO5 + ASPTRS_reverse_8f6e6 - ASPTRS
+ + ARGSS_reverse_5760d - ARGSS + ASNS1_reverse_90309 - ASNS1
+ + ASPK_reverse_115d7 - ASPK + ASPO6_reverse_ec15c - ASPO6
+ + ASP1DC_reverse_5dad1 - ASP1DC + ASPTA_reverse_36525 - ASPTA + ASNN
+ - ASNN_reverse_515f8 - ASPCT + ASPCT_reverse_c18b9 - PRASCSi
+ + PRASCSi_reverse_11704 - ADSS + ADSS_reverse_c75bb = 0
+ r_63: + SHCHCS3_reverse_fb361 - SHCHCS3 + SEPHCHCS
+ - SEPHCHCS_reverse_cb185 = 0
+ acg5p_c: + ACGK - ACGK_reverse_684be + AGPR - AGPR_reverse_5dce4 = 0
+ gdp_c: - 720 NGAM_D1um_reverse_1ddad + 720 NGAM_D1um
+ - 2.2481 OANTS_reverse_6b135 + 2.2481 OANTS
+ - 0.3128 ICLIPAS_reverse_5cd81 + 0.3128 ICLIPAS - ADSS_reverse_c75bb
+ + ADSS - 18.0398 BM_PROTEIN_reverse_4f8b8 + 18.0398 BM_PROTEIN
+ - GK1_reverse_11a40 + GK1 - NDPK1 + NDPK1_reverse_9216a - RNDR2
+ + RNDR2_reverse_7df82 = 0
+ hgbyr_c: - PC8XM_reverse_8cde7 + PC8XM + HGYDAS_reverse_bc303 - HGYDAS
+ = 0
+ palmACP_c: + G3PAT160_reverse_446d0 - G3PAT160 + s_946 - x_945
+ - EAR160y_reverse_e0622 + EAR160y - DESAT16a + DESAT16a_reverse_7f95a
+ - AGPAT160 + AGPAT160_reverse_22d12 - AGPATACP_HDE_PALM
+ + AGPATACP_HDE_PALM_reverse_dfda5 - AGPATACP_OLE_PALM
+ + AGPATACP_OLE_PALM_reverse_2ce3a = 0
+ pser__L_c: - PSP_L + PSP_L_reverse_cfa3c + PSERT - PSERT_reverse_cbee4
+ = 0
+ ocACP_c: - EAR80y_reverse_2df0a + EAR80y + s_880 - x_879 - LIPOCT
+ + LIPOCT_reverse_0078e = 0
+ dttp_c: - G1PTT + G1PTT_reverse_acd22 - 0.7237 BM_DNA
+ + 0.7237 BM_DNA_reverse_0ba5c + NDPK4 - NDPK4_reverse_9a1c8 = 0
+ suc6p_c: + SPS - SPS_reverse_5835b - SPP + SPP_reverse_a434e = 0
+ r_72: - GND + GND_reverse_eec5c + PGL - PGL_reverse_2bb6b = 0
+ gcald_c: - DHNPA_1_reverse_b1649 + DHNPA_1 + GCALDDy_reverse_2af46
+ - GCALDDy = 0
+ r_74: + MECDPS_reverse_8baa5 - MECDPS + CDPMEK - CDPMEK_reverse_01872
+ = 0
+ cmp_c: - PPNCL2_reverse_a65ee + PPNCL2 + CYTK1_reverse_2fa21 - CYTK1
+ + MECDPS - MECDPS_reverse_8baa5 + PGPS_OLE_PALM
+ - PGPS_OLE_PALM_reverse_108ca + MOAT - MOAT_reverse_0fdf8 = 0
+ bm_pro_c: - BM_PROTEIN_reverse_4f8b8 + BM_PROTEIN - 0.5099 BOF
+ + 0.5099 BOF_reverse_2629d = 0
+ pi_c: - OPAH_reverse_607f0 + OPAH - Htabcpp_reverse_13163 + Htabcpp
+ - s_1614 + x_1613 - DALAabcpp_reverse_0bf96 + DALAabcpp - s_1600
+ + x_1599 - UM4PL_reverse_c309d + UM4PL - OANTIabcpp_reverse_ccec6
+ + OANTIabcpp - SPP_reverse_a434e + SPP - CCGS_reverse_3ff79 + CCGS
+ - OCBT_reverse_f5568 + OCBT - PEPC_reverse_66f39 + PEPC
+ - MPML_reverse_2bf21 + MPML - ADSS_reverse_c75bb + ADSS
+ - 2 PIuabcpp_reverse_c4f9b + 2 PIuabcpp + 3 ATPSum_reverse_7df19
+ - 3 ATPSum - NI2uabcpp_reverse_db325 + NI2uabcpp
+ - FE3abcpp_reverse_4aad8 + FE3abcpp - DHQS_reverse_3d16b + DHQS
+ - 2 PPA_reverse_c5293 + 2 PPA - Kabcpp_reverse_35f86 + Kabcpp
+ - 4 ADCYRS_reverse_3513c + 4 ADCYRS - BCT1_syn_reverse_8b530 + BCT1_syn
+ - PTRCabcpp_reverse_96b27 + PTRCabcpp - UAGCVT_reverse_ba1ab + UAGCVT
+ - BPNT2_reverse_ab8bb + BPNT2 - UAMAS_reverse_2b5e6 + UAMAS
+ - MNabc_1_reverse_d9c27 + MNabc_1 - GLNabcpp_reverse_c0546 + GLNabcpp
+ - RZ5PP_reverse_b2942 + RZ5PP - GAPDi_nadp_reverse_782a6 + GAPDi_nadp
+ - PDX5PS2_reverse_cfb17 + PDX5PS2 - METAT_reverse_793ef + METAT
+ - ARGabcpp_reverse_2f37a + ARGabcpp - SPMDabcpp_reverse_7abfe
+ + SPMDabcpp - GLUCYS_reverse_f13d6 + GLUCYS - 2 HGYDAS_reverse_bc303
+ + 2 HGYDAS - PRAIS_reverse_8e616 + PRAIS - NTD6_reverse_c5bce + NTD6
+ - MI3PP_reverse_1228d + MI3PP - ADCPS2_reverse_34636 + ADCPS2
+ - PPS_reverse_1c319 + PPS + PPKr_reverse_7720e - PPKr
+ - SULabcpp_reverse_40679 + SULabcpp - SBP_reverse_78d5c + SBP
+ - ATPM_reverse_5b752 + ATPM - DHFS_reverse_f7920 + DHFS
+ - PSP_L_reverse_cfa3c + PSP_L - ZNabcpp_reverse_14d34 + ZNabcpp
+ - NAMNPP_reverse_ebb31 + NAMNPP - THRS_reverse_a994c + THRS
+ + MTAP_reverse_96009 - MTAP - AIRC2_reverse_50d74 + AIRC2
+ - G5SD_reverse_af8c0 + G5SD - LEUabcpp_reverse_ab30a + LEUabcpp
+ - PRAGSr_reverse_fd2d8 + PRAGSr + QULNS - QULNS_reverse_66da1 + GLNS
+ - GLNS_reverse_59581 + Cobalt2abcppI - Cobalt2abcppI_reverse_894f2
+ + COCHL - COCHL_reverse_a39d4 + ALAALAr - ALAALAr_reverse_18faa - GLCP2
+ + GLCP2_reverse_550c1 + 30 BOF - 30 BOF_reverse_2629d + ASADi
+ - ASADi_reverse_c6412 + PSCVT - PSCVT_reverse_1a852 + UAMAGS
+ - UAMAGS_reverse_a0d94 + CHORS - CHORS_reverse_17772 + ASPCT
+ - ASPCT_reverse_c18b9 + 2 DPOR - 2 DPOR_reverse_8b09e + ACCOAC
+ - ACCOAC_reverse_9d1cd + DNMPPA - DNMPPA_reverse_131b7 + GART
+ - GART_reverse_61742 + CA2abcpp - CA2abcpp_reverse_aa3d6 + PMDPHT
+ - PMDPHT_reverse_8a0fd + RBFSa - RBFSa_reverse_61d96 + CBPS
+ - CBPS_reverse_80907 + DDPA - DDPA_reverse_575e8 + FBP
+ - FBP_reverse_bf2c9 + NTD7 - NTD7_reverse_20dab - AGPR
+ + AGPR_reverse_5dce4 + MG2uabcpp - MG2uabcpp_reverse_adeed - PKETX
+ + PKETX_reverse_c5cd4 + PRASCSi - PRASCSi_reverse_11704 - PKETF
+ + PKETF_reverse_d46d1 + PGLYCP - PGLYCP_reverse_9063f + HISTP
+ - HISTP_reverse_5e409 + CUabcpp - CUabcpp_reverse_119a1 + CYNTtabcpp
+ - CYNTtabcpp_reverse_c4528 + PRFGS - PRFGS_reverse_db4e5 + NO3abcpp
+ - NO3abcpp_reverse_79978 + MOBDabcpp - MOBDabcpp_reverse_4be38
+ + 27.0597 BM_PROTEIN - 27.0597 BM_PROTEIN_reverse_4f8b8 + UAAGDS
+ - UAAGDS_reverse_313a9 + CTPS2 - CTPS2_reverse_9c0ad + GTHS
+ - GTHS_reverse_172f9 + UGMDDS - UGMDDS_reverse_2401f - GAPD
+ + GAPD_reverse_459c1 + BPNT - BPNT_reverse_53108 + ENOPH
+ - ENOPH_reverse_b1c96 + DBTS - DBTS_reverse_b5da6 + PAPA160
+ - PAPA160_reverse_c64df + PAPA_HDE_PALM - PAPA_HDE_PALM_reverse_64217
+ + PAPA161 - PAPA161_reverse_1bc33 + PAPA_OLE_HDE
+ - PAPA_OLE_HDE_reverse_e662c + PAPA_OLE_PALM
+ - PAPA_OLE_PALM_reverse_d17e1 + PGPP_OLE_PALM
+ - PGPP_OLE_PALM_reverse_c21ff + KDOPS - KDOPS_reverse_d4842 + KDOPP
+ - KDOPP_reverse_c38fd + ICLIPAabcpp - ICLIPAabcpp_reverse_54b98
+ + COLIPAabcex - COLIPAabcex_reverse_d4779 + UM3PL - UM3PL_reverse_32754
+ + UDCPDP - UDCPDP_reverse_1813b + ALAALAabcpp
+ - ALAALAabcpp_reverse_75b27 + NO2tabcpp - NO2tabcpp_reverse_5b0e7
+ + 1080 NGAM_D1um - 1080 NGAM_D1um_reverse_1ddad = 0
+ pnto__R_c: + PNTK_reverse_236b6 - PNTK + PANTS - PANTS_reverse_11dcb
+ = 0
+ dump_c: + TMDS3_reverse_bd1fa - TMDS3 - URIDK2r + URIDK2r_reverse_1aa74
+ = 0
+ omppp9_c: - MPOMMM_reverse_30349 + MPOMMM - MPOMOR
+ + MPOMOR_reverse_ad3a7 = 0
+ r_81: - KARI_23dhmp_reverse_d9e1b + KARI_23dhmp - DHAD2
+ + DHAD2_reverse_755c6 = 0
+ gtp_c: + 720 NGAM_D1um_reverse_1ddad - 720 NGAM_D1um
+ + 18.0398 BM_PROTEIN_reverse_4f8b8 - 18.0398 BM_PROTEIN
+ + NTPP2_reverse_bff4f - NTPP2 + ACBIPGT_reverse_bcc45 - ACBIPGT
+ + GTPCI_reverse_1ee86 - GTPCI - MAN1PT + MAN1PT_reverse_c317b - GTPCII
+ + GTPCII_reverse_a84d9 + NDPK1 - NDPK1_reverse_9216a - ADSS
+ + ADSS_reverse_c75bb - 0.86375 BM_RNA + 0.86375 BM_RNA_reverse_81982
+ = 0
+ r_83: + DDPGA_reverse_8028f - DDPGA + EHGLAT - EHGLAT_reverse_8439b = 0
+ prfp_c: - PRAMPC_reverse_54696 + PRAMPC - PRMICI + PRMICI_reverse_af0a9
+ = 0
+ man1p_c: - MAN1PT + MAN1PT_reverse_c317b + MPPM - MPPM_reverse_b1b35
+ = 0
+ dxyl5p_c: + DXYTST_reverse_72484 - DXYTST + DXPRIi_reverse_85956
+ - DXPRIi + DXPS - DXPS_reverse_86aca - PDX5PS2 + PDX5PS2_reverse_cfb17
+ = 0
+ r_87: + x_1020 - x_1019 - x_112 + x_111 = 0
+ cu2_c: + CUabcpp - CUabcpp_reverse_119a1 = 0
+ malACP_c: + KAS15_reverse_6f7fb - KAS15 + OPMEACPS_reverse_e3f2d
+ - OPMEACPS + s_946 - x_945 + s_740 - x_739 + s_300 - x_299 - KAS14
+ + KAS14_reverse_25582 - x_481 + s_482 + MCOATA - MCOATA_reverse_d10f2
+ - x_787 + s_788 - x_879 + s_880 - x_1025 + s_1026 - OGMEACPS
+ + OGMEACPS_reverse_13b17 = 0
+ r_90: - TMPPP + TMPPP_reverse_f275c + PMPK - PMPK_reverse_48b12 = 0
+ r_91: - ARGOXRum_reverse_9f603 + ARGOXRum = 0
+ phpyr_c: - PPNDH_reverse_58300 + PPNDH + PHETA1 - PHETA1_reverse_9d47a
+ = 0
+ fe2_c: + SHS1_reverse_92a6f - SHS1 + HOXGfx - HOXGfx_reverse_2964c
+ - 0.6518 BM_COFACTORS + 0.6518 BM_COFACTORS_reverse_ee9a6 - FCLT
+ + FCLT_reverse_1a6b6 + 2 TRNFE - 2 TRNFE_reverse_f6e07 = 0
+ phyQ_c: + 0.0169 BM_COFACTORS_reverse_ee9a6 - 0.0169 BM_COFACTORS
+ - AMPQT_reverse_441c1 + AMPQT = 0
+ toct2eACP_c: - x_326 + x_325 - EAR80y + EAR80y_reverse_2df0a = 0
+ dgdp_c: - NDPK5 + NDPK5_reverse_6973f + RNDR2 - RNDR2_reverse_7df82 = 0
+ uaccg_c: + UAPGR_reverse_4f67b - UAPGR + UAGCVT - UAGCVT_reverse_ba1ab
+ = 0
+ acald_c: - CPH4S_reverse_542c3 + CPH4S - ALDD2y_reverse_03afb + ALDD2y
+ = 0
+ o2s_c: + 2 SPODM_reverse_2648f - 2 SPODM - 0.01 PSIum_reverse_43c5e
+ + 0.01 PSIum + PSICRum - PSICRum_reverse_31595 = 0
+ phytfl_c: - PDS1_reverse_1e20b + PDS1 - PDS2 + PDS2_reverse_c1831 = 0
+ alac__S_c: + KARA1i_reverse_af5a6 - KARA1i - ACLSb_reverse_588fa
+ + ACLSb = 0
+ r_102: - KARI_23dhmp + KARI_23dhmp_reverse_d9e1b + KARI
+ - KARI_reverse_7fbc9 = 0
+ r_103: + FOLD3_reverse_4bc58 - FOLD3 - ADCL_reverse_0051f + ADCL = 0
+ prbamp_c: - PRATPP_reverse_99bf0 + PRATPP + PRAMPC_reverse_54696
+ - PRAMPC = 0
+ ca2_c: + CA2abcpp - CA2abcpp_reverse_aa3d6 - CA2t2pp
+ + CA2t2pp_reverse_81d82 = 0
+ glyclt_c: + GLYCLTDx_reverse_d2f71 - GLYCLTDx - PGLYCP_reverse_9063f
+ + PGLYCP + GCALDDy - GCALDDy_reverse_2af46 = 0
+ butACP_c: - EAR40y_reverse_0f912 + EAR40y - x_787 + s_788 = 0
+ r_108: - PPNCL3_reverse_cd065 + PPNCL3 + PPCDC_reverse_39306 - PPCDC
+ - PPNCL2_reverse_a65ee + PPNCL2 = 0
+ udpgal_c: + 0.2775 OANTS_reverse_6b135 - 0.2775 OANTS
+ + DGDGS_OLE_PALM_reverse_e6526 - DGDGS_OLE_PALM
+ + DGDGS_OLE_HDE_reverse_ee8ff - DGDGS_OLE_HDE
+ + DGDGS_HDE_HDE_reverse_c88d1 - DGDGS_HDE_HDE
+ + DGDGS_HDE_PALM_reverse_d95be - DGDGS_HDE_PALM - UDPG4E_reverse_08c7f
+ + UDPG4E = 0
+ f6p_c: - G6PDA_reverse_74cec + G6PDA - MAN6PI_reverse_d96f0 + MAN6PI
+ + PKETF_reverse_d46d1 - PKETF - FBP_reverse_bf2c9 + FBP
+ + GF6PTA_reverse_21fb1 - GF6PTA - TALA_reverse_adfda + TALA + PGI
+ - PGI_reverse_27efc - SPS + SPS_reverse_5835b + TKT2
+ - TKT2_reverse_7ebc7 + HEX7 - HEX7_reverse_f7d4e - PFK
+ + PFK_reverse_d24a6 = 0
+ lac__D_c: + DM_lac__D_c_reverse_357de - DM_lac__D_c
+ - ACM6PH_reverse_cff51 + ACM6PH - GLYOX_reverse_6ab0a + GLYOX - LDH_D
+ + LDH_D_reverse_f8507 = 0
+ his__L_c: + HISTDb - HISTDb_reverse_acd55 - HISTRS
+ + HISTRS_reverse_a6df2 = 0
+ agdpcbi_c: - ADOCBLS + ADOCBLS_reverse_005a5 + ACBIPGT
+ - ACBIPGT_reverse_bcc45 = 0
+ s17bp_c: + FBA3_reverse_0d49f - FBA3 - PFK_3_reverse_037e0 + PFK_3
+ - SBP + SBP_reverse_78d5c = 0
+ dctp_c: + 0.89986 BM_DNA_reverse_0ba5c - 0.89986 BM_DNA
+ + DCTPD_reverse_a48d6 - DCTPD - NDPK7_reverse_9dc79 + NDPK7 = 0
+ thf_c: - FMETTRS_reverse_3b6c6 + FMETTRS - DHFR_reverse_65c32 + DHFR
+ - TMDS3_reverse_bd1fa + TMDS3 + 0.0214 BM_COFACTORS_reverse_ee9a6
+ - 0.0214 BM_COFACTORS - METS_reverse_af81e + METS - GARFT_reverse_7ecb6
+ + GARFT - GLYCL + GLYCL_reverse_e418f + AICART - AICART_reverse_b7b59
+ + MOHMT - MOHMT_reverse_83ce0 + FTHFD - FTHFD_reverse_44321 - GHMT2r
+ + GHMT2r_reverse_d977f = 0
+ r_117: - PRASCSi_reverse_11704 + PRASCSi - ADSL2r
+ + ADSL2r_reverse_42348 = 0
+ ni2_c: + NI2uabcpp - NI2uabcpp_reverse_db325 = 0
+ dtdp4d6dg_c: - TDPGDH_reverse_f570d + TDPGDH - TDPDRE
+ + TDPDRE_reverse_26405 = 0
+ malcoa_c: + MALCOAMT_reverse_1031e - MALCOAMT + MCOATA_reverse_d10f2
+ - MCOATA - ACCOAC_reverse_9d1cd + ACCOAC = 0
+ fum_c: + DM_fum_c_reverse_dd639 - DM_fum_c - ADSL2r_reverse_42348
+ + ADSL2r - ARGSL_reverse_1b949 + ARGSL + FUM_reverse_d3642 - FUM
+ + ADSL1r - ADSL1r_reverse_2ae14 + SUCDum - SUCDum_reverse_abf66 - ASPO5
+ + ASPO5_reverse_4d759 = 0
+ bm_cw_c: - BM_CELL_WALL_reverse_c47ee + BM_CELL_WALL - 0.0793 BOF
+ + 0.0793 BOF_reverse_2629d = 0
+ ACP_c: - AGPATACP_OLE_PALM_reverse_2ce3a + AGPATACP_OLE_PALM
+ - AGPAT161_reverse_debc5 + AGPAT161 - AGPAT160_reverse_22d12 + AGPAT160
+ - G3PAT1819Z_reverse_56ab2 + G3PAT1819Z - G3PAT161_reverse_1ef08
+ + G3PAT161 - G3PAT160_reverse_446d0 + G3PAT160 - ALDR18_reverse_34ff9
+ + ALDR18 + AACPS6_reverse_8fda3 - AACPS6 - AOXSr2_reverse_0c982
+ + AOXSr2 - s_1026 + x_1025 - s_946 + x_945 - s_880 + x_879 - s_788
+ + x_787 - s_740 + x_739 - UAGAAT2_reverse_8209e + UAGAAT2 - s_482
+ + x_481 - s_300 + x_299 + ACOATA_reverse_8c02f - ACOATA + KAS14
+ - KAS14_reverse_25582 + U23GAAT2 - U23GAAT2_reverse_387ef - MCOATA
+ + MCOATA_reverse_d10f2 + OPMEACPS - OPMEACPS_reverse_e3f2d + LIPOCT
+ - LIPOCT_reverse_0078e + AGPATACP_HDE_PALM
+ - AGPATACP_HDE_PALM_reverse_dfda5 + AGPATACP_OLE_HDE
+ - AGPATACP_OLE_HDE_reverse_d491a = 0
+ mlthf_c: + TMDS3_reverse_bd1fa - TMDS3
+ + 0.0214 BM_COFACTORS_reverse_ee9a6 - 0.0214 BM_COFACTORS
+ + MTHFD_reverse_c10fd - MTHFD + GLYCL - GLYCL_reverse_e418f - MOHMT
+ + MOHMT_reverse_83ce0 - MTHFR3_1 + MTHFR3_1_reverse_1a948 + GHMT2r
+ - GHMT2r_reverse_d977f = 0
+ h_p: + Htabcpp_reverse_13163 - Htabcpp + AGMt2pp_reverse_23bf9
+ - AGMt2pp + AGM4Pt2pp_reverse_58aad - AGM4Pt2pp
+ - 4 CYTBD4cm_reverse_64e50 + 4 CYTBD4cm - Htex_reverse_6f9a4 + Htex
+ - NAt3ipp + NAt3ipp_reverse_c262c + CLt3_1pp - CLt3_1pp_reverse_6d6d0
+ - MNHNAtpp + MNHNAtpp_reverse_59fe7 + PCXHtpp - PCXHtpp_reverse_77e96
+ = 0
+ dhf_c: - DHFS_reverse_f7920 + DHFS - DHFR + DHFR_reverse_65c32 = 0
+ dudp_c: - URIDK2r_reverse_1aa74 + URIDK2r - RNDR4_reverse_aff84 + RNDR4
+ - NDPK6 + NDPK6_reverse_d41ea = 0
+ r_128: + x_340 - x_339 + x_299 - s_300 = 0
+ trnaglu_c: + GLUTRR - GLUTRR_reverse_355d5 - GLUTRS
+ + GLUTRS_reverse_b214d + 0.5465 BM_PROTEIN
+ - 0.5465 BM_PROTEIN_reverse_4f8b8 = 0
+ pre6a_c: - PC6AR_reverse_0549d + PC6AR - PC6AS_reverse_590fa + PC6AS
+ = 0
+ ametam_c: + SPMS_reverse_92c51 - SPMS + ADMDC - ADMDC_reverse_e2782
+ - SPRMS + SPRMS_reverse_ffb14 = 0
+ r_132: - x_68 + x_67 + x_62 - x_61 = 0
+ r_133: + PPNCL2_reverse_a65ee - PPNCL2 - PNTK_reverse_236b6 + PNTK
+ - PPNCL3 + PPNCL3_reverse_cd065 = 0
+ quln_c: + QULNS - QULNS_reverse_66da1 - NNDPR + NNDPR_reverse_445ff = 0
+ frdp_c: + HEMEOS_reverse_b63ba - HEMEOS + UDCPDPS_reverse_04082
+ - UDCPDPS + GRTT - GRTT_reverse_f3afe - FRTT + FRTT_reverse_5200c = 0
+ glyald_c: + ALCD19_reverse_d90b5 - ALCD19 + GLYALDDy_reverse_7e106
+ - GLYALDDy = 0
+ uacgam_c: + UAGAAT2_reverse_8209e - UAGAAT2 - UAGCVT
+ + UAGCVT_reverse_ba1ab + UAGDP - UAGDP_reverse_a5ec0 - UAG2E
+ + UAG2E_reverse_83643 - ACGAMT + ACGAMT_reverse_2307a - UAGPT3
+ + UAGPT3_reverse_7f3f7 = 0
+ pram_c: - PRAGSr + PRAGSr_reverse_fd2d8 + GLUPRT - GLUPRT_reverse_1f180
+ = 0
+ r_139: - DAPE_reverse_e08be + DAPE - DAPDC + DAPDC_reverse_d3ab8
+ - UAAGDS + UAAGDS_reverse_313a9 + LADGMDH - LADGMDH_reverse_f7b48 = 0
+ gdpmann_c: + GMAND_reverse_b3087 - GMAND + MAN1PT
+ - MAN1PT_reverse_c317b - 2.2481 OANTS + 2.2481 OANTS_reverse_6b135 = 0
+ db4p_c: - DB4PS_reverse_43dd1 + DB4PS - RBFSa + RBFSa_reverse_61d96 = 0
+ norsp_c: - NOR + NOR_reverse_11d45 + ZDS - ZDS_reverse_25837 = 0
+ actACP_c: - x_850 + x_849 + KAS14 - KAS14_reverse_25582 + KAS15
+ - KAS15_reverse_6f7fb = 0
+ actp_c: - PKETF_reverse_d46d1 + PKETF - PKETX_reverse_c5cd4 + PKETX
+ - ACKr_reverse_b49c0 + ACKr = 0
+ ugmd_c: - UAAGDS_reverse_313a9 + UAAGDS - UGMDDS + UGMDDS_reverse_2401f
+ + UM3PL - UM3PL_reverse_32754 + UM4PCP - UM4PCP_reverse_86d06 = 0
+ s7p_c: + TALA_reverse_adfda - TALA + PFK_3_reverse_037e0 - PFK_3 + SBP
+ - SBP_reverse_78d5c + TKT1 - TKT1_reverse_a1021 = 0
+ cbm_c: - CYNL_reverse_91a39 + CYNL + CBMD_reverse_4f3e7 - CBMD = 0
+ co2_c: - KAS15_reverse_6f7fb + KAS15 + NDH~1(3)um_reverse_d4f81
+ - NDH~1(3)um - UDPGLDC_reverse_6bd69 + UDPGLDC + DBTS_reverse_b5da6
+ - DBTS - AOXSr2_reverse_0c982 + AOXSr2 - OPMEACPS_reverse_e3f2d
+ + OPMEACPS - OGMEACPS_reverse_13b17 + OGMEACPS - CO2tpp_reverse_d9a27
+ + CO2tpp - s_1026 + x_1025 - ICDHyr_reverse_7f84b + ICDHyr - s_946
+ + x_945 - THRPD_reverse_0dc99 + THRPD - s_788 + x_787 - s_740 + x_739
+ - PC6YM_reverse_82472 + PC6YM - ME2_reverse_2b0a2 + ME2
+ - PPNDH_reverse_58300 + PPNDH - PROHX_reverse_27f44 + PROHX
+ - ASP1DC_reverse_5dad1 + ASP1DC - ACLSa_reverse_75fb2 + ACLSa
+ - CBMD_reverse_4f3e7 + CBMD - TMPPP_reverse_f275c + TMPPP
+ - DHNANT_reverse_39a88 + DHNANT - DAPDC_reverse_d3ab8 + DAPDC
+ - AOXPBDC_reverse_81d1e + AOXPBDC - CMPA_reverse_ae497 + CMPA
+ - KAS14_reverse_25582 + KAS14 - 4 UPPDC1_reverse_cb592 + 4 UPPDC1
+ + ORNDC - ORNDC_reverse_63596 + GLYCL - GLYCL_reverse_e418f + GND
+ - GND_reverse_eec5c + IGPS - IGPS_reverse_feb80 + OXADC
+ - OXADC_reverse_49a15 + PPND - PPND_reverse_5463c + SEPHCHCS
+ - SEPHCHCS_reverse_cb185 + OMPDC - OMPDC_reverse_45ba1 + x_299 - s_300
+ + ADMDC - ADMDC_reverse_e2782 + PPCDC - PPCDC_reverse_39306 + 2 CPPPGO2
+ - 2 CPPPGO2_reverse_e5000 + CYNL - CYNL_reverse_91a39 + x_481 - s_482
+ + DXPS - DXPS_reverse_86aca + ARGDC - ARGDC_reverse_08faf - NDH~1(4)um
+ + NDH~1(4)um_reverse_f9189 + OMCDC - OMCDC_reverse_74477 + NNDPR
+ - NNDPR_reverse_445ff + NPHBDC - NPHBDC_reverse_8b305 + x_879 - s_880
+ + ERTHMMOR - ERTHMMOR_reverse_d7ffe + PDH - PDH_reverse_ca160
+ + 2 CPPPGO - 2 CPPPGO_reverse_f858f + PFOR - PFOR_reverse_1e1f4
+ + 2 FDH6 - 2 FDH6_reverse_bc29e = 0
+ zeax_c: - DEXZEAX_reverse_911e0 + DEXZEAX
+ + 0.08 PHOA490um_reverse_e77e7 - 0.08 PHOA490um
+ + 0.024 PHOA450um_reverse_eda8e - 0.024 PHOA450um
+ + 0.008 PHOA410um_reverse_c47f0 - 0.008 PHOA410um
+ + ZXANHX_reverse_a99d5 - ZXANHX - BCAROHX2_reverse_888eb + BCAROHX2
+ + 0.2028 BM_PIGMENTS_reverse_cb5bd - 0.2028 BM_PIGMENTS
+ - 0.012 PHOA430um + 0.012 PHOA430um_reverse_2152e - 0.08 PHOA470um
+ + 0.08 PHOA470um_reverse_13295 - 0.08 PHOA510um
+ + 0.08 PHOA510um_reverse_b693b = 0
+ ptrc_c: - CMPA_reverse_ae497 + CMPA + ORNDC - ORNDC_reverse_63596
+ - 0.0344 BM_COFACTORS + 0.0344 BM_COFACTORS_reverse_ee9a6 + PTRCabcpp
+ - PTRCabcpp_reverse_96b27 - SPMS + SPMS_reverse_92c51 = 0
+ adp_c: - ACGAMK_reverse_1e7a8 + ACGAMK - OPAH_reverse_607f0 + OPAH
+ - Htabcpp_reverse_13163 + Htabcpp - NO2tabcpp_reverse_5b0e7 + NO2tabcpp
+ - s_1614 + x_1613 - ALAALAabcpp_reverse_75b27 + ALAALAabcpp
+ - DALAabcpp_reverse_0bf96 + DALAabcpp - s_1600 + x_1599
+ - DAGK_OLE_PALM_reverse_b7767 + DAGK_OLE_PALM - DAGK161_reverse_9bfe7
+ + DAGK161 - DAGK160_reverse_0238d + DAGK160 - ADNK1_reverse_fe466
+ + ADNK1 - PHYTK_reverse_bc1a5 + PHYTK - UGMDDS_reverse_2401f + UGMDDS
+ - MPML_reverse_2bf21 + MPML - DADK_reverse_006ea + DADK
+ - GTHS_reverse_172f9 + GTHS - PIuabcpp_reverse_c4f9b + PIuabcpp
+ - HEX1_reverse_25efa + HEX1 - UAAGDS_reverse_313a9 + UAAGDS
+ - NI2uabcpp_reverse_db325 + NI2uabcpp - MOBDabcpp_reverse_4be38
+ + MOBDabcpp - FE3abcpp_reverse_4aad8 + FE3abcpp
+ - NO3abcpp_reverse_79978 + NO3abcpp - NDPK4_reverse_9a1c8 + NDPK4
+ - 2 ADK1_reverse_a6f90 + 2 ADK1 - RBFK_reverse_8faa7 + RBFK
+ - PRFGS_reverse_db4e5 + PRFGS - Kabcpp_reverse_35f86 + Kabcpp
+ - CYNTtabcpp_reverse_c4528 + CYNTtabcpp - 4 ADCYRS_reverse_3513c
+ + 4 ADCYRS - PMPK_reverse_48b12 + PMPK - MG2uabcpp_reverse_adeed
+ + MG2uabcpp - NDPK1_reverse_9216a + NDPK1 - UMPK_reverse_ae8e3 + UMPK
+ - ASPK_reverse_115d7 + ASPK - ACCOAC_reverse_9d1cd + ACCOAC
+ - 2 DPOR_reverse_8b09e + 2 DPOR - DPCOAK_reverse_56ab9 + DPCOAK
+ - 2 HGYDAS_reverse_bc303 + 2 HGYDAS - LTHRK_reverse_61b82 + LTHRK
+ - SULabcpp_reverse_40679 + SULabcpp - UAMAGS_reverse_a0d94 + UAMAGS
+ - ATPM_reverse_5b752 + ATPM - DHFS_reverse_f7920 + DHFS
+ - 30 BOF_reverse_2629d + 30 BOF - NDPK3_reverse_37ea6 + NDPK3
+ - ALAALAr_reverse_18faa + ALAALAr - GK1_reverse_11a40 + GK1
+ - ZNabcpp_reverse_14d34 + ZNabcpp - PFK_3_reverse_037e0 + PFK_3
+ - COCHL_reverse_a39d4 + COCHL - NAMNPP_reverse_ebb31 + NAMNPP
+ - Cobalt2abcppI_reverse_894f2 + Cobalt2abcppI - AIRC2_reverse_50d74
+ + AIRC2 - PGK_reverse_02696 + PGK - DTMPK_reverse_44d5a + DTMPK
+ - ACGK_reverse_684be + ACGK - SHKK_reverse_163fd + SHKK
+ - GLNS_reverse_59581 + GLNS - PRAGSr_reverse_fd2d8 + PRAGSr
+ - NDPK7_reverse_9dc79 + NDPK7 + GLCS3 - GLCS3_reverse_5e7ed + ACKr
+ - ACKr_reverse_b49c0 + PNTK - PNTK_reverse_236b6 + LEUabcpp
+ - LEUabcpp_reverse_ab30a - RNDR1 + RNDR1_reverse_f4be1 + CYTK1
+ - CYTK1_reverse_2fa21 + PPK2r - PPK2r_reverse_30874 + GLYCK
+ - GLYCK_reverse_c3ee2 + PPKr - PPKr_reverse_7720e + ADCPS2
+ - ADCPS2_reverse_34636 + NDPK2 - NDPK2_reverse_10df6 + HEX7
+ - HEX7_reverse_f7d4e + PRAIS - PRAIS_reverse_8e616 + HSK
+ - HSK_reverse_e4218 + GLUCYS - GLUCYS_reverse_f13d6 + PRUK
+ - PRUK_reverse_a0fb4 + GART - GART_reverse_61742 + SPMDabcpp
+ - SPMDabcpp_reverse_7abfe + CA2abcpp - CA2abcpp_reverse_aa3d6
+ + ARGabcpp - ARGabcpp_reverse_2f37a + GLCBRAN3 - GLCBRAN3_reverse_4cd37
+ + 2 CBPS - 2 CBPS_reverse_80907 + GLNabcpp - GLNabcpp_reverse_c0546
+ + NDPK8 - NDPK8_reverse_13dd1 + MNabc_1 - MNabc_1_reverse_d9c27 + TMPK
+ - TMPK_reverse_b7673 + CDPMEK - CDPMEK_reverse_01872 + UAMAS
+ - UAMAS_reverse_2b5e6 + GLU5K - GLU5K_reverse_0d895 + PRASCSi
+ - PRASCSi_reverse_11704 + NDPK6 - NDPK6_reverse_d41ea + PTRCabcpp
+ - PTRCabcpp_reverse_96b27 + BCT1_syn - BCT1_syn_reverse_8b530 + ADSK
+ - ADSK_reverse_6806d + CUabcpp - CUabcpp_reverse_119a1 + NDPK5
+ - NDPK5_reverse_6973f + NADK - NADK_reverse_bba52 + 9.0199 BM_PROTEIN
+ - 9.0199 BM_PROTEIN_reverse_4f8b8 - 3 ATPSum + 3 ATPSum_reverse_7df19
+ + CTPS2 - CTPS2_reverse_9c0ad + URIDK2r - URIDK2r_reverse_1aa74 - PYK
+ + PYK_reverse_bc8ff + PFK - PFK_reverse_d24a6 + DBTS
+ - DBTS_reverse_b5da6 + CCGS - CCGS_reverse_3ff79 + DAGK_HDE_PALM
+ - DAGK_HDE_PALM_reverse_f515e + DAGK_OLE_HDE
+ - DAGK_OLE_HDE_reverse_219fc + ICLIPAabcpp - ICLIPAabcpp_reverse_54b98
+ + OANTIabcpp - OANTIabcpp_reverse_ccec6 + COLIPAabcex
+ - COLIPAabcex_reverse_d4779 + UM4PL - UM4PL_reverse_c309d + UM3PL
+ - UM3PL_reverse_32754 + ANHMK - ANHMK_reverse_f8dfd + 360 NGAM_D1um
+ - 360 NGAM_D1um_reverse_1ddad = 0
+ ncam_c: + NMNS_reverse_c18e5 - NMNS = 0
+ r_153: - AOXPBDC_reverse_81d1e + AOXPBDC - PDX5PS2
+ + PDX5PS2_reverse_cfb17 = 0
+ aspsa_c: - ASADi_reverse_c6412 + ASADi + HSDyi_reverse_76518 - HSDyi
+ - H4THDPS + H4THDPS_reverse_5f722 = 0
+ tdec2eACP_c: + EAR100y_reverse_863b6 - EAR100y - x_288 + x_287 = 0
+ phom_c: + THRS_reverse_a994c - THRS + HSK - HSK_reverse_e4218 = 0
+ amylose_c: + SK_amylose_c_reverse_116da - SK_amylose_c
+ - GLCP2_reverse_550c1 + GLCP2 + GLCS3_reverse_5e7ed - GLCS3 = 0
+ r_158: + MTAP - MTAP_reverse_96009 - MTRI + MTRI_reverse_36e0d = 0
+ rb15bp_cx: + RB15BPtcx - RB15BPtcx_reverse_6fe05 - RBPCcx
+ + RBPCcx_reverse_6742e = 0
+ bcryptox_c: + BCAROHX2_reverse_888eb - BCAROHX2 + BCAROHX
+ - BCAROHX_reverse_82eaa = 0
+ spmd_c: - SPMS_reverse_92c51 + SPMS + SPRMS_reverse_ffb14 - SPRMS
+ - SPMDabcpp_reverse_7abfe + SPMDabcpp - 0.0736 BM_COFACTORS
+ + 0.0736 BM_COFACTORS_reverse_ee9a6 = 0
+ udpsq_c: - UDPSQS_reverse_7ca9b + UDPSQS - SQDGS_PALM_PALM
+ + SQDGS_PALM_PALM_reverse_eec5a - SQDGS_HDE_PALM
+ + SQDGS_HDE_PALM_reverse_af549 = 0
+ h2_c: + DM_h2_c_reverse_84240 - DM_h2_c - NAD_H2_reverse_69196 + NAD_H2
+ = 0
+ adocbip_c: - ADCPS2_reverse_34636 + ADCPS2 - ACBIPGT
+ + ACBIPGT_reverse_bcc45 = 0
+ phycy_c: + PHOA670um_reverse_26802 - PHOA670um
+ + PHOA630um_reverse_82e48 - PHOA630um + PHOA590um_reverse_5c23a
+ - PHOA590um + PHOA550um_reverse_f2fc9 - PHOA550um
+ + 0.2332 BM_PIGMENTS_reverse_cb5bd - 0.2332 BM_PIGMENTS + PHYFXOR
+ - PHYFXOR_reverse_84960 - PHOA530um + PHOA530um_reverse_77936
+ - PHOA570um + PHOA570um_reverse_ca3c7 - PHOA610um
+ + PHOA610um_reverse_5cadd - PHOA650um + PHOA650um_reverse_84ba9 + ETCPC
+ - ETCPC_reverse_26ed1 = 0
+ cbmp_c: - AGDI_reverse_0a098 + AGDI + CMPA_reverse_ae497 - CMPA = 0
+ nadh_c: - FALDH2_reverse_f1aae + FALDH2 - ERTHMMOR_reverse_d7ffe
+ + ERTHMMOR - GLYCLTDx_reverse_d2f71 + GLYCLTDx - NPHBDC_reverse_8b305
+ + NPHBDC + CYRDAR_reverse_9aae4 - CYRDAR - HTHRPDH_reverse_9ee3b
+ + HTHRPDH + 0.0043 BM_COFACTORS_reverse_ee9a6 - 0.0043 BM_COFACTORS
+ + NDHPQRum_reverse_c36b6 - NDHPQRum - PGCD_reverse_1bc76 + PGCD
+ + NAD_H2_reverse_69196 - NAD_H2 + BCAROHX2_reverse_888eb - BCAROHX2
+ - LDH_D_reverse_f8507 + LDH_D + PRE3BS_reverse_ea947 - PRE3BS
+ + DMBZIDS2_reverse_6417b - DMBZIDS2 - GLYDHDA_reverse_663d3 + GLYDHDA
+ - HISTDb_reverse_acd55 + HISTDb - 2 HEMEAS_reverse_9357a + 2 HEMEAS
+ - IMPD_reverse_6e625 + IMPD - GLYCL_reverse_e418f + GLYCL + PERD
+ - PERD_reverse_c9aa4 + PPND - PPND_reverse_5463c + HISTDa
+ - HISTDa_reverse_76147 - 2 ALDD2y + 2 ALDD2y_reverse_03afb + IPMD
+ - IPMD_reverse_d7a5e + ALAD_L - ALAD_L_reverse_4f37b - EAR180x
+ + EAR180x_reverse_fbf60 - NDHPQRcm + NDHPQRcm_reverse_d5587 + NADTRHD
+ - NADTRHD_reverse_49725 - BCAROHX + BCAROHX_reverse_82eaa + PDH
+ - PDH_reverse_ca160 + GAPD - GAPD_reverse_459c1 + E4PD
+ - E4PD_reverse_babdb - TRNFE + TRNFE_reverse_f6e07 + SHS1
+ - SHS1_reverse_92a6f + 2 UDPGD - 2 UDPGD_reverse_de167 - ALCD19
+ + ALCD19_reverse_d90b5 + ALCD1 - ALCD1_reverse_895d7 = 0
+ aps_c: + ADSK_reverse_6806d - ADSK - BPNT2_reverse_ab8bb + BPNT2
+ - SADT_reverse_91e08 + SADT = 0
+ dpcoa_c: - PTPATi_reverse_381d9 + PTPATi - DPCOAK
+ + DPCOAK_reverse_56ab9 = 0
+ xu5p__D_c: + TKT1_reverse_a1021 - TKT1 - RPE_reverse_a1b04 + RPE - TKT2
+ + TKT2_reverse_7ebc7 - PKETX + PKETX_reverse_c5cd4 = 0
+ no2_c: - NO2tabcpp_reverse_5b0e7 + NO2tabcpp - NTRARf2_reverse_5d5d6
+ + NTRARf2 + NTRIRfx_reverse_8d8c5 - NTRIRfx = 0
+ r_172: - CHRPL_reverse_46f50 + CHRPL - HBZNPT + HBZNPT_reverse_37fab
+ = 0
+ r_173: - x_137 + x_138 + x_879 - s_880 = 0
+ dhnpt_c: - DNMPPA_reverse_131b7 + DNMPPA - DHNPA_1
+ + DHNPA_1_reverse_b1649 = 0
+ r_175: + PMDPHT_reverse_8a0fd - PMDPHT - APRAUR_reverse_e674d + APRAUR
+ = 0
+ iasp_c: - ASPO5_reverse_4d759 + ASPO5 - ASPO6_reverse_ec15c + ASPO6
+ - QULNS + QULNS_reverse_66da1 - ASPOb + ASPOb_reverse_0f7c6 = 0
+ nmn_c: - NADDP_reverse_7a11e + NADDP - NMNDA + NMNDA_reverse_0dc65
+ + NMNS - NMNS_reverse_c18e5 - NMNAT + NMNAT_reverse_6a3d7 = 0
+ bm_pigm_c: + 0.0221 BOF_reverse_2629d - 0.0221 BOF
+ - BM_PIGMENTS_reverse_cb5bd + BM_PIGMENTS = 0
+ r_179: - IGPS + IGPS_reverse_feb80 + PRAIi - PRAIi_reverse_e568f = 0
+ pchlld_c: + PCHLDA650_reverse_2c126 - PCHLDA650 - DVOCHR_reverse_5b763
+ + DVOCHR + DPOR_reverse_8b09e - DPOR - PCHLDA430
+ + PCHLDA430_reverse_0e4b2 = 0
+ o2_u: - PSIIum_reverse_30799 + PSIIum - O2tu + O2tu_reverse_2d1e7 = 0
+ ala__L_c: - 2 LIPOS2_reverse_2319a + 2 LIPOS2 - BTS6_reverse_40426
+ + BTS6 - CYSDS_reverse_c49c8 + CYSDS + ALAR_reverse_77133 - ALAR
+ + SPTr_reverse_bb7b1 - SPTr + UAMAS_reverse_2b5e6 - UAMAS
+ + ALAD_L_reverse_4f37b - ALAD_L + VPAMTr_reverse_872bd - VPAMTr
+ - AOXSr2 + AOXSr2_reverse_0c982 - AGTi + AGTi_reverse_69260 - ALATRS
+ + ALATRS_reverse_de5e9 + LALGP - LALGP_reverse_4d1aa = 0
+ r_183: - IMDHT_3c2hmp_reverse_231f8 + IMDHT_3c2hmp - IPMD
+ + IPMD_reverse_d7a5e = 0
+ pyr_c: + PFOR_reverse_1e1f4 - PFOR - ANS2_reverse_5a40c + ANS2
+ + PDH_reverse_ca160 - PDH + CITMS_reverse_37134 - CITMS
+ - SHCHCS3_reverse_fb361 + SHCHCS3 + DXPS_reverse_86aca - DXPS
+ - LDH_D_reverse_f8507 + LDH_D - ME2_reverse_2b0a2 + ME2
+ - ANS_reverse_4e062 + ANS - VPAMTr_reverse_872bd + VPAMTr + CHRPL
+ - CHRPL_reverse_46f50 + ADCL - ADCL_reverse_0051f - H4THDPS
+ + H4THDPS_reverse_5f722 - ACLSa + ACLSa_reverse_75fb2 - PPS
+ + PPS_reverse_1c319 - ACLSb + ACLSb_reverse_588fa + DDPGA
+ - DDPGA_reverse_8028f + ALAD_L - ALAD_L_reverse_4f37b + SPTr
+ - SPTr_reverse_bb7b1 + PYK - PYK_reverse_bc8ff + AGTi
+ - AGTi_reverse_69260 = 0
+ hco3_c: - NDH~1(3)um_reverse_d4f81 + NDH~1(3)um + PEPC_reverse_66f39
+ - PEPC + HCO3tcx_reverse_7ac35 - HCO3tcx - NDH~1(4)um_reverse_f9189
+ + NDH~1(4)um + CBPS_reverse_80907 - CBPS - AIRC2 + AIRC2_reverse_50d74
+ - ACCOAC + ACCOAC_reverse_9d1cd - CYNL + CYNL_reverse_91a39
+ + H2CO3_NAt_syn - H2CO3_NAt_syn_reverse_5b4d9 + BCT1_syn
+ - BCT1_syn_reverse_8b530 = 0
+ pan4p_c: + PPCDC - PPCDC_reverse_39306 - PTPATi + PTPATi_reverse_381d9
+ = 0
+ succ_c: + DM_succ_c_reverse_8e529 - DM_succ_c + SUCDum_reverse_abf66
+ - SUCDum - PROHX_reverse_27f44 + PROHX + ASPO5 - ASPO5_reverse_4d759
+ = 0
+ citac_c: - CITCIa_reverse_6a08b + CITCIa - CITCIb
+ + CITCIb_reverse_a5ab2 = 0
+ h2o_c: + 1080 NGAM_D1um_reverse_1ddad - 1080 NGAM_D1um
+ + ACM6PH_reverse_cff51 - ACM6PH + AGDC_reverse_2ab9d - AGDC
+ + SFGTHi_reverse_71e0b - SFGTHi + ADPGDP_reverse_29379 - ADPGDP
+ + Htabcpp_reverse_13163 - Htabcpp + NO2tabcpp_reverse_5b0e7 - NO2tabcpp
+ + ALAALAabcpp_reverse_75b27 - ALAALAabcpp + ALAALAD_reverse_ddcdd
+ - ALAALAD + UDCPDP_reverse_1813b - UDCPDP + LALGP_reverse_4d1aa - LALGP
+ + LADGMDH_reverse_f7b48 - LADGMDH + AM4PA_reverse_b660b - AM4PA
+ + AM3PA_reverse_086bd - AM3PA + s_1578 - x_1577 + AM4PCP_reverse_9f67b
+ - AM4PCP + AGM3PH_reverse_3acde - AGM3PH + AGMH_reverse_d371c - AGMH
+ + AGM4PH_reverse_b09ff - AGM4PH + AGM4PCP_reverse_4f872 - AGM4PCP
+ + AGM4PA_reverse_cc387 - AGM4PA + OANTIabcpp_reverse_ccec6 - OANTIabcpp
+ + KDOPP_reverse_c38fd - KDOPP - ZXANHX_reverse_a99d5 + ZXANHX
+ + PGPP_OLE_PALM_reverse_c21ff - PGPP_OLE_PALM
+ + PAPA_OLE_HDE_reverse_e662c - PAPA_OLE_HDE
+ + PAPA_HDE_PALM_reverse_64217 - PAPA_HDE_PALM - ALDDC17_reverse_1b5d0
+ + ALDDC17 + NDH~1(3)um_reverse_d4f81 - NDH~1(3)um + SPP_reverse_a434e
+ - SPP + UDPGD_reverse_de167 - UDPGD - EPXQR_reverse_6205d + EPXQR
+ - CCGS_reverse_3ff79 + CCGS + CPH4S_reverse_542c3 - CPH4S
+ + PMEACPE_reverse_002c3 - PMEACPE - OGMEACPD_reverse_fa697 + OGMEACPD
+ - 2 DXYTST_reverse_72484 + 2 DXYTST + GLYCOX2_reverse_852ec - GLYCOX2
+ + NADDP_reverse_7a11e - NADDP + ENOPH_reverse_b1c96 - ENOPH
+ + BPNT_reverse_53108 - BPNT - NTRARf2_reverse_5d5d6 + NTRARf2
+ - DMPPS_syn_reverse_e9648 + DMPPS_syn + E4PD_reverse_babdb - E4PD
+ - 2 CPPPGO_reverse_f858f + 2 CPPPGO + USHD2_reverse_08d67 - USHD2
+ - MPOMC1_reverse_5b08b + MPOMC1 - 2 DESAT16a_reverse_7f95a + 2 DESAT16a
+ + CTPS2_reverse_9c0ad - CTPS2 + PIuabcpp_reverse_c4f9b - PIuabcpp
+ - BCAROHX_reverse_82eaa + BCAROHX - 3 ATPSum_reverse_7df19 + 3 ATPSum
+ + GLCDBRAN3_reverse_85d8b - GLCDBRAN3
+ + 27.0597 BM_PROTEIN_reverse_4f8b8 - 27.0597 BM_PROTEIN
+ - RNDR2_reverse_7df82 + RNDR2 + NI2uabcpp_reverse_db325 - NI2uabcpp
+ + NPHBDC_reverse_8b305 - NPHBDC + FE3abcpp_reverse_4aad8 - FE3abcpp
+ - RNDR4_reverse_aff84 + RNDR4 + PPA_reverse_c5293 - PPA
+ - H2Otpp_reverse_01d15 + H2Otpp - 2 GTHPi_reverse_0b1e5 + 2 GTHPi
+ + PRFGS_reverse_db4e5 - PRFGS - ENO_reverse_40eea + ENO
+ + CYNTtabcpp_reverse_c4528 - CYNTtabcpp - x_762 + x_761
+ + HISTP_reverse_5e409 - HISTP - DHQTi_reverse_c4498 + DHQTi
+ + GLYALDDy_reverse_7e106 - GLYALDDy + BCT1_syn_reverse_8b530 - BCT1_syn
+ - DHNCOAS_reverse_af3a9 + DHNCOAS + PTRCabcpp_reverse_96b27 - PTRCabcpp
+ + NTPP2_reverse_bff4f - NTPP2 - TDPGDH_reverse_f570d + TDPGDH
+ + NDH~1(4)um_reverse_f9189 - NDH~1(4)um + DAPNH4T_reverse_37b98
+ - DAPNH4T + PGL_reverse_2bb6b - PGL + DCTPD2_reverse_164e0 - DCTPD2
+ + CITCIb_reverse_a5ab2 - CITCIb + ALAD_L_reverse_4f37b - ALAD_L
+ + HEMEOS_reverse_b63ba - HEMEOS - CITCIa_reverse_6a08b + CITCIa
+ + ASNS1_reverse_90309 - ASNS1 - 2 MPOMMM_reverse_30349 + 2 MPOMMM
+ + MNabc_1_reverse_d9c27 - MNabc_1 + DDPA_reverse_575e8 - DDPA
+ + RZ5PP_reverse_b2942 - RZ5PP - x_562 + x_561 + CBPS_reverse_80907
+ - CBPS - 2 PDX5PS2_reverse_cfb17 + 2 PDX5PS2 + DHORTS_reverse_82d73
+ - DHORTS - 2 RBFSa_reverse_61d96 + 2 RBFSa + ARGabcpp_reverse_2f37a
+ - ARGabcpp + NTPP8_reverse_ce3f8 - NTPP8 + PRATPP_reverse_99bf0
+ - PRATPP + UHGADA2_reverse_e04ae - UHGADA2 + CA2abcpp_reverse_aa3d6
+ - CA2abcpp + AHCi_reverse_d29ff - AHCi + 2 DPOR_reverse_8b09e - 2 DPOR
+ + 2 HGYDAS_reverse_bc303 - 2 HGYDAS + ASNN_reverse_515f8 - ASNN
+ + MI3PP_reverse_1228d - MI3PP - 2 CYTBD4cm_reverse_64e50 + 2 CYTBD4cm
+ + AGDI_reverse_0a098 - AGDI + PPS_reverse_1c319 - PPS - x_326 + x_325
+ + IPPS_reverse_d94c0 - IPPS + SBP_reverse_78d5c - SBP
+ - 2 MEHLER_reverse_20c70 + 2 MEHLER + NADS2_reverse_b427b - NADS2
+ + NMNDA_reverse_0dc65 - NMNDA - DMBZIDS2_reverse_6417b + DMBZIDS2
+ - H2Otu_syn_reverse_7aa62 + H2Otu_syn - H4THDPS_reverse_5f722 + H4THDPS
+ - IPDPS_reverse_baaf9 + IPDPS - IGPS_reverse_feb80 + IGPS
+ + DNTPPA_reverse_7e624 - DNTPPA + ZNabcpp_reverse_14d34 - ZNabcpp
+ + NAMNPP_reverse_ebb31 - NAMNPP + THRS_reverse_a994c - THRS
+ - TRPS1_reverse_35c22 + TRPS1 + IMPD_reverse_6e625 - IMPD
+ - 2 NOR_reverse_11d45 + 2 NOR + LEUabcpp_reverse_ab30a - LEUabcpp
+ + s_56 - x_55 - H4THDPR_reverse_617be + H4THDPR + MTHFC_reverse_f6fcc
+ - MTHFC + GTPCI_reverse_1ee86 - GTPCI + FUM_reverse_d3642 - FUM
+ + 2 QULNS - 2 QULNS_reverse_66da1 + 2 DESAT18a
+ - 2 DESAT18a_reverse_fd859 + x_61 - x_62 - CMPA + CMPA_reverse_ae497
+ - GCALDDy + GCALDDy_reverse_2af46 + RNDR1 - RNDR1_reverse_f4be1
+ - HEMEAS + HEMEAS_reverse_9357a - HISTDb + HISTDb_reverse_acd55
+ - Cobalt2abcppI + Cobalt2abcppI_reverse_894f2 - COCHL
+ + COCHL_reverse_a39d4 - GLYDHDA + GLYDHDA_reverse_663d3 + RNDR3
+ - RNDR3_reverse_bc84a + 3 HOXGfx - 3 HOXGfx_reverse_2964c - GLYOX
+ + GLYOX_reverse_6ab0a + UDPSQS - UDPSQS_reverse_7ca9b - PC6AS
+ + PC6AS_reverse_590fa + x_201 - x_202 - CS + CS_reverse_8d7e9 - PSP_L
+ + PSP_L_reverse_cfa3c - MOHMT + MOHMT_reverse_83ce0 - 30 BOF
+ + 30 BOF_reverse_2629d - ATPM + ATPM_reverse_5b752 + IGPDH
+ - IGPDH_reverse_b1a3c - DCTPD + DCTPD_reverse_a48d6 + x_287 - x_288
+ - SULabcpp + SULabcpp_reverse_40679 + DHAD1 - DHAD1_reverse_39dca
+ + 2 PPBNGS - 2 PPBNGS_reverse_dc5a2 + PRE3BS - PRE3BS_reverse_ea947
+ - FTHFD + FTHFD_reverse_44321 - NTD6 + NTD6_reverse_c5bce + SUCBZS
+ - SUCBZS_reverse_cdbc9 + PPNDH - PPNDH_reverse_58300 + BCAROHX2
+ - BCAROHX2_reverse_888eb + 2 CYOOum - 2 CYOOum_reverse_37909 - DNMPPA
+ + DNMPPA_reverse_131b7 + TRPS2 - TRPS2_reverse_cd73f + G5SADs
+ - G5SADs_reverse_c7fa4 - SPMDabcpp + SPMDabcpp_reverse_7abfe + DHAD2
+ - DHAD2_reverse_755c6 - PRAMPC + PRAMPC_reverse_54696 - ARGOXRum
+ + ARGOXRum_reverse_9f603 - PMDPHT + PMDPHT_reverse_8a0fd - 3 GTPCII
+ + 3 GTPCII_reverse_a84d9 + ALDD2y - ALDD2y_reverse_03afb - METAT
+ + METAT_reverse_793ef - GLXO3r + GLXO3r_reverse_9f4c1 + IMDHT
+ - IMDHT_reverse_c2b87 - GLNabcpp + GLNabcpp_reverse_c0546 - FBP
+ + FBP_reverse_bf2c9 - NTD7 + NTD7_reverse_20dab - BPNT2
+ + BPNT2_reverse_ab8bb + MECDPDHf - MECDPDHf_reverse_07da8 + x_645
+ - x_646 - MG2uabcpp + MG2uabcpp_reverse_adeed - ACODA
+ + ACODA_reverse_504cc - ASPOb + ASPOb_reverse_0f7c6 + PKETX
+ - PKETX_reverse_c5cd4 - AMPTASECG + AMPTASECG_reverse_11d5d + PKETF
+ - PKETF_reverse_d46d1 - GLUPRT + GLUPRT_reverse_1f180 - HMBS
+ + HMBS_reverse_23a06 - PGLYCP + PGLYCP_reverse_9063f - CITMS
+ + CITMS_reverse_37134 - IMPC + IMPC_reverse_efa41 + 2 ZDS
+ - 2 ZDS_reverse_25837 - CUabcpp + CUabcpp_reverse_119a1 - 4 ADCYRS
+ + 4 ADCYRS_reverse_3513c - GTHRDH + GTHRDH_reverse_b9665 - Kabcpp
+ + Kabcpp_reverse_35f86 - GMPS2 + GMPS2_reverse_aa6c4 + 2 NTRIRfx
+ - 2 NTRIRfx_reverse_8d8c5 + UPP3S - UPP3S_reverse_8bb53 - NO3abcpp
+ + NO3abcpp_reverse_79978 - MOBDabcpp + MOBDabcpp_reverse_4be38
+ - DHNCOAT + DHNCOAT_reverse_58c26 - MPML + MPML_reverse_2bf21 - DHPPDA
+ + DHPPDA_reverse_11c00 + 2 CYTBD4um - 2 CYTBD4um_reverse_0a2a0 + 2 CAT
+ - 2 CAT_reverse_c01ae + 3 SULR - 3 SULR_reverse_12727 - IMDHT_3c2hmp
+ + IMDHT_3c2hmp_reverse_231f8 + x_1019 - x_1020 + 2 MPOMOR
+ - 2 MPOMOR_reverse_ad3a7 - G6PDA + G6PDA_reverse_74cec + ANS2
+ - ANS2_reverse_5a40c + GHMT2r - GHMT2r_reverse_d977f + MDRPD
+ - MDRPD_reverse_fc553 - PHEOASE + PHEOASE_reverse_22360 + OPMEACPD
+ - OPMEACPD_reverse_d1190 + GMAND - GMAND_reverse_b3087 + CDPGLC46DH
+ - CDPGLC46DH_reverse_17ba1 - PAPA160 + PAPA160_reverse_c64df - PAPA161
+ + PAPA161_reverse_1bc33 - PAPA_OLE_PALM + PAPA_OLE_PALM_reverse_d17e1
+ - H2Otcx + H2Otcx_reverse_6097e + CXANHX - CXANHX_reverse_34809 - KDOPS
+ + KDOPS_reverse_d4842 - ICLIPAabcpp + ICLIPAabcpp_reverse_54b98
+ - COLIPAabcex + COLIPAabcex_reverse_d4779 - UM4PCP
+ + UM4PCP_reverse_86d06 - x_1599 + s_1600 - DALAabcpp
+ + DALAabcpp_reverse_0bf96 - x_1613 + s_1614 + CELLSYN
+ - CELLSYN_reverse_287bb - 2 OPAH + 2 OPAH_reverse_607f0 - ANHMK
+ + ANHMK_reverse_f8dfd - SUCR + SUCR_reverse_ea228 + 2 FDH6
+ - 2 FDH6_reverse_bc29e + 2 NGAM - 2 NGAM_reverse_0959e = 0
+ h_c: + PCXHtpp_reverse_77e96 - PCXHtpp + CLt3_1pp_reverse_6d6d0
+ - CLt3_1pp - ANHMK_reverse_f8dfd + ANHMK - ACGAMK_reverse_1e7a8
+ + ACGAMK - OPAH_reverse_607f0 + OPAH - SFGTHi_reverse_71e0b + SFGTHi
+ - FALDH2_reverse_f1aae + FALDH2 - ALCD1_reverse_895d7 + ALCD1
+ - NO2tabcpp_reverse_5b0e7 + NO2tabcpp + PFOR_reverse_1e1f4 - PFOR
+ - s_1614 + x_1613 - ALAALAabcpp_reverse_75b27 + ALAALAabcpp
+ - DALAabcpp_reverse_0bf96 + DALAabcpp - UAGPT3_reverse_7f3f7 + UAGPT3
+ - s_1600 + x_1599 - AGM4Pt2pp_reverse_58aad + AGM4Pt2pp
+ - UM3PL_reverse_32754 + UM3PL - MPTG2_reverse_fd602 + MPTG2
+ - 2 MPTG_reverse_610dd + 2 MPTG - COLIPAabcex_reverse_d4779
+ + COLIPAabcex - OANTIabcpp_reverse_ccec6 + OANTIabcpp
+ + CXANHX_reverse_34809 - CXANHX + ZXANHX_reverse_a99d5 - ZXANHX
+ - FMETTRS_reverse_3b6c6 + FMETTRS - PGPS_OLE_PALM_reverse_108ca
+ + PGPS_OLE_PALM - DGDGS_OLE_HDE_reverse_ee8ff + DGDGS_OLE_HDE
+ - DGDGS_HDE_PALM_reverse_d95be + DGDGS_HDE_PALM
+ - SQDGS_PALM_PALM_reverse_eec5a + SQDGS_PALM_PALM
+ + ALDDC17_reverse_1b5d0 - ALDDC17 + 4 NDH~1(3)um_reverse_d4f81
+ - 4 NDH~1(3)um + ALCD19_reverse_d90b5 - ALCD19 + UDPGLDC_reverse_6bd69
+ - UDPGLDC - 3 UDPGD_reverse_de167 + 3 UDPGD - SAMTRI_reverse_06c4c
+ + SAMTRI - CCGS_reverse_3ff79 + CCGS + CDGS_reverse_6b7cb - CDGS
+ + LIPATPT_reverse_e209a - LIPATPT + LIPOCT_reverse_0078e - LIPOCT
+ + BACCL_reverse_8bcde - BACCL + EPMEACPR_reverse_794bd - EPMEACPR
+ + OPMEACPS_reverse_e3f2d - OPMEACPS + OGMEACPR_reverse_53919 - OGMEACPR
+ - 5 SHS1_reverse_92a6f + 5 SHS1 + THISAT_reverse_a22de - THISAT
+ - CYSDS_reverse_c49c8 + CYSDS + 2 SPR_reverse_d4f3a - 2 SPR
+ + 2 PHEOX_reverse_c1df7 - 2 PHEOX - PHEOASE_reverse_22360 + PHEOASE
+ - ANS2_reverse_5a40c + ANS2 + 2 FMNRy_reverse_1ba9b - 2 FMNRy
+ - PFK_reverse_d24a6 + PFK + 2 NTRARf2_reverse_5d5d6 - 2 NTRARf2
+ - IG3PS_reverse_12008 + IG3PS + 2 CPPPGO_reverse_f858f - 2 CPPPGO
+ + 4 CYTBD4um_reverse_0a2a0 - 4 CYTBD4um + EAR80y_reverse_2df0a - EAR80y
+ + s_946 - x_945 + MPOMC1_reverse_5b08b - MPOMC1 - GTHS_reverse_172f9
+ + GTHS - 2 CTPS2_reverse_9c0ad + 2 CTPS2 + DHFR_reverse_65c32 - DHFR
+ + TMDS3_reverse_bd1fa - TMDS3 - 2 ADSS_reverse_c75bb + 2 ADSS
+ - PC20M_reverse_ceb32 + PC20M - GLYCLTDx_reverse_d2f71 + GLYCLTDx
+ + CHPHYS_reverse_77b21 - CHPHYS - UAAGDS_reverse_313a9 + UAAGDS
+ - PDS1_reverse_1e20b + PDS1 - 36.0797 BM_PROTEIN_reverse_4f8b8
+ + 36.0797 BM_PROTEIN - DHNCOAT_reverse_58c26 + DHNCOAT
+ + EAR40y_reverse_0f912 - EAR40y - NPHBDC_reverse_8b305 + NPHBDC
+ - MOBDabcpp_reverse_4be38 + MOBDabcpp - FE3abcpp_reverse_4aad8
+ + FE3abcpp - NO3abcpp_reverse_79978 + NO3abcpp - x_850 + x_849
+ - NADK_reverse_bba52 + NADK + NDHPQRcm_reverse_d5587 - NDHPQRcm
+ - PPA_reverse_c5293 + PPA - SPRMS_reverse_ffb14 + SPRMS
+ + KARA1i_reverse_af5a6 - KARA1i + 2 TRDRf_reverse_45a8b - 2 TRDRf
+ - CYRDAR_reverse_9aae4 + CYRDAR + GTHOr_reverse_8f1f9 - GTHOr
+ - ARGSS_reverse_5760d + ARGSS + 8 NTRIRfx_reverse_8d8c5 - 8 NTRIRfx
+ - 2 GMPS2_reverse_aa6c4 + 2 GMPS2 + s_788 - x_787 + PC8XM_reverse_8cde7
+ - PC8XM - PRFGS_reverse_db4e5 + PRFGS + PTPATi_reverse_381d9 - PTPATi
+ - CUabcpp_reverse_119a1 + CUabcpp - ADSK_reverse_6806d + ADSK
+ + 2 NNDPR_reverse_445ff - 2 NNDPR + ZDS_reverse_25837 - ZDS + s_740
+ - x_739 + 2 SPODM_reverse_2648f - 2 SPODM - CITMS_reverse_37134 + CITMS
+ - 2 GLYALDDy_reverse_7e106 + 2 GLYALDDy - PTRCabcpp_reverse_96b27
+ + PTRCabcpp + 2 HPROb_reverse_9e6b2 - 2 HPROb
+ + 4 NDH~1(4)um_reverse_f9189 - 4 NDH~1(4)um - MG2uabcpp_reverse_adeed
+ + MG2uabcpp + DAPNH4T_reverse_37b98 - DAPNH4T + MTHFR3_1_reverse_1a948
+ - MTHFR3_1 + DCTPD2_reverse_164e0 - DCTPD2 + NDHPQRum_reverse_c36b6
+ - NDHPQRum - CDPMEK_reverse_01872 + CDPMEK - IPMD_reverse_d7a5e + IPMD
+ - ASNS1_reverse_90309 + ASNS1 + MPOMMM_reverse_30349 - MPOMMM
+ - MNabc_1_reverse_d9c27 + MNabc_1 - 3 PC6YM_reverse_82472 + 3 PC6YM
+ - GLNabcpp_reverse_c0546 + GLNabcpp - RBFSb_reverse_32299 + RBFSb
+ - DHORTS_reverse_82d73 + DHORTS - NTPP8_reverse_ce3f8 + NTPP8
+ + CYRDAAT_reverse_d0652 - CYRDAAT + NAD_H2_reverse_69196 - NAD_H2
+ - PRATPP_reverse_99bf0 + PRATPP + DXPS_reverse_86aca - DXPS
+ - ASPO6_reverse_ec15c + ASPO6 + s_482 - x_481 - AMPQT_reverse_441c1
+ + AMPQT - GART_reverse_61742 + GART - PRUK_reverse_a0fb4 + PRUK
+ - GLUCYS_reverse_f13d6 + GLUCYS - G6PDH2r_reverse_19ddf + G6PDH2r
+ - HPPK_reverse_e0ee3 + HPPK + BCAROHX2_reverse_888eb - BCAROHX2
+ + EAR120y_reverse_c7353 - EAR120y + SADT_reverse_91e08 - SADT
+ - ASPCT_reverse_c18b9 + ASPCT + PPCDC_reverse_39306 - PPCDC
+ - FTHFD_reverse_44321 + FTHFD - DNAMTn2r_reverse_2612b + DNAMTn2r
+ + x_368 - x_367 + 4 CYTBD4cm_reverse_64e50 - 4 CYTBD4cm
+ - PPNCL2_reverse_a65ee + PPNCL2 + NMNS_reverse_c18e5 - NMNS + x_340
+ - x_339 - ADCPS2_reverse_34636 + ADCPS2 - PPBNGS_reverse_dc5a2 + PPBNGS
+ - IPPS_reverse_d94c0 + IPPS + UAPGR_reverse_4f67b - UAPGR + s_300
+ - x_299 + GALUi_reverse_c40d5 - GALUi - UAMAGS_reverse_a0d94 + UAMAGS
+ + GLUTRR_reverse_355d5 - GLUTRR - NADS2_reverse_b427b + NADS2
+ + 2 GLUSfx_reverse_468d6 - 2 GLUSfx + x_272 - x_271
+ + DCTPD_reverse_a48d6 - DCTPD + SEPHCHCS_reverse_cb185 - SEPHCHCS
+ - ATPM_reverse_5b752 + ATPM + ACBIPGT_reverse_bcc45 - ACBIPGT
+ - 2 AMPMS3_reverse_b5e80 + 2 AMPMS3 + ACLSa_reverse_75fb2 - ACLSa
+ - CS_reverse_8d7e9 + CS + DMBZIDS2_reverse_6417b - DMBZIDS2
+ + MAN1PT_reverse_c317b - MAN1PT - GLYCK_reverse_c3ee2 + GLYCK
+ - ALAALAr_reverse_18faa + ALAALAr - PDS2_reverse_c1831 + PDS2
+ + IPDPS_reverse_baaf9 - IPDPS - PC6AS_reverse_590fa + PC6AS
+ + UDPSQS_reverse_7ca9b - UDPSQS + 2 CBMD_reverse_4f3e7 - 2 CBMD
+ - GLYDHDA_reverse_663d3 + GLYDHDA - ZNabcpp_reverse_14d34 + ZNabcpp
+ - PFK_3_reverse_037e0 + PFK_3 + DAPDC_reverse_d3ab8 - DAPDC
+ - PERD_reverse_c9aa4 + PERD + AOXPBDC_reverse_81d1e - AOXPBDC
+ - Cobalt2abcppI_reverse_894f2 + Cobalt2abcppI - ADCL_reverse_0051f
+ + ADCL - SPS_reverse_5835b + SPS + x_112 - x_111 - AIRC2_reverse_50d74
+ + AIRC2 + LPOR_reverse_ae81c - LPOR - IMPD_reverse_6e625 + IMPD
+ - U23GAAT2_reverse_387ef + U23GAAT2 + 2 CMPA_reverse_ae497 - 2 CMPA
+ + G5SD_reverse_af8c0 - G5SD - GLNS_reverse_59581 + GLNS
+ - GLCS3_reverse_5e7ed + GLCS3 + 4 UPPDC1_reverse_cb592 - 4 UPPDC1
+ - GTPCI_reverse_1ee86 + GTPCI + 4 PHYFXOR_reverse_84960 - 4 PHYFXOR
+ + DESAT18a_reverse_fd859 - DESAT18a - MSBENZMT_reverse_a902a + MSBENZMT
+ + ORNDC_reverse_63596 - ORNDC + MTHFC - MTHFC_reverse_f6fcc + GARFT
+ - GARFT_reverse_7ecb6 - H4THDPR + H4THDPR_reverse_617be + PRAGSr
+ - PRAGSr_reverse_fd2d8 - KAS14 + KAS14_reverse_25582 + SHKK
+ - SHKK_reverse_163fd + G1PACT - G1PACT_reverse_51580 + PNTK
+ - PNTK_reverse_236b6 - x_67 + x_68 + LEUabcpp - LEUabcpp_reverse_ab30a
+ - NOR + NOR_reverse_11d45 - 5 NDH~1(1)um + 5 NDH~1(1)um_reverse_85750
+ + 2 GCALDDy - 2 GCALDDy_reverse_2af46 + 2 HEMEAS
+ - 2 HEMEAS_reverse_9357a - NNATr + NNATr_reverse_8ab73 + 2 HISTDb
+ - 2 HISTDb_reverse_acd55 + 3 COCHL - 3 COCHL_reverse_a39d4 - x_137
+ + x_138 + ANS - ANS_reverse_4e062 + DNTPPA - DNTPPA_reverse_7e624
+ - 8 HOXGfx + 8 HOXGfx_reverse_2964c - 2 TMPPP + 2 TMPPP_reverse_f275c
+ - IGPS + IGPS_reverse_feb80 - HSDyi + HSDyi_reverse_76518 + GLYOX
+ - GLYOX_reverse_6ab0a - OXADC + OXADC_reverse_49a15 + H4THDPS
+ - H4THDPS_reverse_5f722 + HISTDa - HISTDa_reverse_76147 + ADOCBLS
+ - ADOCBLS_reverse_005a5 + G3PD2 - G3PD2_reverse_0c363 + 30 BOF
+ - 30 BOF_reverse_2629d - ASADi + ASADi_reverse_c6412 + DHFS
+ - DHFS_reverse_f7920 - OMPDC + OMPDC_reverse_45ba1 - x_273 + x_274
+ - G1PTT + G1PTT_reverse_acd22 - 2 MEHLER + 2 MEHLER_reverse_20c70
+ - 2 P5CR + 2 P5CR_reverse_55c58 - EAR60y + EAR60y_reverse_02e5e
+ + SULabcpp - SULabcpp_reverse_40679 - PRE3BS + PRE3BS_reverse_ea947
+ + LTHRK - LTHRK_reverse_61b82 + 2 PPS - 2 PPS_reverse_1c319 + LPADSS2
+ - LPADSS2_reverse_9cafc - DPR + DPR_reverse_691d8 + HEX7
+ - HEX7_reverse_f7d4e - GLYCOR_nadp + GLYCOR_nadp_reverse_fe8f6 - ADMDC
+ + ADMDC_reverse_e2782 - ASP1DC + ASP1DC_reverse_5dad1 - MEPCT
+ + MEPCT_reverse_de97a + NNDMBRT - NNDMBRT_reverse_13f8c + 2 PRAIS
+ - 2 PRAIS_reverse_8e616 + 2 HGYDAS - 2 HGYDAS_reverse_bc303 - 3 GGDPR
+ + 3 GGDPR_reverse_ea652 - PPNDH + PPNDH_reverse_58300 - NMNAT
+ + NMNAT_reverse_6a3d7 - APRAUR + APRAUR_reverse_e674d + LDH_D
+ - LDH_D_reverse_f8507 + DPCOAK - DPCOAK_reverse_56ab9 + HSK
+ - HSK_reverse_e4218 + PPNCL3 - PPNCL3_reverse_cd065 + 2 PC17M
+ - 2 PC17M_reverse_28a28 + ACCOAC - ACCOAC_reverse_9d1cd - CYNL
+ + CYNL_reverse_91a39 - 7.6 CYOOum + 7.6 CYOOum_reverse_37909 - FNOR
+ + FNOR_reverse_28480 + G5SADs - G5SADs_reverse_c7fa4 + SPMDabcpp
+ - SPMDabcpp_reverse_7abfe - G1PCTYT + G1PCTYT_reverse_16243 + CA2abcpp
+ - CA2abcpp_reverse_aa3d6 + 2 PAPSR - 2 PAPSR_reverse_75961 + PC11M
+ - PC11M_reverse_f4161 + ARGabcpp - ARGabcpp_reverse_2f37a + GLCBRAN3
+ - GLCBRAN3_reverse_4cd37 + DB4PS - DB4PS_reverse_43dd1 - DXPRIi
+ + DXPRIi_reverse_85956 + 2 GTPCII - 2 GTPCII_reverse_a84d9 - 2 ALDD2y
+ + 2 ALDD2y_reverse_03afb + PDX5PS2 - PDX5PS2_reverse_cfb17 - ARGDC
+ + ARGDC_reverse_08faf - GAPDi_nadp + GAPDi_nadp_reverse_782a6 + GLXO3r
+ - GLXO3r_reverse_9f4c1 + PGCD - PGCD_reverse_1bc76 + 2 CBPS
+ - 2 CBPS_reverse_80907 + PANTS - PANTS_reverse_11dcb + AGPR
+ - AGPR_reverse_5dce4 - KARI_23dhmp + KARI_23dhmp_reverse_d9e1b - DVOCHR
+ + DVOCHR_reverse_5b763 + ALAD_L - ALAD_L_reverse_4f37b + UAMAS
+ - UAMAS_reverse_2b5e6 + PGL - PGL_reverse_2bb6b - EAR160y
+ + EAR160y_reverse_e0622 - MECDPDHf + MECDPDHf_reverse_07da8 - EAR100y
+ + EAR100y_reverse_863b6 - ASPOb + ASPOb_reverse_0f7c6 + PRASCSi
+ - PRASCSi_reverse_11704 + NTPP2 - NTPP2_reverse_bff4f - TRDR
+ + TRDR_reverse_6372e + UPP3MT - UPP3MT_reverse_2adf0 - DHNCOAS
+ + DHNCOAS_reverse_af3a9 + HTHRPDH - HTHRPDH_reverse_9ee3b + BCT1_syn
+ - BCT1_syn_reverse_8b530 - OMCDC + OMCDC_reverse_74477 - Htcx
+ + Htcx_reverse_e3f6b + 4 ADCYRS - 4 ADCYRS_reverse_3513c - EAR180x
+ + EAR180x_reverse_fbf60 + CYNTtabcpp - CYNTtabcpp_reverse_c4528
+ - TRSARyr + TRSARyr_reverse_a22d9 + 2 PC6AR - 2 PC6AR_reverse_0549d
+ + Kabcpp - Kabcpp_reverse_35f86 - TDPDRR + TDPDRR_reverse_e7bd2 + RBFK
+ - RBFK_reverse_8faa7 - SHK3Dr + SHK3Dr_reverse_d5c8f + PRPPS
+ - PRPPS_reverse_dd7f2 + 2 FCLT - 2 FCLT_reverse_1a6b6 + NI2uabcpp
+ - NI2uabcpp_reverse_db325 - x_879 + s_880 + HEX1 - HEX1_reverse_25efa
+ + 10 ATPSum - 10 ATPSum_reverse_7df19 - BCAROHX + BCAROHX_reverse_82eaa
+ + PIuabcpp - PIuabcpp_reverse_c4f9b - THRPD + THRPD_reverse_0dc99
+ + ACGS - ACGS_reverse_c8939 - 2 AFAT + 2 AFAT_reverse_951b7 - EAR140y
+ + EAR140y_reverse_dff77 - DESAT16a + DESAT16a_reverse_7f95a - UAGDP
+ + UAGDP_reverse_a5ec0 + 3 MPML - 3 MPML_reverse_2bf21 + 2 USHD2
+ - 2 USHD2_reverse_08d67 - DHPPDA + DHPPDA_reverse_11c00 - 7 SULR
+ + 7 SULR_reverse_12727 + NAt3ipp - NAt3ipp_reverse_c262c + UGMDDS
+ - UGMDDS_reverse_2401f + SPMS - SPMS_reverse_92c51 + GAPD
+ - GAPD_reverse_459c1 + OCBT - OCBT_reverse_f5568 + 2 E4PD
+ - 2 E4PD_reverse_babdb - GLGC + GLGC_reverse_f6fb0 - PYK
+ + PYK_reverse_bc8ff - MPOMOR + MPOMOR_reverse_ad3a7 - x_1025 + s_1026
+ - DMPPS_syn + DMPPS_syn_reverse_e9648 - 3.9996 PSIIum
+ + 3.9996 PSIIum_reverse_30799 - 2 CBFCum + 2 CBFCum_reverse_e7502
+ + 2 ARD - 2 ARD_reverse_1e910 - 2 CHLADMT + 2 CHLADMT_reverse_2790a
+ + PHYTK - PHYTK_reverse_bc1a5 + TRNFE - TRNFE_reverse_f6e07 + THBTGT
+ - THBTGT_reverse_0885a + 2 NADDP - 2 NADDP_reverse_7a11e + DXYTST
+ - DXYTST_reverse_72484 - OGMEACPS + OGMEACPS_reverse_13b17 - EGMEACPR
+ + EGMEACPR_reverse_1b486 - OPMEACPR + OPMEACPR_reverse_7cc6e + 3 DBTS
+ - 3 DBTS_reverse_b5da6 + BTS6 - BTS6_reverse_40426 + BTNPL2
+ - BTNPL2_reverse_605bf + ADNK1 - ADNK1_reverse_fe466 + CPH4S
+ - CPH4S_reverse_542c3 - 3 CDGR + 3 CDGR_reverse_e4464 - EPXQR
+ + EPXQR_reverse_6205d - GFUCS + GFUCS_reverse_2cd5e - 5 NDH~1(2)um
+ + 5 NDH~1(2)um_reverse_c7743 - KAS15 + KAS15_reverse_6f7fb - ALDR18
+ + ALDR18_reverse_34ff9 + SQDGS_HDE_PALM - SQDGS_HDE_PALM_reverse_af549
+ + DGDGS_HDE_HDE - DGDGS_HDE_HDE_reverse_c88d1 - CDPDAGS_OLE_PALM
+ + CDPDAGS_OLE_PALM_reverse_c0d83 + DAGK160 - DAGK160_reverse_0238d
+ + DAGK_HDE_PALM - DAGK_HDE_PALM_reverse_f515e + DAGK161
+ - DAGK161_reverse_9bfe7 + DAGK_OLE_HDE - DAGK_OLE_HDE_reverse_219fc
+ + DAGK_OLE_PALM - DAGK_OLE_PALM_reverse_b7767 + GLUDGS_HDE_PALM
+ - GLUDGS_HDE_PALM_reverse_99a1b + GLUDGS_HDE_HDE
+ - GLUDGS_HDE_HDE_reverse_66701 + GLUDGS_OLE_HDE
+ - GLUDGS_OLE_HDE_reverse_ab756 + GLUDGS_OLE_PALM
+ - GLUDGS_OLE_PALM_reverse_da027 + DGDGS_OLE_PALM
+ - DGDGS_OLE_PALM_reverse_e6526 + ACMAMT - ACMAMT_reverse_098cf
+ + ICLIPAabcpp - ICLIPAabcpp_reverse_54b98 + 2.6255 OANTS
+ - 2.6255 OANTS_reverse_6b135 + UM4PL - UM4PL_reverse_c309d + AGMt2pp
+ - AGMt2pp_reverse_23bf9 + UDCPDP - UDCPDP_reverse_1813b + 2 Htabcpp
+ - 2 Htabcpp_reverse_13163 + CELLSYN - CELLSYN_reverse_287bb + 2 ADPGDP
+ - 2 ADPGDP_reverse_29379 - 2 FDH6 + 2 FDH6_reverse_bc29e
+ + 1080 NGAM_D1um - 1080 NGAM_D1um_reverse_1ddad + ASPO5
+ - ASPO5_reverse_4d759 = 0
+ ugmda_c: - UGMDDS_reverse_2401f + UGMDDS - PAPPT3
+ + PAPPT3_reverse_0a787 = 0
+ pq_um: - 2 NGAM_reverse_0959e + 2 NGAM + NDH~1(3)um_reverse_d4f81
+ - NDH~1(3)um + NDH~1(2)um_reverse_c7743 - NDH~1(2)um
+ + 2 PHYPQOX_reverse_846b6 - 2 PHYPQOX + 1.9998 PSIIum_reverse_30799
+ - 1.9998 PSIIum - 2 CYTBD4um_reverse_0a2a0 + 2 CYTBD4um
+ + NDH~1(4)um_reverse_f9189 - NDH~1(4)um + SUCDum_reverse_abf66 - SUCDum
+ - NDH~1(1)um + NDH~1(1)um_reverse_85750 - DHORD3um
+ + DHORD3um_reverse_137f3 - ARGOXRum + ARGOXRum_reverse_9f603 - NDHPQRum
+ + NDHPQRum_reverse_c36b6 - 0.015 BM_COFACTORS
+ + 0.015 BM_COFACTORS_reverse_ee9a6 + CBFCum - CBFCum_reverse_e7502
+ - 2 ZCARDS + 2 ZCARDS_reverse_28abb = 0
+ man6p_c: + MAN6PI_reverse_d96f0 - MAN6PI - MPPM + MPPM_reverse_b1b35
+ = 0
+ cobalt2_c: + COCHL_reverse_a39d4 - COCHL + Cobalt2abcppI
+ - Cobalt2abcppI_reverse_894f2 = 0
+ gam1p_c: + PGAMT_reverse_52c23 - PGAMT - G1PACT + G1PACT_reverse_51580
+ = 0
+ argsuc_c: - ARGSS_reverse_5760d + ARGSS + ARGSL_reverse_1b949 - ARGSL
+ = 0
+ dhap_c: - G3PD2_reverse_0c363 + G3PD2 - QULNS + QULNS_reverse_66da1
+ + FBA - FBA_reverse_84806 + FBA3 - FBA3_reverse_0d49f - TPI
+ + TPI_reverse_c2c3b = 0
+ mn2_c: - MNabc_1_reverse_d9c27 + MNabc_1 = 0
+ u3hga2_c: - UHGADA2_reverse_e04ae + UHGADA2 - U23GAAT2
+ + U23GAAT2_reverse_387ef = 0
+ sprm_c: + SPRMS - SPRMS_reverse_ffb14 = 0
+ r_201: - TRSARyr + TRSARyr_reverse_a22d9 = 0
+ r_202: + ERTHMMOR - ERTHMMOR_reverse_d7ffe - ACHBSb
+ + ACHBSb_reverse_a040e = 0
+ dtmp_c: - TMDS3_reverse_bd1fa + TMDS3 - DTMPK + DTMPK_reverse_44d5a = 0
+ fpram_c: - PRFGS_reverse_db4e5 + PRFGS - PRAIS + PRAIS_reverse_8e616
+ = 0
+ ump_c: - PAPPT3_reverse_0a787 + PAPPT3 - USHD2_reverse_08d67 + USHD2
+ + UMPK_reverse_ae8e3 - UMPK - NTPP8_reverse_ce3f8 + NTPP8
+ - OMPDC_reverse_45ba1 + OMPDC + UPPRT - UPPRT_reverse_07052 + ACGAMT
+ - ACGAMT_reverse_2307a = 0
+ r_206: - 1.99 RBPCcx_reverse_6742e + 1.99 RBPCcx + s_602 - x_601 = 0
+ pq_cm: + MNHNAtpp_reverse_59fe7 - MNHNAtpp + 2 CYTBD4cm
+ - 2 CYTBD4cm_reverse_64e50 - NDHPQRcm + NDHPQRcm_reverse_d5587 = 0
+ ahdt_c: + DNTPPA_reverse_7e624 - DNTPPA - GTPCI_reverse_1ee86 + GTPCI
+ - PTHPS + PTHPS_reverse_272ea - CPH4S + CPH4S_reverse_542c3 = 0
+ r_209: - OMCDC_reverse_74477 + OMCDC + LEUTA - LEUTA_reverse_0b6fe = 0
+ npdp_c: + HBZNPT_reverse_37fab - HBZNPT + NPDPS - NPDPS_reverse_e1c6b
+ = 0
+ dhor__S_c: + DHORD3um_reverse_137f3 - DHORD3um - DHORTS
+ + DHORTS_reverse_82d73 = 0
+ r_212: - x_367 + x_368 + x_1025 - s_1026 = 0
+ glx_c: - GLYCOX2_reverse_852ec + GLYCOX2 - GLYCLTDx_reverse_d2f71
+ + GLYCLTDx - DDPGA_reverse_8028f + DDPGA - GLYDHDA_reverse_663d3
+ + GLYDHDA - GLXO3r + GLXO3r_reverse_9f4c1 - AGTi + AGTi_reverse_69260
+ = 0
+ thdp_c: + DAPNH4T_reverse_37b98 - DAPNH4T - H4THDPR_reverse_617be
+ + H4THDPR = 0
+ fprica_c: - AICART_reverse_b7b59 + AICART + IMPC - IMPC_reverse_efa41
+ = 0
+ adocbl_c: + ADOCBLS - ADOCBLS_reverse_005a5 - 0.0043 BM_COFACTORS
+ + 0.0043 BM_COFACTORS_reverse_ee9a6 = 0
+ thr__L_c: + LTHRK_reverse_61b82 - LTHRK + THRS - THRS_reverse_a994c
+ - THRTRS + THRTRS_reverse_12237 = 0
+ so3_c: + SULR_reverse_12727 - SULR - PAPSR_reverse_75961 + PAPSR
+ + UDPSQS_reverse_7ca9b - UDPSQS = 0
+ r_219: + MSBENZMT_reverse_a902a - MSBENZMT + NPHBDC
+ - NPHBDC_reverse_8b305 = 0
+ hco3_cx: - HCO3tcx_reverse_7ac35 + HCO3tcx + HCO3E_1_cx_reverse_3a8f8
+ - HCO3E_1_cx = 0
+ glu5p_c: - GLU5K_reverse_0d895 + GLU5K + G5SD_reverse_af8c0 - G5SD = 0
+ r_222: - x_340 + x_339 - x_645 + x_646 = 0
+ r_223: + MEPCT - MEPCT_reverse_de97a - CDPMEK + CDPMEK_reverse_01872
+ = 0
+ damp_c: + DADK_reverse_006ea - DADK + NTD6_reverse_c5bce - NTD6 = 0
+ histda_c: - HISTDa_reverse_76147 + HISTDa + HISTDb_reverse_acd55
+ - HISTDb = 0
+ gthox_c: - GTHPi_reverse_0b1e5 + GTHPi - GTHOr + GTHOr_reverse_8f1f9
+ = 0
+ amp_c: - ALATRS_reverse_de5e9 + ALATRS - LEUTRS_reverse_06175 + LEUTRS
+ - ASPTRS_reverse_8f6e6 + ASPTRS - ASNTRS_reverse_ee3aa + ASNTRS
+ - AACPS6_reverse_8fda3 + AACPS6 - LIPAMPL_reverse_71584 + LIPAMPL
+ - BTNPL2_reverse_605bf + BTNPL2 - ACS_reverse_37635 + ACS
+ - ASNS1_reverse_90309 + ASNS1 - PANTS_reverse_11dcb + PANTS
+ + NTD7_reverse_20dab - NTD7 - NADS2_reverse_b427b + NADS2
+ - ADSL1r_reverse_2ae14 + ADSL1r - SUCBZL_reverse_536e6 + SUCBZL + ADPT
+ - ADPT_reverse_567cf + PPS - PPS_reverse_1c319 + HPPK
+ - HPPK_reverse_e0ee3 + PPNCL3 - PPNCL3_reverse_cd065 + GLUTRS
+ - GLUTRS_reverse_b214d + GMPS2 - GMPS2_reverse_aa6c4 + ARGSS
+ - ARGSS_reverse_5760d + PRPPS - PRPPS_reverse_dd7f2 - ADK1
+ + ADK1_reverse_a6f90 + BPNT - BPNT_reverse_53108 + NADDP
+ - NADDP_reverse_7a11e + THII - THII_reverse_23906 + ADNK1
+ - ADNK1_reverse_fe466 + GLNTRS - GLNTRS_reverse_062f1 + TYRTRS
+ - TYRTRS_reverse_27d64 + METTRS - METTRS_reverse_d6cd0 + SERTRS
+ - SERTRS_reverse_b65b1 + GLYTRS - GLYTRS_reverse_b4742 + PROTRS
+ - PROTRS_reverse_9d634 + CYSTRS - CYSTRS_reverse_08992 + ARGTRS
+ - ARGTRS_reverse_1ecbf + TRPTRS - TRPTRS_reverse_f29b7 + PHETRS
+ - PHETRS_reverse_a31de + HISTRS - HISTRS_reverse_a6df2 + THRTRS
+ - THRTRS_reverse_12237 + ILETRS - ILETRS_reverse_02878 + LYSTRS
+ - LYSTRS_reverse_d3497 + VALTRS - VALTRS_reverse_72083 + ADPGDP
+ - ADPGDP_reverse_29379 = 0
+ r_228: - KARA1i_reverse_af5a6 + KARA1i + DHAD1_reverse_39dca - DHAD1
+ = 0
+ r_229: - MTRI_reverse_36e0d + MTRI - MDRPD + MDRPD_reverse_fc553 = 0
+ mppp9_c: - MPML_reverse_2bf21 + MPML - MPOMT + MPOMT_reverse_ccd2e = 0
+ cdp_c: - PHYTK_reverse_bc1a5 + PHYTK + CYTK1 - CYTK1_reverse_2fa21
+ - RNDR3 + RNDR3_reverse_bc84a - NDPK3 + NDPK3_reverse_37ea6 = 0
+ dcaACP_c: + s_740 - x_739 + EAR100y - EAR100y_reverse_863b6 = 0
+ r_233: - DXPRIi_reverse_85956 + DXPRIi - MEPCT + MEPCT_reverse_de97a
+ = 0
+ r_234: - x_368 + x_367 + x_202 - x_201 + U23GAAT2_reverse_387ef
+ - U23GAAT2 - UAGAAT2 + UAGAAT2_reverse_8209e = 0
+ r_235: - ACHBSb_reverse_a040e + ACHBSb - KARI + KARI_reverse_7fbc9 = 0
+ caro_c: - ETBCARO_reverse_6e466 + ETBCARO
+ + 0.92 PHOA510um_reverse_b693b - 0.92 PHOA510um
+ + 0.92 PHOA490um_reverse_e77e7 - 0.92 PHOA490um
+ + 0.92 PHOA470um_reverse_13295 - 0.92 PHOA470um
+ + 0.276 PHOA450um_reverse_eda8e - 0.276 PHOA450um
+ + 0.138 PHOA430um_reverse_2152e - 0.138 PHOA430um
+ + 0.092 PHOA410um_reverse_c47f0 - 0.092 PHOA410um
+ + BCAROHX_reverse_82eaa - BCAROHX + LYCBC2 - LYCBC2_reverse_44059
+ - 0.1014 BM_PIGMENTS + 0.1014 BM_PIGMENTS_reverse_cb5bd = 0
+ r_237: - DHQTi + DHQTi_reverse_c4498 + DHQS - DHQS_reverse_3d16b = 0
+ r_238: + ADCL_reverse_0051f - ADCL + ADCS - ADCS_reverse_5303c = 0
+ glu__L_c: - OPAH_reverse_607f0 + OPAH - LALGP_reverse_4d1aa + LALGP
+ + UNK3_reverse_8083f - UNK3 - IG3PS_reverse_12008 + IG3PS
+ - ADCS_reverse_5303c + ADCS + ACGS_reverse_c8939 - ACGS
+ - ILETA_reverse_aec70 + ILETA - 4 ADCYRS_reverse_3513c + 4 ADCYRS
+ - ASNS1_reverse_90309 + ASNS1 - ACOTA_reverse_c4379 + ACOTA
+ - CBPS_reverse_80907 + CBPS - 2 HGYDAS_reverse_bc303 + 2 HGYDAS
+ + ORNTAC_reverse_b265a - ORNTAC - GF6PTA_reverse_21fb1 + GF6PTA
+ - NADS2_reverse_b427b + NADS2 - ANS_reverse_4e062 + ANS
+ - AOOA_reverse_2e8da + AOOA + OHPBAT_reverse_7e72e - OHPBAT
+ + GLNS_reverse_59581 - GLNS + LEUTA - LEUTA_reverse_0b6fe + ORNTA
+ - ORNTA_reverse_5adff + ASPTA - ASPTA_reverse_36525 + TYRTA
+ - TYRTA_reverse_e9311 - DHFS + DHFS_reverse_f7920 + 2 GLUSfx
+ - 2 GLUSfx_reverse_468d6 - GLUCYS + GLUCYS_reverse_f13d6 - GLUTRS
+ + GLUTRS_reverse_b214d + EHGLAT - EHGLAT_reverse_8439b - DAPNH4T
+ + DAPNH4T_reverse_37b98 - GLU5K + GLU5K_reverse_0d895 + GLUPRT
+ - GLUPRT_reverse_1f180 - PSERT + PSERT_reverse_cbee4 + GTHRDH
+ - GTHRDH_reverse_b9665 + PRFGS - PRFGS_reverse_db4e5 + GMPS2
+ - GMPS2_reverse_aa6c4 + VALTA - VALTA_reverse_1d084 + CTPS2
+ - CTPS2_reverse_9c0ad + GLUR - GLUR_reverse_6b3bf + PHETA1
+ - PHETA1_reverse_9d47a = 0
+ bm_cofactors_c: - BM_COFACTORS_reverse_ee9a6 + BM_COFACTORS
+ + 0.00119 BOF_reverse_2629d - 0.00119 BOF = 0
+ r_241: - TYRTA_reverse_e9311 + TYRTA + PPND - PPND_reverse_5463c = 0
+ ctp_c: - CTPS2_reverse_9c0ad + CTPS2 + 0.86375 BM_RNA_reverse_81982
+ - 0.86375 BM_RNA + DCTPD2_reverse_164e0 - DCTPD2 + PPNCL2_reverse_a65ee
+ - PPNCL2 - NDPK3_reverse_37ea6 + NDPK3 - MEPCT + MEPCT_reverse_de97a
+ - G1PCTYT + G1PCTYT_reverse_16243 - PHYTK + PHYTK_reverse_bc1a5
+ - CDPDAGS_OLE_PALM + CDPDAGS_OLE_PALM_reverse_c0d83 - KDOCT2
+ + KDOCT2_reverse_b2fcd = 0
+ pqh2_cm: + 2 CYTBD4cm_reverse_64e50 - 2 CYTBD4cm + NDHPQRcm
+ - NDHPQRcm_reverse_d5587 + PQH2tcm - PQH2tcm_reverse_90815 + MNHNAtpp
+ - MNHNAtpp_reverse_59fe7 = 0
+ fad_c: - AFAT_reverse_951b7 + AFAT + 0.0214 BM_COFACTORS_reverse_ee9a6
+ - 0.0214 BM_COFACTORS = 0
+ r_245: - SHCHCS3_reverse_fb361 + SHCHCS3 + SUCBZS_reverse_cdbc9
+ - SUCBZS = 0
+ dhna_c: - DHNCOAT_reverse_58c26 + DHNCOAT + DHNANT_reverse_39a88
+ - DHNANT = 0
+ co2_cx: - HCO3E_1_cx_reverse_3a8f8 + HCO3E_1_cx - 0.99 RBPCcx
+ + 0.99 RBPCcx_reverse_6742e = 0
+ acg5sa_c: + AGPR_reverse_5dce4 - AGPR + ACOTA - ACOTA_reverse_c4379 = 0
+ ala__D_c: - s_1614 + x_1613 - s_1578 + x_1577 - AGM4PCP_reverse_4f872
+ + AGM4PCP + 2 ALAALAr_reverse_18faa - 2 ALAALAr + ALAR
+ - ALAR_reverse_77133 + AM4PCP - AM4PCP_reverse_9f67b + UM4PCP
+ - UM4PCP_reverse_86d06 + 2 ALAALAD - 2 ALAALAD_reverse_ddcdd
+ + DALAabcpp - DALAabcpp_reverse_0bf96 = 0
+ aicar_c: - IG3PS_reverse_12008 + IG3PS - AICART + AICART_reverse_b7b59
+ + ADSL2r - ADSL2r_reverse_42348 = 0
+ g6p_c: - HEX1_reverse_25efa + HEX1 + G6PDH2r_reverse_19ddf - G6PDH2r
+ + PGI_reverse_27efc - PGI + PGMT - PGMT_reverse_5bcdd = 0
+ glu5sa_c: - G5SD_reverse_af8c0 + G5SD + ORNTA - ORNTA_reverse_5adff
+ - G5SADs + G5SADs_reverse_c7fa4 = 0
+ zcarote_c: + ZDS_reverse_25837 - ZDS + PDS2 - PDS2_reverse_c1831 = 0
+ ac_c: + DM_ac_c_reverse_17912 - DM_ac_c - AGDC_reverse_2ab9d + AGDC
+ - AHSERL2_reverse_2d820 + AHSERL2 + ACS_reverse_37635 - ACS
+ - CYSS_2_reverse_8e1d0 + CYSS_2 - ACKr + ACKr_reverse_b49c0 + PC6AS
+ - PC6AS_reverse_590fa + UHGADA2 - UHGADA2_reverse_e04ae - ALDD2y
+ + ALDD2y_reverse_03afb + ACODA - ACODA_reverse_504cc = 0
+ pre3b_c: + PC17M_reverse_28a28 - PC17M + PRE3BS - PRE3BS_reverse_ea947
+ = 0
+ mthgxl_c: - GLYOX_1_reverse_d01d4 + GLYOX_1 = 0
+ r_257: - ILETA_reverse_aec70 + ILETA + DHAD2 - DHAD2_reverse_755c6 = 0
+ r_258: + DM_5drib_c_reverse_37606 - DM_5drib_c - s_56 + x_55 = 0
+ e4hglu_c: - EHGLAT + EHGLAT_reverse_8439b = 0
+ dgtp_c: - 0.89986 BM_DNA + 0.89986 BM_DNA_reverse_0ba5c + NDPK5
+ - NDPK5_reverse_6973f = 0
+ cys__L_c: + CYSTRS_reverse_08992 - CYSTRS + 2 LIPOS2_reverse_2319a
+ - 2 LIPOS2 + BTS6_reverse_40426 - BTS6 + GLUCYS_reverse_f13d6 - GLUCYS
+ - PPNCL2 + PPNCL2_reverse_a65ee + CYSS_2 - CYSS_2_reverse_8e1d0
+ - PPNCL3 + PPNCL3_reverse_cd065 + AMPTASECG - AMPTASECG_reverse_11d5d
+ - CYSDS + CYSDS_reverse_c49c8 = 0
+ bm_rna_c: - BM_RNA_reverse_81982 + BM_RNA - 0.1133 BOF
+ + 0.1133 BOF_reverse_2629d = 0
+ hisp_c: + AOOA_reverse_2e8da - AOOA - HISTP + HISTP_reverse_5e409 = 0
+ lyc_c: - NOR_reverse_11d45 + NOR - LYCBC1 + LYCBC1_reverse_e6b09
+ + PLYCOI - PLYCOI_reverse_c2299 = 0
+ citr__L_c: - OCBT_reverse_f5568 + OCBT - ARGSS + ARGSS_reverse_5760d
+ = 0
+ r_266: - DHNPA_1_reverse_b1649 + DHNPA_1 - HPPK + HPPK_reverse_e0ee3
+ = 0
+ pdx5p_c: - PDX5PS2_reverse_cfb17 + PDX5PS2 + PDX5POi_reverse_797dd
+ - PDX5POi = 0
+ fru_c: - SUCR_reverse_ea228 + SUCR + HEX7_reverse_f7d4e - HEX7 = 0
+ r_269: - MECDPS_reverse_8baa5 + MECDPS + MECDPDHf_reverse_07da8
+ - MECDPDHf = 0
+ cbasp_c: - DHORTS_reverse_82d73 + DHORTS - ASPCT_reverse_c18b9 + ASPCT
+ = 0
+ dnad_c: + NADS2_reverse_b427b - NADS2 - NNATr_reverse_8ab73 + NNATr = 0
+ datp_c: - NDPK8_reverse_13dd1 + NDPK8 - 0.7237 BM_DNA
+ + 0.7237 BM_DNA_reverse_0ba5c = 0
+ prlp_c: - PRMICI_reverse_af0a9 + PRMICI - IG3PS + IG3PS_reverse_12008
+ = 0
+ toctd2eACP_c: + EAR180x_reverse_fbf60 - EAR180x - x_562 + x_561 = 0
+ cholphya_c: + 0.95 ETAPCPSII_reverse_b6974 - 0.95 ETAPCPSII
+ - 0.65 ETCHLAS_reverse_12be2 + 0.65 ETCHLAS + PHOA690um_reverse_77820
+ - PHOA690um + 0.85 PHOA430um_reverse_2152e - 0.85 PHOA430um
+ - 0.507 BM_PIGMENTS + 0.507 BM_PIGMENTS_reverse_cb5bd + CHPHYS
+ - CHPHYS_reverse_77b21 - CHLADMT + CHLADMT_reverse_2790a
+ - 0.9 PHOA410um + 0.9 PHOA410um_reverse_c47f0 - 0.7 PHOA450um
+ + 0.7 PHOA450um_reverse_eda8e - 0.75 ETBCARO
+ + 0.75 ETBCARO_reverse_6e466 - 0.9 STACPSI + 0.9 STACPSI_reverse_8addd
+ + PSICSum - PSICSum_reverse_f4e46 + PSIICSum - PSIICSum_reverse_e1197
+ + 0.1 STCHLPSIum - 0.1 STCHLPSIum_reverse_e493e = 0
+ glc__D_c: + CELLSYN_reverse_287bb - CELLSYN + HEX1_reverse_25efa - HEX1
+ + GLCDBRAN3 - GLCDBRAN3_reverse_85d8b + SUCR - SUCR_reverse_ea228 = 0
+ o2_cx: + 0.01 RBPCcx_reverse_6742e - 0.01 RBPCcx + O2tcx
+ - O2tcx_reverse_6b2f8 = 0
+ orot5p_c: + ORPT_reverse_19432 - ORPT - OMPDC + OMPDC_reverse_45ba1 = 0
+ k_c: - Nat_Kpp_reverse_03d15 + Nat_Kpp
+ + 0.0013 BM_COFACTORS_reverse_ee9a6 - 0.0013 BM_COFACTORS + Kabcpp
+ - Kabcpp_reverse_35f86 - Ktu + Ktu_reverse_5c5f2 = 0
+ amet_c: + 2 LIPOS2_reverse_2319a - 2 LIPOS2 + PC20M_reverse_ceb32
+ - PC20M + 2 UPP3MT_reverse_2adf0 - 2 UPP3MT + MPOMT_reverse_ccd2e
+ - MPOMT + PC11M_reverse_f4161 - PC11M + AMPQT_reverse_441c1 - AMPQT
+ + PC17M_reverse_28a28 - PC17M + DNAMTn2r_reverse_2612b - DNAMTn2r
+ + AMPMS3_reverse_b5e80 - AMPMS3 + PC6AS_reverse_590fa - PC6AS
+ + MSBENZMT_reverse_a902a - MSBENZMT - ADMDC + ADMDC_reverse_e2782
+ - 2 CPPPGO2 + 2 CPPPGO2_reverse_e5000 + METAT - METAT_reverse_793ef
+ - 2 PC6YM + 2 PC6YM_reverse_82472 - NPHBDC + NPHBDC_reverse_8b305
+ - 2 SHS1 + 2 SHS1_reverse_92a6f - MALCOAMT + MALCOAMT_reverse_1031e
+ - AMAOTr + AMAOTr_reverse_a5426 - BTS6 + BTS6_reverse_40426 - SAMTRI
+ + SAMTRI_reverse_06c4c = 0
+ dtdprmn_c: + TDPDRR - TDPDRR_reverse_e7bd2 = 0
+ r_282: + IMDHT_3c2hmp_reverse_231f8 - IMDHT_3c2hmp
+ - IMDHT_reverse_c2b87 + IMDHT = 0
+ pro__L_c: + PROTRS_reverse_9d634 - PROTRS + P5CR - P5CR_reverse_55c58
+ - PROHX + PROHX_reverse_27f44 = 0
+ cpppg3_c: + UPPDC1 - UPPDC1_reverse_cb592 - CPPPGO2
+ + CPPPGO2_reverse_e5000 - CPPPGO + CPPPGO_reverse_f858f = 0
+ h2mb4p_c: - MECDPDHf_reverse_07da8 + MECDPDHf + IPDPS_reverse_baaf9
+ - IPDPS - DMPPS_syn + DMPPS_syn_reverse_e9648 = 0
+ thmmp_c: + TMPK_reverse_b7673 - TMPK + TMPPP - TMPPP_reverse_f275c = 0
+ cdpglc_c: + G1PCTYT - G1PCTYT_reverse_16243 - CDPGLC46DH
+ + CDPGLC46DH_reverse_17ba1 = 0
+ xmp_c: - IMPD_reverse_6e625 + IMPD - GMPS2 + GMPS2_reverse_aa6c4 = 0
+ co2dam_c: + 2 CYRDAR_reverse_9aae4 - 2 CYRDAR - COCHL_reverse_a39d4
+ + COCHL = 0
+ fdxox_c: - 2 NDH~1(3)um_reverse_d4f81 + 2 NDH~1(3)um
+ - 2 NTRARf2_reverse_5d5d6 + 2 NTRARf2 - 6 SULR_reverse_12727 + 6 SULR
+ - 2 TRDRf_reverse_45a8b + 2 TRDRf - 2 NDH~1(4)um_reverse_f9189
+ + 2 NDH~1(4)um - 2 MECDPDHf_reverse_07da8 + 2 MECDPDHf
+ - 2 FNOR_reverse_28480 + 2 FNOR - 2 DPOR_reverse_8b09e + 2 DPOR
+ - 2 GLUSfx_reverse_468d6 + 2 GLUSfx + 0.99 PSIum_reverse_43c5e
+ - 0.99 PSIum - 4 PHYFXOR_reverse_84960 + 4 PHYFXOR + 2 NDH~1(1)um
+ - 2 NDH~1(1)um_reverse_85750 + 6 HOXGfx - 6 HOXGfx_reverse_2964c
+ + 6 NTRIRfx - 6 NTRIRfx_reverse_8d8c5 + 2 PHEOX - 2 PHEOX_reverse_c1df7
+ + 2 LIPOS2 - 2 LIPOS2_reverse_2319a + 2 NDH~1(2)um
+ - 2 NDH~1(2)um_reverse_c7743 = 0
+ orn_c: - ORNTAC_reverse_b265a + ORNTAC + ORNTA_reverse_5adff - ORNTA
+ - ORNDC + ORNDC_reverse_63596 + ACODA - ACODA_reverse_504cc - OCBT
+ + OCBT_reverse_f5568 = 0
+ r_292: - FOLD3 + FOLD3_reverse_4bc58 + HPPK - HPPK_reverse_e0ee3 = 0
+ pre6b_c: + PC6AR_reverse_0549d - PC6AR + PC6YM_reverse_82472 - PC6YM
+ = 0
+ gln__L_c: + GLNTRS_reverse_062f1 - GLNTRS + GMPS2_reverse_aa6c4 - GMPS2
+ + GLUPRT_reverse_1f180 - GLUPRT + ASNS1_reverse_90309 - ASNS1
+ + CBPS_reverse_80907 - CBPS + 2 HGYDAS_reverse_bc303 - 2 HGYDAS
+ + GLUSfx_reverse_468d6 - GLUSfx + ANS_reverse_4e062 - ANS + GLNS
+ - GLNS_reverse_59581 - NADS2 + NADS2_reverse_b427b - GF6PTA
+ + GF6PTA_reverse_21fb1 + GLNabcpp - GLNabcpp_reverse_c0546 - 4 ADCYRS
+ + 4 ADCYRS_reverse_3513c - PRFGS + PRFGS_reverse_db4e5 - CTPS2
+ + CTPS2_reverse_9c0ad - ADCS + ADCS_reverse_5303c - IG3PS
+ + IG3PS_reverse_12008 = 0
+ r_295: - s_788 + x_787 - x_67 + x_68 = 0
+ r_296: - s_602 + x_601 - GLYCK_reverse_c3ee2 + GLYCK
+ + PGK_reverse_02696 - PGK - PGCD + PGCD_reverse_1bc76 + PGM
+ - PGM_reverse_fc9af = 0
+ pheme_c: + HEMEOS_reverse_b63ba - HEMEOS + HOXGfx_reverse_2964c
+ - HOXGfx + FCLT - FCLT_reverse_1a6b6 = 0
+ methf_c: - MTHFD_reverse_c10fd + MTHFD + MTHFC_reverse_f6fcc - MTHFC
+ = 0
+ co1dam_c: + CYRDAAT_reverse_d0652 - CYRDAAT + 2 CYRDAR
+ - 2 CYRDAR_reverse_9aae4 = 0
+ mppp9me_c: + MPOMC1_reverse_5b08b - MPOMC1 + MPOMT
+ - MPOMT_reverse_ccd2e = 0
+ bm_dna_c: - 0.0073 BOF + 0.0073 BOF_reverse_2629d + BM_DNA
+ - BM_DNA_reverse_0ba5c = 0
+ fe3_c: - FE3abcpp_reverse_4aad8 + FE3abcpp
+ + 0.6518 BM_COFACTORS_reverse_ee9a6 - 0.6518 BM_COFACTORS - 2 TRNFE
+ + 2 TRNFE_reverse_f6e07 = 0
+ zn2_c: - ZNabcpp_reverse_14d34 + ZNabcpp = 0
+ hexACP_c: - EAR60y_reverse_02e5e + EAR60y - x_481 + s_482 = 0
+ prephytedp_c: + PHYTES2_reverse_e5cbe - PHYTES2 + PHYTES
+ - PHYTES_reverse_45da8 = 0
+ glu1sa_c: + GLUTRR - GLUTRR_reverse_355d5 - G1SAT + G1SAT_reverse_2ec2f
+ = 0
+ chor_c: + ADCS_reverse_5303c - ADCS - CHORS_reverse_17772 + CHORS
+ + ICHORS_reverse_8e175 - ICHORS + CHRPL_reverse_46f50 - CHRPL - ANS
+ + ANS_reverse_4e062 - CHORM + CHORM_reverse_38aac - ANS2
+ + ANS2_reverse_5a40c = 0
+ r_308: - E4PD_reverse_babdb + E4PD - PERD + PERD_reverse_c9aa4 = 0
+ hemeA_c: - HEMEAS_reverse_9357a + HEMEAS = 0
+ glucys_c: + GLUCYS - GLUCYS_reverse_f13d6 - GTHS + GTHS_reverse_172f9
+ = 0
+ dmpp_c: - DMPPS_syn_reverse_e9648 + DMPPS_syn - IPDDI_reverse_6c5f9
+ + IPDDI + DMATT_reverse_3a731 - DMATT = 0
+ inost_c: + MI3PP - MI3PP_reverse_1228d = 0
+ r_313: - H4THDPS_reverse_5f722 + H4THDPS - H4THDPR
+ + H4THDPR_reverse_617be = 0
+ applp_c: + ADCPS2_reverse_34636 - ADCPS2 + THRPD - THRPD_reverse_0dc99
+ = 0
+ oaa_c: - PEPC_reverse_66f39 + PEPC - ASPOb_reverse_0f7c6 + ASPOb
+ + CS_reverse_8d7e9 - CS - ASPTA_reverse_36525 + ASPTA = 0
+ no3_c: - NO3abcpp_reverse_79978 + NO3abcpp - NTRARf2
+ + NTRARf2_reverse_5d5d6 = 0
+ uamag_c: + UAMAGS - UAMAGS_reverse_a0d94 - UAAGDS
+ + UAAGDS_reverse_313a9 = 0
+ dialurate_c: + DM_dialurate_c_reverse_ae7c2 - DM_dialurate_c + DMBZIDS2
+ - DMBZIDS2_reverse_6417b = 0
+ gcaro_c: - LYCBC1_reverse_e6b09 + LYCBC1 - LYCBC2
+ + LYCBC2_reverse_44059 = 0
+ ser__L_c: + SERTRS_reverse_b65b1 - SERTRS + GHMT2r_reverse_d977f
+ - GHMT2r - SPTr_reverse_bb7b1 + SPTr + SERAT_reverse_0de5e - SERAT
+ - TRPS1 + TRPS1_reverse_35c22 + PSP_L - PSP_L_reverse_cfa3c - TRPS2
+ + TRPS2_reverse_cd73f = 0
+ r_321: - G5SADs_reverse_c7fa4 + G5SADs - P5CR + P5CR_reverse_55c58 = 0
+ ppi_c: - KDOCT2_reverse_b2fcd + KDOCT2 - ILETRS_reverse_02878 + ILETRS
+ - LEUTRS_reverse_06175 + LEUTRS - THRTRS_reverse_12237 + THRTRS
+ - ASPTRS_reverse_8f6e6 + ASPTRS - PHETRS_reverse_a31de + PHETRS
+ - ARGTRS_reverse_1ecbf + ARGTRS - CYSTRS_reverse_08992 + CYSTRS
+ - PROTRS_reverse_9d634 + PROTRS - METTRS_reverse_d6cd0 + METTRS
+ - CDPDAGS_OLE_PALM_reverse_c0d83 + CDPDAGS_OLE_PALM
+ - AACPS6_reverse_8fda3 + AACPS6 - GLGC_reverse_f6fb0 + GLGC
+ - UAGDP_reverse_a5ec0 + UAGDP - CHPHYS_reverse_77b21 + CHPHYS
+ - ANPRT_reverse_e2684 + ANPRT - GRTT_reverse_f3afe + GRTT
+ + ORPT_reverse_19432 - ORPT - ARGSS_reverse_5760d + ARGSS
+ - GMPS2_reverse_aa6c4 + GMPS2 - PTPATi_reverse_381d9 + PTPATi
+ - NTPP2_reverse_bff4f + NTPP2 - ATPPRT_reverse_00060 + ATPPRT
+ - ASNS1_reverse_90309 + ASNS1 - METAT_reverse_793ef + METAT
+ - GTPCII_reverse_a84d9 + GTPCII - G1PCTYT_reverse_16243 + G1PCTYT
+ - PPNCL3_reverse_cd065 + PPNCL3 - SADT_reverse_91e08 + SADT
+ - MEPCT_reverse_de97a + MEPCT - 3.24711 BM_DNA_reverse_0ba5c
+ + 3.24711 BM_DNA - PPKr_reverse_7720e + PPKr - GALUi_reverse_c40d5
+ + GALUi - NADS2_reverse_b427b + NADS2 - DMATT_reverse_3a731 + DMATT
+ - DHNANT_reverse_39a88 + DHNANT - ADPT_reverse_567cf + ADPT
+ - SUCBZL_reverse_536e6 + SUCBZL + PPK2r_reverse_30874 - PPK2r
+ - NAMNPP_reverse_ebb31 + NAMNPP - 8 UDCPDPS_reverse_04082 + 8 UDCPDPS
+ + NNATr - NNATr_reverse_8ab73 + DNTPPA - DNTPPA_reverse_7e624 + TMPPP
+ - TMPPP_reverse_f275c + HBZNPT - HBZNPT_reverse_37fab + MAN1PT
+ - MAN1PT_reverse_c317b + PHYTES - PHYTES_reverse_45da8 + ACBIPGT
+ - ACBIPGT_reverse_bcc45 + G1PTT - G1PTT_reverse_acd22 + FOLD3
+ - FOLD3_reverse_4bc58 + PHYTES2 - PHYTES2_reverse_e5cbe + NMNS
+ - NMNS_reverse_c18e5 + PPNCL2 - PPNCL2_reverse_a65ee + NMNAT
+ - NMNAT_reverse_6a3d7 + PRATPP - PRATPP_reverse_99bf0 + NTPP8
+ - NTPP8_reverse_ce3f8 + GLUTRS - GLUTRS_reverse_b214d + PANTS
+ - PANTS_reverse_11dcb + HEMEOS - HEMEOS_reverse_b63ba + ACS
+ - ACS_reverse_37635 + GLUPRT - GLUPRT_reverse_1f180 + NNDPR
+ - NNDPR_reverse_445ff - PPA + PPA_reverse_c5293 + 7 NPDPS
+ - 7 NPDPS_reverse_e1c6b + 3.11683 BM_RNA - 3.11683 BM_RNA_reverse_81982
+ + AFAT - AFAT_reverse_951b7 + FRTT - FRTT_reverse_5200c + THISAT
+ - THISAT_reverse_a22de + BACCL - BACCL_reverse_8bcde + LIPATPT
+ - LIPATPT_reverse_e209a + UPPRT - UPPRT_reverse_07052 + GLNTRS
+ - GLNTRS_reverse_062f1 + TYRTRS - TYRTRS_reverse_27d64 + SERTRS
+ - SERTRS_reverse_b65b1 + GLYTRS - GLYTRS_reverse_b4742 + TRPTRS
+ - TRPTRS_reverse_f29b7 + HISTRS - HISTRS_reverse_a6df2 + ASNTRS
+ - ASNTRS_reverse_ee3aa + LYSTRS - LYSTRS_reverse_d3497 + ALATRS
+ - ALATRS_reverse_de5e9 + VALTRS - VALTRS_reverse_72083 = 0
+ ribflv_c: - RBFSb_reverse_32299 + RBFSb - RBFK + RBFK_reverse_8faa7 = 0
+ tyr__L_c: - TYRTA + TYRTA_reverse_e9311 - TYRTRS + TYRTRS_reverse_27d64
+ = 0
+ pap_c: + BPNT_reverse_53108 - BPNT + PAPSR - PAPSR_reverse_75961 = 0
+ oxa_c: - OXADC + OXADC_reverse_49a15 + GLXO3r - GLXO3r_reverse_9f4c1
+ = 0
+ r_327: + GTPCII - GTPCII_reverse_a84d9 - DHPPDA + DHPPDA_reverse_11c00
+ = 0
+ r_328: - HBZNPT_reverse_37fab + HBZNPT - NPHBDC + NPHBDC_reverse_8b305
+ = 0
+ h2o_p: + MDDEP4pp_reverse_6d84a - MDDEP4pp + MDDEP2pp_reverse_952c4
+ - MDDEP2pp + H2Otpp_reverse_01d15 - H2Otpp - H2Otex_reverse_57da2
+ + H2Otex - ARGDHpp + ARGDHpp_reverse_88804 + OANTILpp
+ - OANTILpp_reverse_4957a - MDDCP1pp + MDDCP1pp_reverse_77f34 - MDDCP2pp
+ + MDDCP2pp_reverse_16437 - MDDCP3pp + MDDCP3pp_reverse_def42 - MDDCP4pp
+ + MDDCP4pp_reverse_76a1f - MDDCP5pp + MDDCP5pp_reverse_fd1dc - MDDEP1pp
+ + MDDEP1pp_reverse_6e8fc - MDDEP3pp + MDDEP3pp_reverse_99f89
+ - MLDCP1App + MLDCP1App_reverse_96701 - MLDCP1Bpp
+ + MLDCP1Bpp_reverse_5a028 - MLDCP2App + MLDCP2App_reverse_ab200
+ - MLDCP2Bpp + MLDCP2Bpp_reverse_14d0a - AGM4PApp
+ + AGM4PApp_reverse_5ec54 - AGM3PApp + AGM3PApp_reverse_74a9d = 0
+ pre8_c: + PC8XM_reverse_8cde7 - PC8XM + PC6YM - PC6YM_reverse_82472 = 0
+ r_331: - DHQTi_reverse_c4498 + DHQTi - SHK3Dr + SHK3Dr_reverse_d5c8f
+ = 0
+ dhpmp_c: + DNMPPA_reverse_131b7 - DNMPPA + DNTPPA
+ - DNTPPA_reverse_7e624 = 0
+ glyc__R_c: - TRSARyr_reverse_a22d9 + TRSARyr - GLYCK
+ + GLYCK_reverse_c3ee2 + GLYCOR_nadp - GLYCOR_nadp_reverse_fe8f6
+ + GLYALDDy - GLYALDDy_reverse_7e106 = 0
+ dad_5_c: - 2 LIPOS2_reverse_2319a + 2 LIPOS2 - BTS6_reverse_40426
+ + BTS6 + s_56 - x_55 + AMPMS3 - AMPMS3_reverse_b5e80 + 2 CPPPGO2
+ - 2 CPPPGO2_reverse_e5000 = 0
+ r_335: + DHQS_reverse_3d16b - DHQS - DDPA_reverse_575e8 + DDPA = 0
+ acglu_c: - ACGK + ACGK_reverse_684be + ORNTAC - ORNTAC_reverse_b265a
+ + ACGS - ACGS_reverse_c8939 = 0
+ imp_c: + IMPC_reverse_efa41 - IMPC + IMPD_reverse_6e625 - IMPD - ADSS
+ + ADSS_reverse_c75bb = 0
+ nad_c: + FALDH2_reverse_f1aae - FALDH2 + 2 UDPGD_reverse_de167
+ - 2 UDPGD + NADDP_reverse_7a11e - NADDP + ERTHMMOR_reverse_d7ffe
+ - ERTHMMOR - BCAROHX_reverse_82eaa + BCAROHX + NPHBDC_reverse_8b305
+ - NPHBDC - NDHPQRcm_reverse_d5587 + NDHPQRcm + HTHRPDH_reverse_9ee3b
+ - HTHRPDH - NDHPQRum_reverse_c36b6 + NDHPQRum + ALAD_L_reverse_4f37b
+ - ALAD_L - 2 ALDD2y_reverse_03afb + 2 ALDD2y - BCAROHX2_reverse_888eb
+ + BCAROHX2 + GLYDHDA_reverse_663d3 - GLYDHDA + PERD_reverse_c9aa4
+ - PERD + IMPD_reverse_6e625 - IMPD - GLYCL + GLYCL_reverse_e418f
+ - 2 HEMEAS + 2 HEMEAS_reverse_9357a - HISTDb + HISTDb_reverse_acd55
+ - PPND + PPND_reverse_5463c - HISTDa + HISTDa_reverse_76147 + DMBZIDS2
+ - DMBZIDS2_reverse_6417b + NADS2 - NADS2_reverse_b427b + PRE3BS
+ - PRE3BS_reverse_ea947 + NMNAT - NMNAT_reverse_6a3d7 - LDH_D
+ + LDH_D_reverse_f8507 + NAD_H2 - NAD_H2_reverse_69196 - PGCD
+ + PGCD_reverse_1bc76 - IPMD + IPMD_reverse_d7a5e - 0.1708 BM_COFACTORS
+ + 0.1708 BM_COFACTORS_reverse_ee9a6 + EAR180x - EAR180x_reverse_fbf60
+ + CYRDAR - CYRDAR_reverse_9aae4 - NADK + NADK_reverse_bba52 - NADTRHD
+ + NADTRHD_reverse_49725 - GLYCLTDx + GLYCLTDx_reverse_d2f71 - PDH
+ + PDH_reverse_ca160 - GAPD + GAPD_reverse_459c1 - E4PD
+ + E4PD_reverse_babdb + TRNFE - TRNFE_reverse_f6e07 - SHS1
+ + SHS1_reverse_92a6f + ALCD19 - ALCD19_reverse_d90b5 - ALCD1
+ + ALCD1_reverse_895d7 = 0
+ dcamp_c: - ADSS_reverse_c75bb + ADSS - ADSL1r + ADSL1r_reverse_2ae14
+ = 0
+ bm_carbs_c: - BM_CARB_reverse_8b7cd + BM_CARB - 0.0975 BOF
+ + 0.0975 BOF_reverse_2629d = 0
+ r_341: + ACLSa - ACLSa_reverse_75fb2 - ACLSb + ACLSb_reverse_588fa
+ - ACHBSb + ACHBSb_reverse_a040e = 0
+ imacp_c: - IGPDH_reverse_b1a3c + IGPDH - AOOA_reverse_2e8da + AOOA = 0
+ dmlz_c: + RBFSa - RBFSa_reverse_61d96 - 2 RBFSb + 2 RBFSb_reverse_32299
+ = 0
+ g3p_c: + GAPD_reverse_459c1 - GAPD - PKETX_reverse_c5cd4 + PKETX
+ + DXPS_reverse_86aca - DXPS - TKT2_reverse_7ebc7 + TKT2
+ - TRPS3_reverse_bdfbb + TRPS3 + TRPS1 - TRPS1_reverse_35c22 - TALA
+ + TALA_reverse_adfda + FBA - FBA_reverse_84806 + GAPDi_nadp
+ - GAPDi_nadp_reverse_782a6 + TKT1 - TKT1_reverse_a1021 + TPI
+ - TPI_reverse_c2c3b = 0
+ dadp_c: - RNDR1_reverse_f4be1 + RNDR1 - NDPK8 + NDPK8_reverse_13dd1
+ + DADK - DADK_reverse_006ea = 0
+ o2_p: + ARGDHpp_reverse_88804 - ARGDHpp - O2tex_reverse_a3b28 + O2tex
+ - O2tpp + O2tpp_reverse_28c7e = 0
+ fmnh2_c: - FMNRy_reverse_1ba9b + FMNRy - DMBZIDS2
+ + DMBZIDS2_reverse_6417b = 0
+ nadph_c: + MNHNAtpp_reverse_59fe7 - MNHNAtpp + CXANHX_reverse_34809
+ - CXANHX + 2 ALDDC17_reverse_1b5d0 - 2 ALDDC17 + ALDR18_reverse_34ff9
+ - ALDR18 + GFUCS_reverse_2cd5e - GFUCS + EPXQR_reverse_6205d - EPXQR
+ + 2 CDGR_reverse_e4464 - 2 CDGR + EPMEACPR_reverse_794bd - EPMEACPR
+ + OPMEACPR_reverse_7cc6e - OPMEACPR + EGMEACPR_reverse_1b486 - EGMEACPR
+ + OGMEACPR_reverse_53919 - OGMEACPR + THII_reverse_23906 - THII
+ + 2 SPR_reverse_d4f3a - 2 SPR + FMNRy_reverse_1ba9b - FMNRy
+ + DMPPS_syn_reverse_e9648 - DMPPS_syn - PDS1_reverse_1e20b + PDS1
+ + NADTRHD_reverse_49725 - NADTRHD - x_850 + x_849
+ + KARA1i_reverse_af5a6 - KARA1i + GTHOr_reverse_8f1f9 - GTHOr
+ + MTHFR3_1_reverse_1a948 - MTHFR3_1 + DVOCHR_reverse_5b763 - DVOCHR
+ + KARI_23dhmp_reverse_d9e1b - KARI_23dhmp - AGPR_reverse_5dce4 + AGPR
+ - MTHFD_reverse_c10fd + MTHFD + MPOMMM_reverse_30349 - MPOMMM
+ + GAPDi_nadp_reverse_782a6 - GAPDi_nadp - ALDD2y_reverse_03afb + ALDD2y
+ + DXPRIi_reverse_85956 - DXPRIi - G6PDH2r_reverse_19ddf + G6PDH2r
+ - ME2_reverse_2b0a2 + ME2 + 3 GGDPR_reverse_ea652 - 3 GGDPR + x_368
+ - x_367 + DPR_reverse_691d8 - DPR + x_340 - x_339
+ + GLUTRR_reverse_355d5 - GLUTRR + x_274 - x_273 + x_272 - x_271
+ + IPDPS_reverse_baaf9 - IPDPS + DESAT18a_reverse_fd859 - DESAT18a
+ - H4THDPR + H4THDPR_reverse_617be - x_67 + x_68 - G5SD
+ + G5SD_reverse_af8c0 - NOR + NOR_reverse_11d45 - LPOR
+ + LPOR_reverse_ae81c + GCALDDy - GCALDDy_reverse_2af46 - x_111 + x_112
+ - x_137 + x_138 + DHNANT - DHNANT_reverse_39a88 + GND
+ - GND_reverse_eec5c - HSDyi + HSDyi_reverse_76518 + PDS2
+ - PDS2_reverse_c1831 + G3PD2 - G3PD2_reverse_0c363 - ASADi
+ + ASADi_reverse_c6412 - 2 MEHLER + 2 MEHLER_reverse_20c70 - P5CR
+ + P5CR_reverse_55c58 - EAR60y + EAR60y_reverse_02e5e - UAPGR
+ + UAPGR_reverse_4f67b - GLYCOR_nadp + GLYCOR_nadp_reverse_fe8f6
+ - APRAUR + APRAUR_reverse_e674d - EAR120y + EAR120y_reverse_c7353
+ + FNOR - FNOR_reverse_28480 - 0.032 BM_COFACTORS
+ + 0.032 BM_COFACTORS_reverse_ee9a6 - EAR160y + EAR160y_reverse_e0622
+ - EAR100y + EAR100y_reverse_863b6 - HPROb + HPROb_reverse_9e6b2 - TRDR
+ + TRDR_reverse_6372e + GLYALDDy - GLYALDDy_reverse_7e106 - ZDS
+ + ZDS_reverse_25837 - TRSARyr + TRSARyr_reverse_a22d9 + PC6AR
+ - PC6AR_reverse_0549d - TDPDRR + TDPDRR_reverse_e7bd2 - SHK3Dr
+ + SHK3Dr_reverse_d5c8f - EAR40y + EAR40y_reverse_0f912 - TMDS3
+ + TMDS3_reverse_bd1fa - DHFR + DHFR_reverse_65c32 - EAR140y
+ + EAR140y_reverse_dff77 - DESAT16a + DESAT16a_reverse_7f95a - MPOMC1
+ + MPOMC1_reverse_5b08b - EAR80y + EAR80y_reverse_2df0a + ICDHyr
+ - ICDHyr_reverse_7f84b - MPOMOR + MPOMOR_reverse_ad3a7 - ZXANHX
+ + ZXANHX_reverse_a99d5 = 0
+ cbp_c: + OCBT_reverse_f5568 - OCBT - CBPS_reverse_80907 + CBPS - ASPCT
+ + ASPCT_reverse_c18b9 = 0
+ mi3p__D_c: + MI3PP_reverse_1228d - MI3PP = 0
+ tmrs2eACP_c: + EAR140y_reverse_dff77 - EAR140y + x_645 - x_646 = 0
+ r_352: + PGL_reverse_2bb6b - PGL - G6PDH2r_reverse_19ddf + G6PDH2r = 0
+ ppp9_c: + FCLT_reverse_1a6b6 - FCLT + PPPGO2 - PPPGO2_reverse_79864
+ - MPML + MPML_reverse_2bf21 = 0
+ mobd_c: - MOBDabcpp_reverse_4be38 + MOBDabcpp = 0
+ bm_memlip_c: - 0.1587 BOF + 0.1587 BOF_reverse_2629d + BM_MEM_LIPIDS
+ - BM_MEM_LIPIDS_reverse_f1815 = 0
+ dad_2_c: - NTD6_reverse_c5bce + NTD6 = 0
+ biliverd_c: - HOXGfx_reverse_2964c + HOXGfx + PHYFXOR_reverse_84960
+ - PHYFXOR = 0
+ pre4_c: - PC17M_reverse_28a28 + PC17M - PC11M + PC11M_reverse_f4161 = 0
+ ggdp_c: + GGDPR_reverse_ea652 - GGDPR - 2 PHYTES
+ + 2 PHYTES_reverse_45da8 + FRTT - FRTT_reverse_5200c = 0
+ pre3a_c: + PRE3BS_reverse_ea947 - PRE3BS + PC20M - PC20M_reverse_ceb32
+ = 0
+ rb15bp_c: + RB15BPtcx_reverse_6fe05 - RB15BPtcx - PRUK_reverse_a0fb4
+ + PRUK = 0
+ r_362: - x_761 + x_762 - x_849 + x_850 = 0
+ histd_c: - HISTP_reverse_5e409 + HISTP - HISTDa + HISTDa_reverse_76147
+ = 0
+ pphn_c: - CHORM_reverse_38aac + CHORM + PPND_reverse_5463c - PPND
+ - PPNDH + PPNDH_reverse_58300 = 0
+ nicrnt_c: + NNDMBRT_reverse_13f8c - NNDMBRT - NMNDA_reverse_0dc65
+ + NMNDA - NNATr + NNATr_reverse_8ab73 + NAMNPP - NAMNPP_reverse_ebb31
+ + NNDPR - NNDPR_reverse_445ff = 0
+ r_366: - s_946 + x_945 - x_273 + x_274 = 0
+ atp_c: + 360 NGAM_D1um_reverse_1ddad - 360 NGAM_D1um
+ + ACGAMK_reverse_1e7a8 - ACGAMK + OPAH_reverse_607f0 - OPAH
+ + ALAALAabcpp_reverse_75b27 - ALAALAabcpp + DALAabcpp_reverse_0bf96
+ - DALAabcpp + UM3PL_reverse_32754 - UM3PL + UM4PL_reverse_c309d - UM4PL
+ + OANTIabcpp_reverse_ccec6 - OANTIabcpp + ALATRS_reverse_de5e9 - ALATRS
+ + LEUTRS_reverse_06175 - LEUTRS + ASPTRS_reverse_8f6e6 - ASPTRS
+ + ASNTRS_reverse_ee3aa - ASNTRS + CYSTRS_reverse_08992 - CYSTRS
+ + SERTRS_reverse_b65b1 - SERTRS + METTRS_reverse_d6cd0 - METTRS
+ + GLNTRS_reverse_062f1 - GLNTRS + DAGK_OLE_HDE_reverse_219fc
+ - DAGK_OLE_HDE + DAGK_HDE_PALM_reverse_f515e - DAGK_HDE_PALM
+ + AACPS6_reverse_8fda3 - AACPS6 + CCGS_reverse_3ff79 - CCGS
+ + ADNK1_reverse_fe466 - ADNK1 + BACCL_reverse_8bcde - BACCL
+ + THISAT_reverse_a22de - THISAT + PFK_reverse_d24a6 - PFK
+ + URIDK2r_reverse_1aa74 - URIDK2r + UGMDDS_reverse_2401f - UGMDDS
+ + DADK_reverse_006ea - DADK + CTPS2_reverse_9c0ad - CTPS2
+ + 0.69466 BM_RNA_reverse_81982 - 0.69466 BM_RNA
+ + PIuabcpp_reverse_c4f9b - PIuabcpp - 3 ATPSum_reverse_7df19 + 3 ATPSum
+ + UAAGDS_reverse_313a9 - UAAGDS + 9.0199 BM_PROTEIN_reverse_4f8b8
+ - 9.0199 BM_PROTEIN + NI2uabcpp_reverse_db325 - NI2uabcpp
+ + MOBDabcpp_reverse_4be38 - MOBDabcpp + FE3abcpp_reverse_4aad8
+ - FE3abcpp + NO3abcpp_reverse_79978 - NO3abcpp + NADK_reverse_bba52
+ - NADK + NDPK4_reverse_9a1c8 - NDPK4 + ADK1_reverse_a6f90 - ADK1
+ + ARGSS_reverse_5760d - ARGSS + GMPS2_reverse_aa6c4 - GMPS2
+ + PRFGS_reverse_db4e5 - PRFGS + Kabcpp_reverse_35f86 - Kabcpp
+ + CYNTtabcpp_reverse_c4528 - CYNTtabcpp + ADSK_reverse_6806d - ADSK
+ + BCT1_syn_reverse_8b530 - BCT1_syn + PMPK_reverse_48b12 - PMPK
+ + PTRCabcpp_reverse_96b27 - PTRCabcpp + ATPPRT_reverse_00060 - ATPPRT
+ + ACS_reverse_37635 - ACS + NDPK1_reverse_9216a - NDPK1
+ + UAMAS_reverse_2b5e6 - UAMAS + NDPK8_reverse_13dd1 - NDPK8
+ + GLNabcpp_reverse_c0546 - GLNabcpp + UMPK_reverse_ae8e3 - UMPK
+ + METAT_reverse_793ef - METAT + GLUTRS_reverse_b214d - GLUTRS
+ + PRUK_reverse_a0fb4 - PRUK + PPNCL3_reverse_cd065 - PPNCL3
+ + 2 DPOR_reverse_8b09e - 2 DPOR + SADT_reverse_91e08 - SADT
+ + 2 HGYDAS_reverse_bc303 - 2 HGYDAS + PRAIS_reverse_8e616 - PRAIS
+ + NDPK2_reverse_10df6 - NDPK2 + ADCPS2_reverse_34636 - ADCPS2
+ + PPKr_reverse_7720e - PPKr + SULabcpp_reverse_40679 - SULabcpp
+ + NADS2_reverse_b427b - NADS2 + DHFS_reverse_f7920 - DHFS
+ + NDPK3_reverse_37ea6 - NDPK3 + GK1_reverse_11a40 - GK1
+ + PPK2r_reverse_30874 - PPK2r + COCHL_reverse_a39d4 - COCHL
+ + NAMNPP_reverse_ebb31 - NAMNPP + Cobalt2abcppI_reverse_894f2
+ - Cobalt2abcppI + NNATr_reverse_8ab73 - NNATr + AIRC2_reverse_50d74
+ - AIRC2 + ACGK_reverse_684be - ACGK + SHKK_reverse_163fd - SHKK
+ + GLNS_reverse_59581 - GLNS + PRAGSr_reverse_fd2d8 - PRAGSr
+ + NDPK7_reverse_9dc79 - NDPK7 - ACKr + ACKr_reverse_b49c0 - PNTK
+ + PNTK_reverse_236b6 - LEUabcpp + LEUabcpp_reverse_ab30a - DTMPK
+ + DTMPK_reverse_44d5a - PGK + PGK_reverse_02696 - CYTK1
+ + CYTK1_reverse_2fa21 - PFK_3 + PFK_3_reverse_037e0 - ZNabcpp
+ + ZNabcpp_reverse_14d34 - SUCBZL + SUCBZL_reverse_536e6 - ALAALAr
+ + ALAALAr_reverse_18faa - GLYCK + GLYCK_reverse_c3ee2 - 30 BOF
+ + 30 BOF_reverse_2629d - ATPM + ATPM_reverse_5b752 - UAMAGS
+ + UAMAGS_reverse_a0d94 - LTHRK + LTHRK_reverse_61b82 - PPS
+ + PPS_reverse_1c319 - HEX7 + HEX7_reverse_f7d4e - NMNAT
+ + NMNAT_reverse_6a3d7 - DPCOAK + DPCOAK_reverse_56ab9 - HSK
+ + HSK_reverse_e4218 - HPPK + HPPK_reverse_e0ee3 - ACCOAC
+ + ACCOAC_reverse_9d1cd - GLUCYS + GLUCYS_reverse_f13d6 - GART
+ + GART_reverse_61742 - SPMDabcpp + SPMDabcpp_reverse_7abfe - CA2abcpp
+ + CA2abcpp_reverse_aa3d6 - ASPK + ASPK_reverse_115d7 - CYRDAAT
+ + CYRDAAT_reverse_d0652 - ARGabcpp + ARGabcpp_reverse_2f37a - 2 CBPS
+ + 2 CBPS_reverse_80907 - MNabc_1 + MNabc_1_reverse_d9c27 - PANTS
+ + PANTS_reverse_11dcb - TMPK + TMPK_reverse_b7673 - ASNS1
+ + ASNS1_reverse_90309 - CDPMEK + CDPMEK_reverse_01872 - MG2uabcpp
+ + MG2uabcpp_reverse_adeed - GLU5K + GLU5K_reverse_0d895 - PRASCSi
+ + PRASCSi_reverse_11704 - NDPK6 + NDPK6_reverse_d41ea - CUabcpp
+ + CUabcpp_reverse_119a1 - 4 ADCYRS + 4 ADCYRS_reverse_3513c - PTPATi
+ + PTPATi_reverse_381d9 - RBFK + RBFK_reverse_8faa7 - PRPPS
+ + PRPPS_reverse_dd7f2 - NDPK5 + NDPK5_reverse_6973f - HEX1
+ + HEX1_reverse_25efa - AFAT + AFAT_reverse_951b7 - GTHS
+ + GTHS_reverse_172f9 - MPML + MPML_reverse_2bf21 - GLGC
+ + GLGC_reverse_f6fb0 + PYK - PYK_reverse_bc8ff - PHYTK
+ + PHYTK_reverse_bc1a5 - DBTS + DBTS_reverse_b5da6 - LIPATPT
+ + LIPATPT_reverse_e209a - DAGK160 + DAGK160_reverse_0238d - DAGK161
+ + DAGK161_reverse_9bfe7 - DAGK_OLE_PALM + DAGK_OLE_PALM_reverse_b7767
+ - TYRTRS + TYRTRS_reverse_27d64 - GLYTRS + GLYTRS_reverse_b4742
+ - PROTRS + PROTRS_reverse_9d634 - ARGTRS + ARGTRS_reverse_1ecbf
+ - TRPTRS + TRPTRS_reverse_f29b7 - PHETRS + PHETRS_reverse_a31de
+ - HISTRS + HISTRS_reverse_a6df2 - THRTRS + THRTRS_reverse_12237
+ - ILETRS + ILETRS_reverse_02878 - LYSTRS + LYSTRS_reverse_d3497
+ - VALTRS + VALTRS_reverse_72083 - ICLIPAabcpp
+ + ICLIPAabcpp_reverse_54b98 - COLIPAabcex + COLIPAabcex_reverse_d4779
+ - x_1599 + s_1600 - x_1613 + s_1614 - NO2tabcpp
+ + NO2tabcpp_reverse_5b0e7 - Htabcpp + Htabcpp_reverse_13163 - ANHMK
+ + ANHMK_reverse_f8dfd = 0
+ lipidX2_c: + LPADSS2_reverse_9cafc - LPADSS2 + USHD2
+ - USHD2_reverse_08d67 = 0
+ r_369: + ENO_reverse_40eea - ENO - PGM + PGM_reverse_fc9af = 0
+ pppg9_c: - CPPPGO_reverse_f858f + CPPPGO - CPPPGO2_reverse_e5000
+ + CPPPGO2 + PPPGO2_reverse_79864 - PPPGO2 = 0
+ uagmda_c: - UAGPT3 + UAGPT3_reverse_7f3f7 + PAPPT3
+ - PAPPT3_reverse_0a787 = 0
+ met__L_c: + METTRS_reverse_d6cd0 - METTRS - BTS6_reverse_40426 + BTS6
+ + METAT_reverse_793ef - METAT - 2 CPPPGO2_reverse_e5000 + 2 CPPPGO2
+ + AMPMS3 - AMPMS3_reverse_b5e80 + METS - METS_reverse_af81e + UNK3
+ - UNK3_reverse_8083f + 2 LIPOS2 - 2 LIPOS2_reverse_2319a + SAMTRI
+ - SAMTRI_reverse_06c4c = 0
+ phyto_c: - PHYTES2_reverse_e5cbe + PHYTES2 - PDS1 + PDS1_reverse_1e20b
+ - PHYPQOX + PHYPQOX_reverse_846b6 = 0
+ r_374: - HPROb_reverse_9e6b2 + HPROb - PROHX_reverse_27f44 + PROHX = 0
+ r_375: - HPROb + HPROb_reverse_9e6b2 = 0
+ hemeO_c: + 0.0213 BM_COFACTORS_reverse_ee9a6 - 0.0213 BM_COFACTORS
+ + HEMEAS_reverse_9357a - HEMEAS + HEMEOS - HEMEOS_reverse_b63ba = 0
+ lgt__S_c: - GLYOX + GLYOX_reverse_6ab0a - GLYOX_1
+ + GLYOX_1_reverse_d01d4 = 0
+ h2o_u: + H2Otu_syn_reverse_7aa62 - H2Otu_syn - 2 PSIIum
+ + 2 PSIIum_reverse_30799 = 0
+ adcobhex_c: + ADCPS2_reverse_34636 - ADCPS2 + ADCYRS
+ - ADCYRS_reverse_3513c = 0
+ co_c: + DM_co_c_reverse_cb46e - DM_co_c - AMPMS3_reverse_b5e80 + AMPMS3
+ - HOXGfx_reverse_2964c + HOXGfx = 0
+ sbzcoa_c: + DHNCOAS_reverse_af3a9 - DHNCOAS - SUCBZL_reverse_536e6
+ + SUCBZL = 0
+ e4p_c: + E4PD_reverse_babdb - E4PD - FBA3_reverse_0d49f + FBA3
+ + TKT2_reverse_7ebc7 - TKT2 - DMBZIDS2_reverse_6417b + DMBZIDS2 + TALA
+ - TALA_reverse_adfda - DDPA + DDPA_reverse_575e8 + PKETF
+ - PKETF_reverse_d46d1 = 0
+ accoa_c: - PFOR_reverse_1e1f4 + PFOR - PDH_reverse_ca160 + PDH
+ - ACS_reverse_37635 + ACS + HSERTA_reverse_23c8f - HSERTA
+ + IPPS_reverse_d94c0 - IPPS + SERAT_reverse_0de5e - SERAT
+ + ACOATA_reverse_8c02f - ACOATA + G1PACT_reverse_51580 - G1PACT - CS
+ + CS_reverse_8d7e9 - ACCOAC + ACCOAC_reverse_9d1cd - CITMS
+ + CITMS_reverse_37134 - ACGS + ACGS_reverse_c8939 - KAS15
+ + KAS15_reverse_6f7fb = 0
+ asn__L_c: + ASNTRS_reverse_ee3aa - ASNTRS - ASNN + ASNN_reverse_515f8
+ + ASNS1 - ASNS1_reverse_90309 = 0
+ mal__L_c: - FUM_reverse_d3642 + FUM - ME2 + ME2_reverse_2b0a2 = 0
+ ocdcaACP_c: + ALDR18_reverse_34ff9 - ALDR18 - AACPS6_reverse_8fda3
+ + AACPS6 - DESAT18a + DESAT18a_reverse_fd859 + EAR180x
+ - EAR180x_reverse_fbf60 = 0
+ ichor_c: - ICHORS_reverse_8e175 + ICHORS + SEPHCHCS_reverse_cb185
+ - SEPHCHCS = 0
+ pant__R_c: + PANTS_reverse_11dcb - PANTS - DPR_reverse_691d8 + DPR = 0
+ phdp_c: + DHNANT_reverse_39a88 - DHNANT + GGDPR - GGDPR_reverse_ea652
+ - CHPHYS + CHPHYS_reverse_77b21 + PHYTK - PHYTK_reverse_bc1a5 = 0
+ r5p_c: + RPI_reverse_853a1 - RPI - PRPPS + PRPPS_reverse_dd7f2 - TKT1
+ + TKT1_reverse_a1021 = 0
+ grdp_c: + DMATT - DMATT_reverse_3a731 - GRTT + GRTT_reverse_f3afe
+ - NPDPS + NPDPS_reverse_e1c6b = 0
+ ohpb_c: - PERD_reverse_c9aa4 + PERD - OHPBAT + OHPBAT_reverse_7e72e = 0
+ ipdp_c: + FRTT_reverse_5200c - FRTT + GRTT_reverse_f3afe - GRTT
+ + DMATT_reverse_3a731 - DMATT - IPDPS_reverse_baaf9 + IPDPS
+ + 8 UDCPDPS_reverse_04082 - 8 UDCPDPS - IPDDI + IPDDI_reverse_6c5f9
+ - 7 NPDPS + 7 NPDPS_reverse_e1c6b = 0
+ arg__L_c: + ARGTRS_reverse_1ecbf - ARGTRS - ARGSL_reverse_1b949 + ARGSL
+ + ARGabcpp - ARGabcpp_reverse_2f37a - ARGOXRum + ARGOXRum_reverse_9f603
+ - ARGDC + ARGDC_reverse_08faf = 0
+ phe__L_c: + PHETRS_reverse_a31de - PHETRS + PHETA1_reverse_9d47a
+ - PHETA1 = 0
+ acgam1p_c: + UAGDP_reverse_a5ec0 - UAGDP + G1PACT
+ - G1PACT_reverse_51580 = 0
+ nadp_c: - CXANHX_reverse_34809 + CXANHX - ZXANHX_reverse_a99d5 + ZXANHX
+ - 2 ALDDC17_reverse_1b5d0 + 2 ALDDC17 - ALDR18_reverse_34ff9 + ALDR18
+ - EPXQR_reverse_6205d + EPXQR - EPMEACPR_reverse_794bd + EPMEACPR
+ - EGMEACPR_reverse_1b486 + EGMEACPR - THII_reverse_23906 + THII
+ - FMNRy_reverse_1ba9b + FMNRy + ICDHyr_reverse_7f84b - ICDHyr
+ - MPOMC1_reverse_5b08b + MPOMC1 - DHFR_reverse_65c32 + DHFR
+ + PDS1_reverse_1e20b - PDS1 + x_850 - x_849 - KARA1i_reverse_af5a6
+ + KARA1i - SHK3Dr_reverse_d5c8f + SHK3Dr - GTHOr_reverse_8f1f9 + GTHOr
+ - TDPDRR_reverse_e7bd2 + TDPDRR - TRSARyr_reverse_a22d9 + TRSARyr
+ + GLYALDDy_reverse_7e106 - GLYALDDy - HPROb_reverse_9e6b2 + HPROb
+ - KARI_23dhmp_reverse_d9e1b + KARI_23dhmp + MTHFD_reverse_c10fd - MTHFD
+ - GAPDi_nadp_reverse_782a6 + GAPDi_nadp - DXPRIi_reverse_85956 + DXPRIi
+ + FNOR_reverse_28480 - FNOR - APRAUR_reverse_e674d + APRAUR
+ - 3 GGDPR_reverse_ea652 + 3 GGDPR - DPR_reverse_691d8 + DPR
+ - EAR60y_reverse_02e5e + EAR60y - 2 MEHLER_reverse_20c70 + 2 MEHLER
+ - GLUTRR_reverse_355d5 + GLUTRR - x_274 + x_273 + G3PD2_reverse_0c363
+ - G3PD2 - IPDPS_reverse_baaf9 + IPDPS - HSDyi_reverse_76518 + HSDyi
+ - x_138 + x_137 + GCALDDy_reverse_2af46 - GCALDDy - NOR_reverse_11d45
+ + NOR - x_68 + x_67 - DESAT18a_reverse_fd859 + DESAT18a + H4THDPR
+ - H4THDPR_reverse_617be + G5SD - G5SD_reverse_af8c0 + LPOR
+ - LPOR_reverse_ae81c + x_111 - x_112 - DHNANT + DHNANT_reverse_39a88
+ - GND + GND_reverse_eec5c - PDS2 + PDS2_reverse_c1831 + ASADi
+ - ASADi_reverse_c6412 + x_271 - x_272 + P5CR - P5CR_reverse_55c58
+ + UAPGR - UAPGR_reverse_4f67b + x_339 - x_340 + GLYCOR_nadp
+ - GLYCOR_nadp_reverse_fe8f6 + x_367 - x_368 - ME2 + ME2_reverse_2b0a2
+ + EAR120y - EAR120y_reverse_c7353 - G6PDH2r + G6PDH2r_reverse_19ddf
+ - ALDD2y + ALDD2y_reverse_03afb + MPOMMM - MPOMMM_reverse_30349 - AGPR
+ + AGPR_reverse_5dce4 + DVOCHR - DVOCHR_reverse_5b763
+ - 0.0107 BM_COFACTORS + 0.0107 BM_COFACTORS_reverse_ee9a6 + EAR160y
+ - EAR160y_reverse_e0622 + MTHFR3_1 - MTHFR3_1_reverse_1a948 + EAR100y
+ - EAR100y_reverse_863b6 + TRDR - TRDR_reverse_6372e + ZDS
+ - ZDS_reverse_25837 - PC6AR + PC6AR_reverse_0549d + NADK
+ - NADK_reverse_bba52 + EAR40y - EAR40y_reverse_0f912 + NADTRHD
+ - NADTRHD_reverse_49725 + TMDS3 - TMDS3_reverse_bd1fa + EAR140y
+ - EAR140y_reverse_dff77 + DESAT16a - DESAT16a_reverse_7f95a + EAR80y
+ - EAR80y_reverse_2df0a + MPOMOR - MPOMOR_reverse_ad3a7 + DMPPS_syn
+ - DMPPS_syn_reverse_e9648 + 2 SPR - 2 SPR_reverse_d4f3a + OGMEACPR
+ - OGMEACPR_reverse_53919 + OPMEACPR - OPMEACPR_reverse_7cc6e + 2 CDGR
+ - 2 CDGR_reverse_e4464 + GFUCS - GFUCS_reverse_2cd5e + MNHNAtpp
+ - MNHNAtpp_reverse_59fe7 = 0
+ r_398: - IGPS_reverse_feb80 + IGPS + TRPS3_reverse_bdfbb - TRPS3
+ + TRPS1_reverse_35c22 - TRPS1 = 0
+ val__L_c: + VALTRS_reverse_72083 - VALTRS + VPAMTr
+ - VPAMTr_reverse_872bd - VALTA + VALTA_reverse_1d084 = 0
+ dmbzid_c: - DMBZIDS2_reverse_6417b + DMBZIDS2 - NNDMBRT
+ + NNDMBRT_reverse_13f8c = 0
+ r_401: + AOXPBDC_reverse_81d1e - AOXPBDC + HTHRPDH
+ - HTHRPDH_reverse_9ee3b = 0
+ r_402: - DHAD1_reverse_39dca + DHAD1 + VPAMTr_reverse_872bd - VPAMTr
+ - MOHMT + MOHMT_reverse_83ce0 - IPPS + IPPS_reverse_d94c0 + VALTA
+ - VALTA_reverse_1d084 = 0
+ r_403: - NNDMBRT_reverse_13f8c + NNDMBRT - RZ5PP + RZ5PP_reverse_b2942
+ = 0
+ rdmbzi_c: - RZ5PP_reverse_b2942 + RZ5PP - ADOCBLS
+ + ADOCBLS_reverse_005a5 = 0
+ r_405: - MTHFR3_1_reverse_1a948 + MTHFR3_1 - METS + METS_reverse_af81e
+ - 0.0213 BM_COFACTORS + 0.0213 BM_COFACTORS_reverse_ee9a6 = 0
+ r_406: + x_326 - x_325 - x_272 + x_271 = 0
+ dvpchlda_c: - MPOMOR_reverse_ad3a7 + MPOMOR - DVOCHR
+ + DVOCHR_reverse_5b763 = 0
+ r_408: + FMETTRS_reverse_3b6c6 - FMETTRS + FTHFD_reverse_44321 - FTHFD
+ + GARFT_reverse_7ecb6 - GARFT + MTHFC - MTHFC_reverse_f6fcc - AICART
+ + AICART_reverse_b7b59 = 0
+ r_409: - RBFSb_reverse_32299 + RBFSb - PMDPHT_reverse_8a0fd + PMDPHT
+ - RBFSa + RBFSa_reverse_61d96 = 0
+ skm_c: - SHK3Dr_reverse_d5c8f + SHK3Dr + SHKK_reverse_163fd - SHKK = 0
+ gar_c: + GART_reverse_61742 - GART - PRAGSr_reverse_fd2d8 + PRAGSr
+ + GARFT_reverse_7ecb6 - GARFT = 0
+ for_c: + 2 FDH6_reverse_bc29e - 2 FDH6 - ALDDC17_reverse_1b5d0
+ + ALDDC17 - GTPCII_reverse_a84d9 + GTPCII - FTHFD_reverse_44321 + FTHFD
+ - AMPMS3_reverse_b5e80 + AMPMS3 - GTPCI_reverse_1ee86 + GTPCI + OXADC
+ - OXADC_reverse_49a15 - DM_for_c + DM_for_c_reverse_b39ed - GART
+ + GART_reverse_61742 + DB4PS - DB4PS_reverse_43dd1 + ARD
+ - ARD_reverse_1e910 + SFGTHi - SFGTHi_reverse_71e0b = 0
+ dmtphllqne_c: + AMPQT_reverse_441c1 - AMPQT + DHNANT
+ - DHNANT_reverse_39a88 = 0
+ skm5p_c: - SHKK_reverse_163fd + SHKK - PSCVT + PSCVT_reverse_1a852 = 0
+ citm_c: - CITMS_reverse_37134 + CITMS - CITCIa + CITCIa_reverse_6a08b
+ = 0
+ udpg_c: + GLUDGS_OLE_PALM_reverse_da027 - GLUDGS_OLE_PALM
+ + GLUDGS_HDE_HDE_reverse_66701 - GLUDGS_HDE_HDE + THBTGT_reverse_0885a
+ - THBTGT + UDPSQS_reverse_7ca9b - UDPSQS + UDPG4E_reverse_08c7f
+ - UDPG4E - SPS + SPS_reverse_5835b + GALUi - GALUi_reverse_c40d5
+ - UDPGD + UDPGD_reverse_de167 - GLUDGS_HDE_PALM
+ + GLUDGS_HDE_PALM_reverse_99a1b - GLUDGS_OLE_HDE
+ + GLUDGS_OLE_HDE_reverse_ab756 - 0.0999 OANTS
+ + 0.0999 OANTS_reverse_6b135 - CELLSYN + CELLSYN_reverse_287bb = 0
+ r_417: - SPMS_reverse_92c51 + SPMS + MTAP_reverse_96009 - MTAP + SPRMS
+ - SPRMS_reverse_ffb14 = 0
+ dcdp_c: - RNDR3_reverse_bc84a + RNDR3 - NDPK7 + NDPK7_reverse_9dc79 = 0
+ pccu1p_u: + PSICRum_reverse_31595 - PSICRum - 2 CBFCum_reverse_e7502
+ + 2 CBFCum + 4 CYOOum_reverse_37909 - 4 CYOOum + PSIum_reverse_43c5e
+ - PSIum = 0
+ myrsACP_c: + s_1026 - x_1025 + EAR140y - EAR140y_reverse_dff77 = 0
+ glutrna_c: + 0.5465 BM_PROTEIN_reverse_4f8b8 - 0.5465 BM_PROTEIN
+ + GLUTRR_reverse_355d5 - GLUTRR + GLUTRS - GLUTRS_reverse_b214d = 0
+ adcobdam_c: + ADCYRS_reverse_3513c - ADCYRS + CYRDAAT
+ - CYRDAAT_reverse_d0652 = 0
+ nh4_c: + CCGS_reverse_3ff79 - CCGS + ANS2_reverse_5a40c - ANS2
+ - DHPPDA_reverse_11c00 + DHPPDA - NTRIRfx_reverse_8d8c5 + NTRIRfx
+ - ASPOb_reverse_0f7c6 + ASPOb - ALAD_L_reverse_4f37b + ALAD_L
+ - ASNN_reverse_515f8 + ASNN - DCTPD_reverse_a48d6 + DCTPD
+ - CBMD_reverse_4f3e7 + CBMD - GLYDHDA_reverse_663d3 + GLYDHDA
+ + GLNS_reverse_59581 - GLNS - GLYCL_reverse_e418f + GLYCL + CMPA
+ - CMPA_reverse_ae497 + NMNDA - NMNDA_reverse_0dc65 + AGDI
+ - AGDI_reverse_0a098 + NH4tpp - NH4tpp_reverse_eca16 + ARGOXRum
+ - ARGOXRum_reverse_9f603 + DCTPD2 - DCTPD2_reverse_164e0 + 4 HMBS
+ - 4 HMBS_reverse_23a06 + G6PDA - G6PDA_reverse_74cec + GLYCOX2
+ - GLYCOX2_reverse_852ec + CDGS - CDGS_reverse_6b7cb = 0
+ hom__L_c: + HSERTA_reverse_23c8f - HSERTA - HSDyi_reverse_76518 + HSDyi
+ - HSK + HSK_reverse_e4218 = 0
+ acser_c: + CYSS_2_reverse_8e1d0 - CYSS_2 + SERAT - SERAT_reverse_0de5e
+ = 0
+ pre5_c: - PC11M_reverse_f4161 + PC11M - PC6AS + PC6AS_reverse_590fa = 0
+ fdxrd_c: + 2 LIPOS2_reverse_2319a - 2 LIPOS2 + 2 NTRARf2_reverse_5d5d6
+ - 2 NTRARf2 + 2 TRDRf_reverse_45a8b - 2 TRDRf
+ + 2 MECDPDHf_reverse_07da8 - 2 MECDPDHf + 6 HOXGfx_reverse_2964c
+ - 6 HOXGfx + 4 PHYFXOR_reverse_84960 - 4 PHYFXOR - 2 NDH~1(1)um
+ + 2 NDH~1(1)um_reverse_85750 + 0.99 PSIum - 0.99 PSIum_reverse_43c5e
+ - 2 GLUSfx + 2 GLUSfx_reverse_468d6 - 2 DPOR + 2 DPOR_reverse_8b09e
+ - 2 FNOR + 2 FNOR_reverse_28480 - 2 NDH~1(4)um
+ + 2 NDH~1(4)um_reverse_f9189 - 6 NTRIRfx + 6 NTRIRfx_reverse_8d8c5
+ - 6 SULR + 6 SULR_reverse_12727 - 2 PHEOX + 2 PHEOX_reverse_c1df7
+ - 2 NDH~1(2)um + 2 NDH~1(2)um_reverse_c7743 - 2 NDH~1(3)um
+ + 2 NDH~1(3)um_reverse_d4f81 = 0
+ sucbz_c: - SUCBZS_reverse_cdbc9 + SUCBZS - SUCBZL
+ + SUCBZL_reverse_536e6 = 0
+ prpp_c: - PRPPS_reverse_dd7f2 + PRPPS + NNDPR_reverse_445ff - NNDPR
+ + NMNS_reverse_c18e5 - NMNS + NAMNPP_reverse_ebb31 - NAMNPP - ADPT
+ + ADPT_reverse_567cf - ATPPRT + ATPPRT_reverse_00060 - GLUPRT
+ + GLUPRT_reverse_1f180 + ORPT - ORPT_reverse_19432 - ANPRT
+ + ANPRT_reverse_e2684 - UPPRT + UPPRT_reverse_07052 = 0
+ r_430: + PRASCSi_reverse_11704 - PRASCSi - AIRC3 + AIRC3_reverse_f015f
+ = 0
+ dtdp4d6dm_c: - TDPDRE_reverse_26405 + TDPDRE - TDPDRR
+ + TDPDRR_reverse_e7bd2 = 0
+ but2eACP_c: + EAR40y_reverse_0f912 - EAR40y + x_761 - x_762 = 0
+ chlda_c: + CHPHYS_reverse_77b21 - CHPHYS + LPOR - LPOR_reverse_ae81c
+ + DPOR - DPOR_reverse_8b09e = 0
+ h_u: - 3 NDH~1(3)um_reverse_d4f81 + 3 NDH~1(3)um
+ - 4 CBFCum_reverse_e7502 + 4 CBFCum - 4 CYTBD4um_reverse_0a2a0
+ + 4 CYTBD4um - 3 NDH~1(4)um_reverse_f9189 + 3 NDH~1(4)um
+ - 3 NDH~1(1)um_reverse_85750 + 3 NDH~1(1)um + 3.6 CYOOum
+ - 3.6 CYOOum_reverse_37909 - 13 ATPSum + 13 ATPSum_reverse_7df19
+ + 4 PSIIum - 4 PSIIum_reverse_30799 + 3 NDH~1(2)um
+ - 3 NDH~1(2)um_reverse_c7743 = 0
+ gly_c: + GLYTRS_reverse_b4742 - GLYTRS + GLYCOX1_reverse_b84e6
+ - GLYCOX1 - AMPTASECG_reverse_11d5d + AMPTASECG + PRAGSr_reverse_fd2d8
+ - PRAGSr - GLYCL + GLYCL_reverse_e418f - GLYDHDA
+ + GLYDHDA_reverse_663d3 - GTHS + GTHS_reverse_172f9 + GHMT2r
+ - GHMT2r_reverse_d977f + AGTi - AGTi_reverse_69260 = 0
+ uppg3_c: + UPPDC1_reverse_cb592 - UPPDC1 - UPP3MT
+ + UPP3MT_reverse_2adf0 + UPP3S - UPP3S_reverse_8bb53 - SHS1
+ + SHS1_reverse_92a6f = 0
+ dtdp_c: + NDPK4_reverse_9a1c8 - NDPK4 + DTMPK - DTMPK_reverse_44d5a = 0
+ uamr_c: + UM4PL_reverse_c309d - UM4PL - UAPGR_reverse_4f67b + UAPGR
+ - UAMAS + UAMAS_reverse_2b5e6 - UM3PL + UM3PL_reverse_32754 = 0
+ trp__L_c: + TRPTRS_reverse_f29b7 - TRPTRS - TRPS2_reverse_cd73f + TRPS2
+ + TRPS1 - TRPS1_reverse_35c22 = 0
+ udcpdp_c: - 2 MPTG_reverse_610dd + 2 MPTG - UDCPDPS_reverse_04082
+ + UDCPDPS - 0.0096 BM_COFACTORS + 0.0096 BM_COFACTORS_reverse_ee9a6
+ + 0.0558 ICLIPAS - 0.0558 ICLIPAS_reverse_5cd81 + MPTG2
+ - MPTG2_reverse_fd602 - UDCPDP + UDCPDP_reverse_1813b = 0
+ lipidAds2_c: + MOAT_reverse_0fdf8 - MOAT - LPADSS2_reverse_9cafc
+ + LPADSS2 = 0
+ hpyr_c: + SPTr_reverse_bb7b1 - SPTr - GLYCOR_nadp
+ + GLYCOR_nadp_reverse_fe8f6 = 0
+ hcys__L_c: - AHSERL2_reverse_2d820 + AHSERL2 + AHCi
+ - AHCi_reverse_d29ff - METS + METS_reverse_af81e = 0
+ prbatp_c: - ATPPRT_reverse_00060 + ATPPRT - PRATPP
+ + PRATPP_reverse_99bf0 = 0
+ indole_c: + TRPS2_reverse_cd73f - TRPS2 + TRPS3 - TRPS3_reverse_bdfbb
+ = 0
+ dscl_c: + PC20M_reverse_ceb32 - PC20M + UPP3MT - UPP3MT_reverse_2adf0
+ = 0
+ glycogen_c: + SK_glycogen_c_reverse_bf5b0 - SK_glycogen_c
+ + 0.8764 BM_CARB_reverse_8b7cd - 0.8764 BM_CARB
+ + GLCDBRAN3_reverse_85d8b - GLCDBRAN3 + GLCBRAN3
+ - GLCBRAN3_reverse_4cd37 = 0
+ r_448: - G1SAT_reverse_2ec2f + G1SAT + 2 PPBNGS_reverse_dc5a2
+ - 2 PPBNGS = 0
+ gthrd_c: + FALGTHLs_reverse_1514d - FALGTHLs - GLYOX_1_reverse_d01d4
+ + GLYOX_1 + GTHRDH_reverse_b9665 - GTHRDH + GLYOX - GLYOX_reverse_6ab0a
+ - 2 GTHPi + 2 GTHPi_reverse_0b1e5 + 2 GTHOr - 2 GTHOr_reverse_8f1f9
+ + GTHS - GTHS_reverse_172f9 + SFGTHi - SFGTHi_reverse_71e0b - GGCLUT2
+ + GGCLUT2_reverse_70203 = 0
+ fgam_c: + PRFGS_reverse_db4e5 - PRFGS - GARFT_reverse_7ecb6 + GARFT
+ + GART - GART_reverse_61742 = 0
+ adpglc_c: + ADPGDP_reverse_29379 - ADPGDP - GLCS3 + GLCS3_reverse_5e7ed
+ - GLCBRAN3 + GLCBRAN3_reverse_4cd37 + GLGC - GLGC_reverse_f6fb0 = 0
+ air_c: - PRAIS_reverse_8e616 + PRAIS + AMPMS3_reverse_b5e80 - AMPMS3
+ - AIRC2 + AIRC2_reverse_50d74 = 0
+ r_453: + x_562 - x_561 + x_273 - x_274 = 0
+ hmbil_c: + UPP3S_reverse_8bb53 - UPP3S - HMBS_reverse_23a06 + HMBS = 0
+ r_455: + CHORS_reverse_17772 - CHORS + PSCVT - PSCVT_reverse_1a852 = 0
+ thrp_c: + THRPD_reverse_0dc99 - THRPD + LTHRK - LTHRK_reverse_61b82 = 0
+ akg_c: + DM_akg_c_reverse_1fe72 - DM_akg_c - UNK3_reverse_8083f + UNK3
+ + VALTA_reverse_1d084 - VALTA + ILETA_reverse_aec70 - ILETA
+ - PSERT_reverse_cbee4 + PSERT + EHGLAT_reverse_8439b - EHGLAT
+ + GLUSfx_reverse_468d6 - GLUSfx + TYRTA_reverse_e9311 - TYRTA
+ + ASPTA_reverse_36525 - ASPTA + LEUTA_reverse_0b6fe - LEUTA - ORNTA
+ + ORNTA_reverse_5adff + OHPBAT - OHPBAT_reverse_7e72e - AOOA
+ + AOOA_reverse_2e8da - SEPHCHCS + SEPHCHCS_reverse_cb185 - PROHX
+ + PROHX_reverse_27f44 - ACOTA + ACOTA_reverse_c4379 + DAPNH4T
+ - DAPNH4T_reverse_37b98 + ICDHyr - ICDHyr_reverse_7f84b - PHETA1
+ + PHETA1_reverse_9d47a = 0
+ dtdpglu_c: + TDPGDH_reverse_f570d - TDPGDH + G1PTT
+ - G1PTT_reverse_acd22 = 0
+ thmpp_c: - ACHBSb_reverse_a040e + ACHBSb - TMPK_reverse_b7673 + TMPK
+ + ACLSa_reverse_75fb2 - ACLSa + ACLSb - ACLSb_reverse_588fa
+ - 0.0213 BM_COFACTORS + 0.0213 BM_COFACTORS_reverse_ee9a6 = 0
+ tpalm2eACP_c: + EAR160y_reverse_e0622 - EAR160y + x_201 - x_202 = 0
+ h2o2_c: + 2 CAT_reverse_c01ae - 2 CAT - SPODM_reverse_2648f + SPODM
+ - ASPO6_reverse_ec15c + ASPO6 - 3 PPPGO2_reverse_79864 + 3 PPPGO2
+ + PDX5POi - PDX5POi_reverse_797dd + GLXO3r - GLXO3r_reverse_9f4c1
+ - GTHPi + GTHPi_reverse_0b1e5 + GLYCOX1 - GLYCOX1_reverse_b84e6 = 0
+ alaala_c: + ALAALAD_reverse_ddcdd - ALAALAD - ALAALAr_reverse_18faa
+ + ALAALAr - UGMDDS + UGMDDS_reverse_2401f + ALAALAabcpp
+ - ALAALAabcpp_reverse_75b27 = 0
+ pran_c: - ANPRT_reverse_e2684 + ANPRT - PRAIi + PRAIi_reverse_e568f = 0
+ tddec2eACP_c: - x_1020 + x_1019 - EAR120y + EAR120y_reverse_c7353 = 0
+ icit_c: + ICDHyr_reverse_7f84b - ICDHyr + ACONT - ACONT_reverse_7c2d5
+ = 0
+ r_466: - s_482 + x_481 - x_271 + x_272 = 0
+ r_467: + PMPK_reverse_48b12 - PMPK + AMPMS3 - AMPMS3_reverse_b5e80 = 0
+ adn_c: + ADNK1_reverse_fe466 - ADNK1 - AHCi_reverse_d29ff + AHCi + NTD7
+ - NTD7_reverse_20dab = 0
+ r_469: - ASPK_reverse_115d7 + ASPK - ASADi + ASADi_reverse_c6412 = 0
+ r_470: + PSERT_reverse_cbee4 - PSERT + PGCD - PGCD_reverse_1bc76 = 0
+ ppbng_c: + 4 HMBS_reverse_23a06 - 4 HMBS + PPBNGS
+ - PPBNGS_reverse_dc5a2 = 0
+ acorn_c: + ACODA_reverse_504cc - ACODA + ORNTAC_reverse_b265a - ORNTAC
+ - ACOTA + ACOTA_reverse_c4379 = 0
+ ile__L_c: + ILETRS_reverse_02878 - ILETRS - ILETA + ILETA_reverse_aec70
+ = 0
+ r_474: + IMDHT_reverse_c2b87 - IMDHT + IPPS - IPPS_reverse_d94c0 = 0
+ phthr_c: + HTHRPDH_reverse_9ee3b - HTHRPDH + OHPBAT
+ - OHPBAT_reverse_7e72e = 0
+ cynt_c: + CYNL_reverse_91a39 - CYNL + CYNTtabcpp
+ - CYNTtabcpp_reverse_c4528 = 0
+ pqh2_c: + PQH2tcm_reverse_90815 - PQH2tcm - MSBENZMT_reverse_a902a
+ + MSBENZMT - PQH2tum + PQH2tum_reverse_270a9 = 0
+ cthzp_c: + TMPPP_reverse_f275c - TMPPP + THZT - THZT_reverse_26970 = 0
+ dna5mtc_c: + DNAMTn2r - DNAMTn2r_reverse_2612b = 0
+ dna_c: + DNAMTn2r_reverse_2612b - DNAMTn2r = 0
+ r_481: + SK_14glucan_c_reverse_d5217 - SK_14glucan_c
+ - GLCDBRAN3_reverse_85d8b + GLCDBRAN3 + GLCP2_reverse_550c1 - GLCP2
+ + GLCS3 - GLCS3_reverse_5e7ed - GLCBRAN3 + GLCBRAN3_reverse_4cd37
+ - 4.382 BM_CARB + 4.382 BM_CARB_reverse_8b7cd = 0
+ cobalt2_p: + Cobalt2abcppI_reverse_894f2 - Cobalt2abcppI + COBALT2tex
+ - COBALT2tex_reverse_0862d = 0
+ zn2_p: + ZNabcpp_reverse_14d34 - ZNabcpp + Zn2tex
+ - Zn2tex_reverse_6b2c9 = 0
+ so4_p: + SULabcpp_reverse_40679 - SULabcpp + SO4tex
+ - SO4tex_reverse_1908f = 0
+ spmd_p: + SPMDabcpp_reverse_7abfe - SPMDabcpp + SPMDtex
+ - SPMDtex_reverse_5a2d5 = 0
+ ca2_p: - CA2t2pp_reverse_81d82 + CA2t2pp - CA2abcpp
+ + CA2abcpp_reverse_aa3d6 + CA2tex - CA2tex_reverse_27b69 = 0
+ nh4_p: + NH4tpp_reverse_eca16 - NH4tpp + ARGDHpp
+ - ARGDHpp_reverse_88804 + NH4tex - NH4tex_reverse_ce04b = 0
+ arg__L_p: + ARGDHpp_reverse_88804 - ARGDHpp - ARGabcpp
+ + ARGabcpp_reverse_2f37a + ARGtex - ARGtex_reverse_244d5 = 0
+ gln__L_p: + GLNabcpp_reverse_c0546 - GLNabcpp + GLNtex
+ - GLNtex_reverse_7b7bb = 0
+ mn2_p: + MNabc_1_reverse_d9c27 - MNabc_1 + MNtex - MNtex_reverse_711cc
+ = 0
+ hco3_p: + BCT1_syn_reverse_8b530 - BCT1_syn
+ + H2CO3_NAt_syn_reverse_5b4d9 - H2CO3_NAt_syn + HCO3tex
+ - HCO3tex_reverse_d9055 = 0
+ mg2_p: + MG2uabcpp_reverse_adeed - MG2uabcpp + MG2tex
+ - MG2tex_reverse_a1983 = 0
+ ptrc_p: + PTRCabcpp_reverse_96b27 - PTRCabcpp + PTRCtex
+ - PTRCtex_reverse_a3bd6 = 0
+ fe2_p: + FE2tex - FE2tex_reverse_62032 = 0
+ cu2_p: + CUabcpp_reverse_119a1 - CUabcpp + CU2tex
+ - CU2tex_reverse_521e6 = 0
+ k_p: + Kabcpp_reverse_35f86 - Kabcpp - Nat_Kpp + Nat_Kpp_reverse_03d15
+ + Ktex - Ktex_reverse_03b32 = 0
+ no3_p: + NO3abcpp_reverse_79978 - NO3abcpp + NO3tex
+ - NO3tex_reverse_b1290 = 0
+ fe3_p: + FE3abcpp_reverse_4aad8 - FE3abcpp + FE3tex
+ - FE3tex_reverse_d0931 = 0
+ mobd_p: + MOBDabcpp_reverse_4be38 - MOBDabcpp + MOBDtex
+ - MOBDtex_reverse_4fdc7 = 0
+ ni2_p: + NI2uabcpp_reverse_db325 - NI2uabcpp + NI2tex
+ - NI2tex_reverse_a2971 = 0
+ cynt_p: + CYNTtabcpp_reverse_c4528 - CYNTtabcpp + CYNTtex
+ - CYNTtex_reverse_8c4ef = 0
+ pi_p: + PIuabcpp_reverse_c4f9b - PIuabcpp + PItex - PItex_reverse_05721
+ = 0
+ h2o_e: + EX_h2o_e_reverse_3ced4 - EX_h2o_e - H2Otex
+ + H2Otex_reverse_57da2 = 0
+ o2_e: + EX_o2_e_reverse_efa94 - EX_o2_e - O2tex + O2tex_reverse_a3b28
+ = 0
+ co2_e: + EX_co2_e_reverse_d0466 - EX_co2_e + CO2tex_reverse_3d081
+ - CO2tex = 0
+ his__L_e: 0 QULNS = 0
+ cobalt2_e: + COBALT2tex_reverse_0862d - COBALT2tex - EX_cobalt2_e
+ + EX_cobalt2_e_reverse_2bf0e = 0
+ zn2_e: + Zn2tex_reverse_6b2c9 - Zn2tex - EX_zn2_e
+ + EX_zn2_e_reverse_3c725 = 0
+ so4_e: + SO4tex_reverse_1908f - SO4tex - EX_so4_e
+ + EX_so4_e_reverse_5c8ed = 0
+ spmd_e: + SPMDtex_reverse_5a2d5 - SPMDtex - EX_spmd_e
+ + EX_spmd_e_reverse_761ad = 0
+ ca2_e: + CA2tex_reverse_27b69 - CA2tex - EX_ca2_e
+ + EX_ca2_e_reverse_aac13 = 0
+ nh4_e: + NH4tex_reverse_ce04b - NH4tex - EX_nh4_e
+ + EX_nh4_e_reverse_f9cc6 = 0
+ arg__L_e: + ARGtex_reverse_244d5 - ARGtex - EX_arg__L_e
+ + EX_arg__L_e_reverse_d8799 = 0
+ gln__L_e: + GLNtex_reverse_7b7bb - GLNtex - EX_gln__L_e
+ + EX_gln__L_e_reverse_6a1a1 = 0
+ mn2_e: + MNtex_reverse_711cc - MNtex - EX_mn2_e
+ + EX_mn2_e_reverse_48316 = 0
+ hco3_e: + HCO3tex_reverse_d9055 - HCO3tex - EX_hco3_e
+ + EX_hco3_e_reverse_55cc1 = 0
+ mg2_e: + EX_mg2_e_reverse_b1c98 - EX_mg2_e - MG2tex
+ + MG2tex_reverse_a1983 = 0
+ ptrc_e: + PTRCtex_reverse_a3bd6 - PTRCtex - EX_ptrc_e
+ + EX_ptrc_e_reverse_6c850 = 0
+ fe2_e: + FE2tex_reverse_62032 - FE2tex - EX_fe2_e
+ + EX_fe2_e_reverse_25e68 = 0
+ cu2_e: + CU2tex_reverse_521e6 - CU2tex - EX_cu2_e
+ + EX_cu2_e_reverse_02682 = 0
+ k_e: + Ktex_reverse_03b32 - Ktex - EX_k_e + EX_k_e_reverse_42613 = 0
+ no3_e: + NO3tex_reverse_b1290 - NO3tex - EX_no3_e
+ + EX_no3_e_reverse_98d30 = 0
+ fe3_e: + FE3tex_reverse_d0931 - FE3tex - EX_fe3_e
+ + EX_fe3_e_reverse_8b617 = 0
+ mobd_e: + MOBDtex_reverse_4fdc7 - MOBDtex - EX_mobd_e
+ + EX_mobd_e_reverse_c6396 = 0
+ ni2_e: + NI2tex_reverse_a2971 - NI2tex - EX_ni2_e
+ + EX_ni2_e_reverse_7ba33 = 0
+ na1_e: + EX_na1_e_reverse_c64df - EX_na1_e - NAtex
+ + NAtex_reverse_0181e = 0
+ cynt_e: + CYNTtex_reverse_8c4ef - CYNTtex - EX_cynt_e
+ + EX_cynt_e_reverse_b53e8 = 0
+ co2_p: + CO2tpp_reverse_d9a27 - CO2tpp + CO2tex - CO2tex_reverse_3d081
+ = 0
+ h_e: + EX_h_e_reverse_3e0c5 - EX_h_e - Htex + Htex_reverse_6f9a4 = 0
+ na1_p: - MNHNAtpp_reverse_59fe7 + MNHNAtpp - NAt3ipp_reverse_c262c
+ + NAt3ipp + H2CO3_NAt_syn_reverse_5b4d9 - H2CO3_NAt_syn + Nat_Kpp
+ - Nat_Kpp_reverse_03d15 + NAtex - NAtex_reverse_0181e = 0
+ pi_e: + PItex_reverse_05721 - PItex - EX_pi_e + EX_pi_e_reverse_1fb09
+ = 0
+ dkmpp_c: - MDRPD_reverse_fc553 + MDRPD - ENOPH + ENOPH_reverse_b1c96
+ = 0
+ dhmtp_c: - ENOPH_reverse_b1c96 + ENOPH - ARD + ARD_reverse_1e910 = 0
+ r_534: + UNK3_reverse_8083f - UNK3 + ARD - ARD_reverse_1e910 = 0
+ tczcaro_c: - PHYPQOX_reverse_846b6 + PHYPQOX - ZISO
+ + ZISO_reverse_27e2a = 0
+ dczcaro_c: - ZISO_reverse_27e2a + ZISO - ZCARDS + ZCARDS_reverse_28abb
+ = 0
+ ttclyco_c: + PLYCOI_reverse_c2299 - PLYCOI + ZCARDS
+ - ZCARDS_reverse_28abb = 0
+ phptna_c: + PHEOASE_reverse_22360 - PHEOASE + CHLADMT
+ - CHLADMT_reverse_2790a = 0
+ phphbda_c: + PHEOASE - PHEOASE_reverse_22360 - PHEOX
+ + PHEOX_reverse_c1df7 = 0
+ phytol_c: + PHYTK_reverse_bc1a5 - PHYTK + PHEOASE
+ - PHEOASE_reverse_22360 = 0
+ rcc_c: - PHEOX_reverse_c1df7 + PHEOX = 0
+ r_542: - PTHPS_reverse_272ea + PTHPS - SPR + SPR_reverse_d4f3a = 0
+ thbpt_c: - SPR_reverse_d4f3a + SPR - THBTGT + THBTGT_reverse_0885a = 0
+ gthbpt_c: - THBTGT_reverse_0885a + THBTGT
+ + 1.5013 BM_COFACTORS_reverse_ee9a6 - 1.5013 BM_COFACTORS = 0
+ iscssh_c: + CYSDS - CYSDS_reverse_c49c8 - THII + THII_reverse_23906 = 0
+ iscsh_c: - THII_reverse_23906 + THII - CYSDS + CYSDS_reverse_c49c8 = 0
+ this_c: - THISAT + THISAT_reverse_a22de + DXYTST - DXYTST_reverse_72484
+ = 0
+ athis_c: - THISAT_reverse_a22de + THISAT - THII + THII_reverse_23906
+ = 0
+ thissh_c: + DXYTST_reverse_72484 - DXYTST + THII - THII_reverse_23906
+ = 0
+ imgly_c: + GLYCOX2_reverse_852ec - GLYCOX2 + GLYCOX1
+ - GLYCOX1_reverse_b84e6 - DXYTST + DXYTST_reverse_72484 = 0
+ r_551: + THZT_reverse_26970 - THZT + DXYTST - DXYTST_reverse_72484 = 0
+ sheme_c: - SHS1_reverse_92a6f + SHS1 - 0.0213 BM_COFACTORS
+ + 0.0213 BM_COFACTORS_reverse_ee9a6 = 0
+ malcoame_c: - MALCOAMT_reverse_1031e + MALCOAMT - OGMEACPS
+ + OGMEACPS_reverse_13b17 = 0
+ ogmeACP_c: - OGMEACPS_reverse_13b17 + OGMEACPS - OGMEACPR
+ + OGMEACPR_reverse_53919 = 0
+ hgmeACP_c: - OGMEACPR_reverse_53919 + OGMEACPR - OGMEACPD
+ + OGMEACPD_reverse_fa697 = 0
+ egmeACP_c: - OGMEACPD_reverse_fa697 + OGMEACPD - EGMEACPR
+ + EGMEACPR_reverse_1b486 = 0
+ gmeACP_c: - EGMEACPR_reverse_1b486 + EGMEACPR - OPMEACPS
+ + OPMEACPS_reverse_e3f2d = 0
+ opmeACP_c: - OPMEACPS_reverse_e3f2d + OPMEACPS - OPMEACPR
+ + OPMEACPR_reverse_7cc6e = 0
+ hpmeACP_c: - OPMEACPR_reverse_7cc6e + OPMEACPR - OPMEACPD
+ + OPMEACPD_reverse_d1190 = 0
+ epmeACP_c: - OPMEACPD_reverse_d1190 + OPMEACPD - EPMEACPR
+ + EPMEACPR_reverse_794bd = 0
+ pmeACP_c: + PMEACPE_reverse_002c3 - PMEACPE + EPMEACPR
+ - EPMEACPR_reverse_794bd = 0
+ pimACP_c: + PMEACPE - PMEACPE_reverse_002c3 - AOXSr2
+ + AOXSr2_reverse_0c982 = 0
+ meoh_c: - PMEACPE_reverse_002c3 + PMEACPE - MEOHtpp
+ + MEOHtpp_reverse_67046 - ALCD1 + ALCD1_reverse_895d7 = 0
+ r_564: + AMAOTr_reverse_a5426 - AMAOTr + AOXSr2 - AOXSr2_reverse_0c982
+ = 0
+ dann_c: + AMAOTr - AMAOTr_reverse_a5426 - DBTS + DBTS_reverse_b5da6 = 0
+ amob_c: + DM_amob_c_reverse_90c8f - DM_amob_c + AMAOTr
+ - AMAOTr_reverse_a5426 = 0
+ dtbt_c: - DBTS_reverse_b5da6 + DBTS - BTS6 + BTS6_reverse_40426 = 0
+ btn_c: - BTS6_reverse_40426 + BTS6 - BACCL + BACCL_reverse_8bcde = 0
+ btamp_c: + BTNPL2_reverse_605bf - BTNPL2 - 0.022 BM_COFACTORS
+ + 0.022 BM_COFACTORS_reverse_ee9a6 + BACCL - BACCL_reverse_8bcde = 0
+ accp_c: - BTNPL2 + BTNPL2_reverse_605bf = 0
+ btnCCP_c: - BTNPL2_reverse_605bf + BTNPL2 = 0
+ octapb_c: - LIPOCT_reverse_0078e + LIPOCT - LIPOS2
+ + LIPOS2_reverse_2319a = 0
+ lipopb_c: - LIPOS2_reverse_2319a + LIPOS2 - 0.022 BM_COFACTORS
+ + 0.022 BM_COFACTORS_reverse_ee9a6 + LIPAMPL - LIPAMPL_reverse_71584
+ = 0
+ lipoate_c: - LIPATPT + LIPATPT_reverse_e209a = 0
+ lipamp_c: + LIPAMPL_reverse_71584 - LIPAMPL + LIPATPT
+ - LIPATPT_reverse_e209a = 0
+ meoh_p: - MEOHtpp_reverse_67046 + MEOHtpp - MEOHtex
+ + MEOHtex_reverse_fb32d = 0
+ meoh_e: + EX_meoh_e_reverse_45228 - EX_meoh_e + MEOHtex
+ - MEOHtex_reverse_fb32d = 0
+ cph4_c: - CPH4S_reverse_542c3 + CPH4S - CDGS + CDGS_reverse_6b7cb = 0
+ cdg_c: - CDGS_reverse_6b7cb + CDGS - CCGS + CCGS_reverse_3ff79 = 0
+ preq0_c: - CCGS_reverse_3ff79 + CCGS - CDGR + CDGR_reverse_e4464 = 0
+ preq1_c: - CDGR_reverse_e4464 + CDGR - QUERT + QUERT_reverse_caaac = 0
+ preqtrna_c: - QUERT_reverse_caaac + QUERT - SAMTRI
+ + SAMTRI_reverse_06c4c = 0
+ epxqtrna_c: - SAMTRI_reverse_06c4c + SAMTRI - EPXQR
+ + EPXQR_reverse_6205d = 0
+ quetrna_c: - EPXQR_reverse_6205d + EPXQR = 0
+ ura_c: + UPPRT_reverse_07052 - UPPRT = 0
+ udpglcur_c: - UDPGD_reverse_de167 + UDPGD - UDPGLDC
+ + UDPGLDC_reverse_6bd69 = 0
+ udpxyl_c: - UDPGLDC_reverse_6bd69 + UDPGLDC = 0
+ gdpddman_c: - GMAND_reverse_b3087 + GMAND - GFUCS + GFUCS_reverse_2cd5e
+ = 0
+ gdpfuc_c: - GFUCS_reverse_2cd5e + GFUCS - 0.3128 ICLIPAS
+ + 0.3128 ICLIPAS_reverse_5cd81 = 0
+ glyc_c: - ALCD19_reverse_d90b5 + ALCD19 = 0
+ cdp4dh6doglc_c: - CDPGLC46DH_reverse_17ba1 + CDPGLC46DH = 0
+ sucr_c: + SUCR_reverse_ea228 - SUCR + SPP - SPP_reverse_a434e = 0
+ ocdca_c: + AACPS6_reverse_8fda3 - AACPS6 = 0
+ ocdcal_c: - ALDR18_reverse_34ff9 + ALDR18 - ALDDC17
+ + ALDDC17_reverse_1b5d0 = 0
+ hpdcn_c: - ALDDC17_reverse_1b5d0 + ALDDC17 - 0.507 BM_PIGMENTS
+ + 0.507 BM_PIGMENTS_reverse_cb5bd = 0
+ r_596: - G3PAT160_reverse_446d0 + G3PAT160 - AGPAT160
+ + AGPAT160_reverse_22d12 = 0
+ r_597: - G3PAT161_reverse_1ef08 + G3PAT161 - AGPATACP_HDE_PALM
+ + AGPATACP_HDE_PALM_reverse_dfda5 - AGPAT161 + AGPAT161_reverse_debc5
+ = 0
+ r_598: - G3PAT1819Z_reverse_56ab2 + G3PAT1819Z - AGPATACP_OLE_HDE
+ + AGPATACP_OLE_HDE_reverse_d491a - AGPATACP_OLE_PALM
+ + AGPATACP_OLE_PALM_reverse_2ce3a = 0
+ pa160_c: - AGPAT160_reverse_22d12 + AGPAT160 - PAPA160
+ + PAPA160_reverse_c64df + DAGK160 - DAGK160_reverse_0238d = 0
+ pa1619Z160_c: - AGPATACP_HDE_PALM_reverse_dfda5 + AGPATACP_HDE_PALM
+ - PAPA_HDE_PALM + PAPA_HDE_PALM_reverse_64217 + DAGK_HDE_PALM
+ - DAGK_HDE_PALM_reverse_f515e = 0
+ pa161_c: - AGPAT161_reverse_debc5 + AGPAT161 - PAPA161
+ + PAPA161_reverse_1bc33 + DAGK161 - DAGK161_reverse_9bfe7 = 0
+ pa1819Z1619Z_c: - AGPATACP_OLE_HDE_reverse_d491a + AGPATACP_OLE_HDE
+ - PAPA_OLE_HDE + PAPA_OLE_HDE_reverse_e662c + DAGK_OLE_HDE
+ - DAGK_OLE_HDE_reverse_219fc = 0
+ pa1819Z160_c: - AGPATACP_OLE_PALM_reverse_2ce3a + AGPATACP_OLE_PALM
+ - PAPA_OLE_PALM + PAPA_OLE_PALM_reverse_d17e1 - CDPDAGS_OLE_PALM
+ + CDPDAGS_OLE_PALM_reverse_c0d83 + DAGK_OLE_PALM
+ - DAGK_OLE_PALM_reverse_b7767 = 0
+ r_604: + DAGK160_reverse_0238d - DAGK160
+ + SQDGS_PALM_PALM_reverse_eec5a - SQDGS_PALM_PALM + PAPA160
+ - PAPA160_reverse_c64df = 0
+ r_605: + DAGK_HDE_PALM_reverse_f515e - DAGK_HDE_PALM
+ + SQDGS_HDE_PALM_reverse_af549 - SQDGS_HDE_PALM + PAPA_HDE_PALM
+ - PAPA_HDE_PALM_reverse_64217 - GLUDGS_HDE_PALM
+ + GLUDGS_HDE_PALM_reverse_99a1b = 0
+ r_606: + DAGK161_reverse_9bfe7 - DAGK161 + PAPA161
+ - PAPA161_reverse_1bc33 - GLUDGS_HDE_HDE + GLUDGS_HDE_HDE_reverse_66701
+ = 0
+ r_607: + DAGK_OLE_HDE_reverse_219fc - DAGK_OLE_HDE + PAPA_OLE_HDE
+ - PAPA_OLE_HDE_reverse_e662c - GLUDGS_OLE_HDE
+ + GLUDGS_OLE_HDE_reverse_ab756 = 0
+ r_608: + DAGK_OLE_PALM_reverse_b7767 - DAGK_OLE_PALM + PAPA_OLE_PALM
+ - PAPA_OLE_PALM_reverse_d17e1 - GLUDGS_OLE_PALM
+ + GLUDGS_OLE_PALM_reverse_da027 = 0
+ sqdg160_c: - SQDGS_PALM_PALM_reverse_eec5a + SQDGS_PALM_PALM
+ - 0.07211355618 BM_MEM_LIPIDS
+ + 0.07211355618 BM_MEM_LIPIDS_reverse_f1815 = 0
+ sqdg1619Z160_c: - SQDGS_HDE_PALM_reverse_af549 + SQDGS_HDE_PALM
+ + 0.0482903278 BM_MEM_LIPIDS_reverse_f1815 - 0.0482903278 BM_MEM_LIPIDS
+ = 0
+ mgdg1619Z160_c: + 0.2673176249 BM_MEM_LIPIDS_reverse_f1815
+ - 0.2673176249 BM_MEM_LIPIDS - DGDGS_HDE_PALM
+ + DGDGS_HDE_PALM_reverse_d95be + GLUDGE_HDE_PALM
+ - GLUDGE_HDE_PALM_reverse_6886e = 0
+ dgdg1619Z160_c: - DGDGS_HDE_PALM_reverse_d95be + DGDGS_HDE_PALM
+ + 0.06332548303 BM_MEM_LIPIDS_reverse_f1815
+ - 0.06332548303 BM_MEM_LIPIDS = 0
+ dgdg161_c: + 0.04039013237 BM_MEM_LIPIDS_reverse_f1815
+ - 0.04039013237 BM_MEM_LIPIDS + DGDGS_HDE_HDE
+ - DGDGS_HDE_HDE_reverse_c88d1 = 0
+ mgdg161_c: + DGDGS_HDE_HDE_reverse_c88d1 - DGDGS_HDE_HDE
+ + 0.1992320953 BM_MEM_LIPIDS_reverse_f1815 - 0.1992320953 BM_MEM_LIPIDS
+ + GLUDGE_HDE_HDE - GLUDGE_HDE_HDE_reverse_80ae3 = 0
+ dgdg1819Z1619Z_c: + 0.02102545542 BM_MEM_LIPIDS_reverse_f1815
+ - 0.02102545542 BM_MEM_LIPIDS + DGDGS_OLE_HDE
+ - DGDGS_OLE_HDE_reverse_ee8ff = 0
+ mgdg1819Z1619Z_c: + DGDGS_OLE_HDE_reverse_ee8ff - DGDGS_OLE_HDE
+ + 0.1039851725 BM_MEM_LIPIDS_reverse_f1815 - 0.1039851725 BM_MEM_LIPIDS
+ + GLUDGE_OLE_HDE - GLUDGE_OLE_HDE_reverse_dee33 = 0
+ cdp12dgr1819Z160_c: - CDPDAGS_OLE_PALM_reverse_c0d83 + CDPDAGS_OLE_PALM
+ - PGPS_OLE_PALM + PGPS_OLE_PALM_reverse_108ca = 0
+ pgp1819Z160_c: - PGPS_OLE_PALM_reverse_108ca + PGPS_OLE_PALM
+ - PGPP_OLE_PALM + PGPP_OLE_PALM_reverse_c21ff = 0
+ pg1819Z160_c: - PGPP_OLE_PALM_reverse_c21ff + PGPP_OLE_PALM
+ - 0.2726231733 BM_MEM_LIPIDS + 0.2726231733 BM_MEM_LIPIDS_reverse_f1815
+ = 0
+ glcdg1619Z160_c: + GLUDGE_HDE_PALM_reverse_6886e - GLUDGE_HDE_PALM
+ + GLUDGS_HDE_PALM - GLUDGS_HDE_PALM_reverse_99a1b = 0
+ glcdg161_c: + GLUDGE_HDE_HDE_reverse_80ae3 - GLUDGE_HDE_HDE
+ + GLUDGS_HDE_HDE - GLUDGS_HDE_HDE_reverse_66701 = 0
+ glcdg1819Z1619Z_c: + GLUDGE_OLE_HDE_reverse_dee33 - GLUDGE_OLE_HDE
+ + GLUDGS_OLE_HDE - GLUDGS_OLE_HDE_reverse_ab756 = 0
+ glcdg1819Z160_c: - GLUDGS_OLE_PALM_reverse_da027 + GLUDGS_OLE_PALM
+ - GLUDGE_OLE_PALM + GLUDGE_OLE_PALM_reverse_108b5 = 0
+ mgdg1819Z160_c: - GLUDGE_OLE_PALM_reverse_108b5 + GLUDGE_OLE_PALM
+ + 0.1720707022 BM_MEM_LIPIDS_reverse_f1815 - 0.1720707022 BM_MEM_LIPIDS
+ - DGDGS_OLE_PALM + DGDGS_OLE_PALM_reverse_e6526 = 0
+ dgdg1819Z160Z_c: - DGDGS_OLE_PALM_reverse_e6526 + DGDGS_OLE_PALM
+ - 0.04396080608 BM_MEM_LIPIDS
+ + 0.04396080608 BM_MEM_LIPIDS_reverse_f1815 = 0
+ glntrna_c: - 0.502 BM_PROTEIN + 0.502 BM_PROTEIN_reverse_4f8b8 + GLNTRS
+ - GLNTRS_reverse_062f1 = 0
+ trnagln_c: + GLNTRS_reverse_062f1 - GLNTRS + 0.502 BM_PROTEIN
+ - 0.502 BM_PROTEIN_reverse_4f8b8 = 0
+ trnatyr_c: + 0.2633 BM_PROTEIN - 0.2633 BM_PROTEIN_reverse_4f8b8
+ - TYRTRS + TYRTRS_reverse_27d64 = 0
+ tyrtrna_c: - TYRTRS_reverse_27d64 + TYRTRS - 0.2633 BM_PROTEIN
+ + 0.2633 BM_PROTEIN_reverse_4f8b8 = 0
+ trnamet_c: + 0.177 BM_PROTEIN - 0.177 BM_PROTEIN_reverse_4f8b8 - METTRS
+ + METTRS_reverse_d6cd0 = 0
+ mettrna_c: - METTRS_reverse_d6cd0 + METTRS - 0.177 BM_PROTEIN
+ + 0.177 BM_PROTEIN_reverse_4f8b8 - FMETTRS + FMETTRS_reverse_3b6c6 = 0
+ trnaser_c: + 0.5238 BM_PROTEIN - 0.5238 BM_PROTEIN_reverse_4f8b8
+ - SERTRS + SERTRS_reverse_b65b1 = 0
+ sertrna_c: - SERTRS_reverse_b65b1 + SERTRS - 0.5238 BM_PROTEIN
+ + 0.5238 BM_PROTEIN_reverse_4f8b8 = 0
+ glytrna_c: - 0.6663 BM_PROTEIN + 0.6663 BM_PROTEIN_reverse_4f8b8
+ + GLYTRS - GLYTRS_reverse_b4742 = 0
+ trnagly_c: + GLYTRS_reverse_b4742 - GLYTRS + 0.6663 BM_PROTEIN
+ - 0.6663 BM_PROTEIN_reverse_4f8b8 = 0
+ protrna_c: - 0.463 BM_PROTEIN + 0.463 BM_PROTEIN_reverse_4f8b8 + PROTRS
+ - PROTRS_reverse_9d634 = 0
+ trnapro_c: + PROTRS_reverse_9d634 - PROTRS + 0.463 BM_PROTEIN
+ - 0.463 BM_PROTEIN_reverse_4f8b8 = 0
+ trnacys_c: + 0.0899 BM_PROTEIN - 0.0899 BM_PROTEIN_reverse_4f8b8
+ - CYSTRS + CYSTRS_reverse_08992 = 0
+ cystrna_c: - CYSTRS_reverse_08992 + CYSTRS - 0.0899 BM_PROTEIN
+ + 0.0899 BM_PROTEIN_reverse_4f8b8 = 0
+ trnaarg_c: + 0.4548 BM_PROTEIN - 0.4548 BM_PROTEIN_reverse_4f8b8
+ - ARGTRS + ARGTRS_reverse_1ecbf = 0
+ argtrna_c: - ARGTRS_reverse_1ecbf + ARGTRS - 0.4548 BM_PROTEIN
+ + 0.4548 BM_PROTEIN_reverse_4f8b8 = 0
+ trnatrp_c: + 0.1398 BM_PROTEIN - 0.1398 BM_PROTEIN_reverse_4f8b8
+ - TRPTRS + TRPTRS_reverse_f29b7 = 0
+ trptrna_c: - TRPTRS_reverse_f29b7 + TRPTRS - 0.1398 BM_PROTEIN
+ + 0.1398 BM_PROTEIN_reverse_4f8b8 = 0
+ phetrna_c: - 0.3622 BM_PROTEIN + 0.3622 BM_PROTEIN_reverse_4f8b8
+ + PHETRS - PHETRS_reverse_a31de = 0
+ trnaphe_c: + PHETRS_reverse_a31de - PHETRS + 0.3622 BM_PROTEIN
+ - 0.3622 BM_PROTEIN_reverse_4f8b8 = 0
+ trnahis_c: + 0.1679 BM_PROTEIN - 0.1679 BM_PROTEIN_reverse_4f8b8
+ - HISTRS + HISTRS_reverse_a6df2 = 0
+ histrna_c: - HISTRS_reverse_a6df2 + HISTRS - 0.1679 BM_PROTEIN
+ + 0.1679 BM_PROTEIN_reverse_4f8b8 = 0
+ trnaasn_c: + 0.3658 BM_PROTEIN - 0.3658 BM_PROTEIN_reverse_4f8b8
+ - ASNTRS + ASNTRS_reverse_ee3aa = 0
+ asntrna_c: - ASNTRS_reverse_ee3aa + ASNTRS - 0.3658 BM_PROTEIN
+ + 0.3658 BM_PROTEIN_reverse_4f8b8 = 0
+ asptrna_c: - 0.4539 BM_PROTEIN + 0.4539 BM_PROTEIN_reverse_4f8b8
+ + ASPTRS - ASPTRS_reverse_8f6e6 = 0
+ trnaasp_c: + ASPTRS_reverse_8f6e6 - ASPTRS + 0.4539 BM_PROTEIN
+ - 0.4539 BM_PROTEIN_reverse_4f8b8 = 0
+ trnathr_c: + 0.4957 BM_PROTEIN - 0.4957 BM_PROTEIN_reverse_4f8b8
+ - THRTRS + THRTRS_reverse_12237 = 0
+ thrtrna_c: - THRTRS_reverse_12237 + THRTRS - 0.4957 BM_PROTEIN
+ + 0.4957 BM_PROTEIN_reverse_4f8b8 = 0
+ trnaleu_c: + 1.0294 BM_PROTEIN - 1.0294 BM_PROTEIN_reverse_4f8b8
+ - LEUTRS + LEUTRS_reverse_06175 = 0
+ leutrna_c: - LEUTRS_reverse_06175 + LEUTRS - 1.0294 BM_PROTEIN
+ + 1.0294 BM_PROTEIN_reverse_4f8b8 = 0
+ trnaile_c: + 0.5665 BM_PROTEIN - 0.5665 BM_PROTEIN_reverse_4f8b8
+ - ILETRS + ILETRS_reverse_02878 = 0
+ iletrna_c: - ILETRS_reverse_02878 + ILETRS - 0.5665 BM_PROTEIN
+ + 0.5665 BM_PROTEIN_reverse_4f8b8 = 0
+ trnalys_c: + 0.3777 BM_PROTEIN - 0.3777 BM_PROTEIN_reverse_4f8b8
+ - LYSTRS + LYSTRS_reverse_d3497 = 0
+ lystrna_c: - LYSTRS_reverse_d3497 + LYSTRS - 0.3777 BM_PROTEIN
+ + 0.3777 BM_PROTEIN_reverse_4f8b8 = 0
+ alatrna_c: - 0.7662 BM_PROTEIN + 0.7662 BM_PROTEIN_reverse_4f8b8
+ + ALATRS - ALATRS_reverse_de5e9 = 0
+ trnaala_c: + ALATRS_reverse_de5e9 - ALATRS + 0.7662 BM_PROTEIN
+ - 0.7662 BM_PROTEIN_reverse_4f8b8 = 0
+ valtrna_c: - 0.6082 BM_PROTEIN + 0.6082 BM_PROTEIN_reverse_4f8b8
+ + VALTRS - VALTRS_reverse_72083 = 0
+ trnaval_c: + VALTRS_reverse_72083 - VALTRS + 0.6082 BM_PROTEIN
+ - 0.6082 BM_PROTEIN_reverse_4f8b8 = 0
+ fmettrna_c: - FMETTRS_reverse_3b6c6 + FMETTRS = 0
+ photon410_e: + EX_photon410_e_reverse_09d09 - EX_photon410_e
+ - PHOA410um + PHOA410um_reverse_c47f0 = 0
+ photon430_e: + EX_photon430_e_reverse_7fe3b - EX_photon430_e
+ - PHOA430um + PHOA430um_reverse_2152e - PCHLDA430
+ + PCHLDA430_reverse_0e4b2 = 0
+ photon450_e: + EX_photon450_e_reverse_897c6 - EX_photon450_e
+ - PHOA450um + PHOA450um_reverse_eda8e = 0
+ photon470_e: + PHOA470um_reverse_13295 - PHOA470um - EX_photon470_e
+ + EX_photon470_e_reverse_e0bef = 0
+ photon490_e: + PHOA490um_reverse_e77e7 - PHOA490um - EX_photon490_e
+ + EX_photon490_e_reverse_33832 = 0
+ photon510_e: + PHOA510um_reverse_b693b - PHOA510um - EX_photon510_e
+ + EX_photon510_e_reverse_45541 = 0
+ photon530_e: + EX_photon530_e_reverse_07389 - EX_photon530_e
+ - PHOA530um + PHOA530um_reverse_77936 = 0
+ photon550_e: + EX_photon550_e_reverse_22d6e - EX_photon550_e
+ - PHOA550um + PHOA550um_reverse_f2fc9 = 0
+ photon570_e: + EX_photon570_e_reverse_61760 - EX_photon570_e
+ - PHOA570um + PHOA570um_reverse_ca3c7 = 0
+ photon590_e: + EX_photon590_e_reverse_30b0a - EX_photon590_e
+ - PHOA590um + PHOA590um_reverse_5c23a = 0
+ photon610_e: + EX_photon610_e_reverse_1a480 - EX_photon610_e
+ - PHOA610um + PHOA610um_reverse_5cadd = 0
+ photon630_e: + EX_photon630_e_reverse_38d55 - EX_photon630_e
+ - PHOA630um + PHOA630um_reverse_82e48 = 0
+ photon650_e: + EX_photon650_e_reverse_212c9 - EX_photon650_e
+ - PHOA650um + PHOA650um_reverse_84ba9 - PCHLDA650
+ + PCHLDA650_reverse_2c126 = 0
+ photon670_e: + EX_photon670_e_reverse_cc92c - EX_photon670_e
+ - PHOA670um + PHOA670um_reverse_26802 = 0
+ photon690_e: + PHOA690um_reverse_77820 - PHOA690um - EX_photon690_e
+ + EX_photon690_e_reverse_7986f = 0
+ calxan_c: - ZXANHX_reverse_a99d5 + ZXANHX
+ + 0.1521 BM_PIGMENTS_reverse_cb5bd - 0.1521 BM_PIGMENTS - CXANHX
+ + CXANHX_reverse_34809 = 0
+ nstxan_c: - CXANHX_reverse_34809 + CXANHX - 0.0507 BM_PIGMENTS
+ + 0.0507 BM_PIGMENTS_reverse_cb5bd = 0
+ r_682: - 0.7 PHOA450um_reverse_eda8e + 0.7 PHOA450um
+ - 0.9 PHOA410um_reverse_c47f0 + 0.9 PHOA410um + 0.85 PHOA430um
+ - 0.85 PHOA430um_reverse_2152e - ETCHLAS + ETCHLAS_reverse_12be2 = 0
+ r_683: + ETBCARO_reverse_6e466 - ETBCARO - 0.92 PHOA510um_reverse_b693b
+ + 0.92 PHOA510um - 0.92 PHOA490um_reverse_e77e7 + 0.92 PHOA490um
+ - 0.92 PHOA470um_reverse_13295 + 0.92 PHOA470um
+ - 0.276 PHOA450um_reverse_eda8e + 0.276 PHOA450um
+ - 0.138 PHOA430um_reverse_2152e + 0.138 PHOA430um
+ - 0.092 PHOA410um_reverse_c47f0 + 0.092 PHOA410um = 0
+ r_684: + ETCPC_reverse_26ed1 - ETCPC - PHOA650um_reverse_84ba9
+ + PHOA650um - PHOA610um_reverse_5cadd + PHOA610um
+ - PHOA570um_reverse_ca3c7 + PHOA570um - PHOA530um_reverse_77936
+ + PHOA530um + PHOA550um - PHOA550um_reverse_f2fc9 + PHOA590um
+ - PHOA590um_reverse_5c23a + PHOA630um - PHOA630um_reverse_82e48
+ + PHOA670um - PHOA670um_reverse_26802 = 0
+ r_685: + ETCPC - ETCPC_reverse_26ed1 - STACPSI + STACPSI_reverse_8addd
+ - ETAPCPSII + ETAPCPSII_reverse_b6974 = 0
+ allocy_c: - ETAPCPSII_reverse_b6974 + ETAPCPSII + ETCPC_reverse_26ed1
+ - ETCPC + STACPSI - STACPSI_reverse_8addd = 0
+ r_687: - 0.9 STCHLPSIum_reverse_e493e + 0.9 STCHLPSIum
+ - 0.315 ETCHLAS_reverse_12be2 + 0.315 ETCHLAS
+ - 0.9 PHOA690um_reverse_77820 + 0.9 PHOA690um + 0.75 ETBCARO
+ - 0.75 ETBCARO_reverse_6e466 + 0.9 STACPSI - 0.9 STACPSI_reverse_8addd
+ - PSICSum + PSICSum_reverse_f4e46 = 0
+ pho_loss_c: - 0.1 STACPSI_reverse_8addd + 0.1 STACPSI
+ + DM_pho_loss_c_reverse_ea38a - DM_pho_loss_c + 0.65 ETCHLAS
+ - 0.65 ETCHLAS_reverse_12be2 + 0.25 ETBCARO
+ - 0.25 ETBCARO_reverse_6e466 + 0.05 ETAPCPSII
+ - 0.05 ETAPCPSII_reverse_b6974 + 0.1 STCHLPSIum
+ - 0.1 STCHLPSIum_reverse_e493e + DEXZEAX - DEXZEAX_reverse_911e0 = 0
+ u23ga2_c: + USHD2_reverse_08d67 - USHD2 - U23GAAT2_reverse_387ef
+ + U23GAAT2 - LPADSS2 + LPADSS2_reverse_9cafc = 0
+ u3aga2_c: - UAGAAT2_reverse_8209e + UAGAAT2 - UHGADA2
+ + UHGADA2_reverse_e04ae = 0
+ ara5p_c: - A5PISO_reverse_3adc0 + A5PISO - KDOPS + KDOPS_reverse_d4842
+ = 0
+ kdo8p_c: - KDOPS_reverse_d4842 + KDOPS - KDOPP + KDOPP_reverse_c38fd
+ = 0
+ kdo_c: - KDOPP_reverse_c38fd + KDOPP - KDOCT2 + KDOCT2_reverse_b2fcd
+ = 0
+ ckdo_c: - KDOCT2_reverse_b2fcd + KDOCT2 - MOAT + MOAT_reverse_0fdf8 = 0
+ uacmam_c: + ACMAMT_reverse_098cf - ACMAMT + UAG2E - UAG2E_reverse_83643
+ = 0
+ udcpp_c: + PAPPT3_reverse_0a787 - PAPPT3 - ACGAMT
+ + ACGAMT_reverse_2307a + UDCPDP - UDCPDP_reverse_1813b = 0
+ unaga_c: - ACGAMT_reverse_2307a + ACGAMT - ACMAMT
+ + ACMAMT_reverse_098cf = 0
+ kdolipid4cy_c: + 0.0865 ICLIPAS_reverse_5cd81 - 0.0865 ICLIPAS + MOAT
+ - MOAT_reverse_0fdf8 = 0
+ unagam_c: - ACMAMT_reverse_098cf + ACMAMT - 0.0558 ICLIPAS
+ + 0.0558 ICLIPAS_reverse_5cd81 = 0
+ icolipacy_c: - ICLIPAS_reverse_5cd81 + ICLIPAS - ICLIPAabcpp
+ + ICLIPAabcpp_reverse_54b98 = 0
+ icolipacy_p: + OANTILpp_reverse_4957a - OANTILpp + ICLIPAabcpp
+ - ICLIPAabcpp_reverse_54b98 = 0
+ oanticy_c: - OANTS_reverse_6b135 + OANTS - OANTIabcpp
+ + OANTIabcpp_reverse_ccec6 = 0
+ oanticy_p: - OANTIabcpp_reverse_ccec6 + OANTIabcpp - OANTILpp
+ + OANTILpp_reverse_4957a = 0
+ colipacy_p: - OANTILpp_reverse_4957a + OANTILpp - COLIPAabcex
+ + COLIPAabcex_reverse_d4779 = 0
+ colipacy_e: - COLIPAabcex_reverse_d4779 + COLIPAabcex
+ + 0.694139 BM_CELL_WALL_reverse_c47ee - 0.694139 BM_CELL_WALL = 0
+ uaagmda_c: - UAGPT3_reverse_7f3f7 + UAGPT3 - 2 MPTG
+ + 2 MPTG_reverse_610dd - MPTG2 + MPTG2_reverse_fd602 = 0
+ murein5p5p_p: + MLDCP2App_reverse_ab200 - MLDCP2App
+ + MCTP1Bpp_reverse_801d1 - MCTP1Bpp - MPTG_reverse_610dd + MPTG - MPTG2
+ + MPTG2_reverse_fd602 - MCTP1App + MCTP1App_reverse_33fae - MDDCP3pp
+ + MDDCP3pp_reverse_def42 = 0
+ murein5p5p5p_p: + MCTP2App_reverse_ab790 - MCTP2App
+ + 0.192214 BM_CELL_WALL_reverse_c47ee - 0.192214 BM_CELL_WALL + MPTG2
+ - MPTG2_reverse_fd602 = 0
+ ala__D_p: + s_1614 - x_1613 - MLDCP2Bpp_reverse_14d0a + MLDCP2Bpp
+ - MDDCP5pp_reverse_fd1dc + MDDCP5pp - MDDCP2pp_reverse_16437 + MDDCP2pp
+ + 2 MCTP2App - 2 MCTP2App_reverse_ab790 + MCTP1App
+ - MCTP1App_reverse_33fae + MDDCP1pp - MDDCP1pp_reverse_77f34 + MDDCP3pp
+ - MDDCP3pp_reverse_def42 + MDDCP4pp - MDDCP4pp_reverse_76a1f
+ + MLDCP1Bpp - MLDCP1Bpp_reverse_5a028 - DALAabcpp
+ + DALAabcpp_reverse_0bf96 = 0
+ murein5px4px4p_p: - MCTP2App_reverse_ab790 + MCTP2App - MDDCP2pp
+ + MDDCP2pp_reverse_16437 = 0
+ murein5px4p_p: + MLDCP1App_reverse_96701 - MLDCP1App
+ + MDDEP3pp_reverse_99f89 - MDDEP3pp + MDDCP1pp_reverse_77f34 - MDDCP1pp
+ + MCTP1App - MCTP1App_reverse_33fae = 0
+ alaala_p: + ALAALAabcpp_reverse_75b27 - ALAALAabcpp
+ - MLDCP2App_reverse_ab200 + MLDCP2App - MLDCP1App_reverse_96701
+ + MLDCP1App - MCTP1Bpp_reverse_801d1 + MCTP1Bpp = 0
+ murein5px3p_p: - MCTP1Bpp_reverse_801d1 + MCTP1Bpp = 0
+ murein4px4p_p: - MLTGY4pp_reverse_73320 + MLTGY4pp
+ + MDDEP1pp_reverse_6e8fc - MDDEP1pp + MDDCP1pp - MDDCP1pp_reverse_77f34
+ = 0
+ murein4px4px4p_p: - MDDCP2pp_reverse_16437 + MDDCP2pp - MDDEP4pp
+ + MDDEP4pp_reverse_6d84a = 0
+ murein5p4p_p: - MDDEP3pp_reverse_99f89 + MDDEP3pp
+ + MDDCP4pp_reverse_76a1f - MDDCP4pp + MDDCP3pp - MDDCP3pp_reverse_def42
+ = 0
+ murein4p4p_p: - MDDEP1pp_reverse_6e8fc + MDDEP1pp + MDDCP4pp
+ - MDDCP4pp_reverse_76a1f - MLDCP1Bpp + MLDCP1Bpp_reverse_5a028
+ - MLTGY1pp + MLTGY1pp_reverse_83a82 = 0
+ murein4p3p_p: + MLTGY2pp_reverse_21ef1 - MLTGY2pp
+ + MLDCP2Bpp_reverse_14d0a - MLDCP2Bpp + MDDCP5pp
+ - MDDCP5pp_reverse_fd1dc + MDDEP2pp - MDDEP2pp_reverse_952c4
+ + MLDCP1Bpp - MLDCP1Bpp_reverse_5a028 = 0
+ murein5p3p_p: - MLDCP2App_reverse_ab200 + MLDCP2App - MDDCP5pp
+ + MDDCP5pp_reverse_fd1dc = 0
+ murein3px4p_p: - MLDCP1App_reverse_96701 + MLDCP1App - MDDEP2pp
+ + MDDEP2pp_reverse_952c4 = 0
+ murein4px4p4p_p: - MDDEP4pp_reverse_6d84a + MDDEP4pp - MLTGY4pp
+ + MLTGY4pp_reverse_73320 = 0
+ murein3p3p_p: - MLDCP2Bpp_reverse_14d0a + MLDCP2Bpp - MLTGY3pp
+ + MLTGY3pp_reverse_b3def = 0
+ anhgm4p_p: + AGM4PApp_reverse_5ec54 - AGM4PApp
+ - 2 MLTGY1pp_reverse_83a82 + 2 MLTGY1pp + MLTGY2pp
+ - MLTGY2pp_reverse_21ef1 + MLTGY4pp - MLTGY4pp_reverse_73320
+ - AGM4Pt2pp + AGM4Pt2pp_reverse_58aad = 0
+ anhgm3p_p: + AGM3PApp_reverse_74a9d - AGM3PApp - MLTGY2pp_reverse_21ef1
+ + MLTGY2pp + 2 MLTGY3pp - 2 MLTGY3pp_reverse_b3def = 0
+ anhgm_c: + AGMH_reverse_d371c - AGMH + AGM4PA - AGM4PA_reverse_cc387
+ + AGMt2pp - AGMt2pp_reverse_23bf9 = 0
+ LalaDgluMdapDala_c: - AM4PA_reverse_b660b + AM4PA + s_1578 - x_1577
+ - AGM4PA_reverse_cc387 + AGM4PA - UM4PL + UM4PL_reverse_c309d + x_1599
+ - s_1600 = 0
+ anhgm4p_c: - AGM4Pt2pp_reverse_58aad + AGM4Pt2pp + AGM4PA_reverse_cc387
+ - AGM4PA - AGM4PCP + AGM4PCP_reverse_4f872 - AGM4PH
+ + AGM4PH_reverse_b09ff = 0
+ anhgm_p: + AGMt2pp_reverse_23bf9 - AGMt2pp - AGM3PApp_reverse_74a9d
+ + AGM3PApp - AGM4PApp_reverse_5ec54 + AGM4PApp = 0
+ LalaDgluMdapDala_p: + s_1600 - x_1599 + AGM4PApp
+ - AGM4PApp_reverse_5ec54 = 0
+ anhgm3p_c: + AGM3PH_reverse_3acde - AGM3PH + AGM4PCP
+ - AGM4PCP_reverse_4f872 = 0
+ acgam_c: + AGM4PH - AGM4PH_reverse_b09ff + AGMH - AGMH_reverse_d371c
+ + AGM3PH - AGM3PH_reverse_3acde - ACGAMK + ACGAMK_reverse_1e7a8 = 0
+ anhm4p_c: - AGM4PH_reverse_b09ff + AGM4PH - AM4PCP
+ + AM4PCP_reverse_9f67b - AM4PA + AM4PA_reverse_b660b = 0
+ LalaDgluMdap_p: - AGM3PApp_reverse_74a9d + AGM3PApp = 0
+ anhm_c: - AM4PA_reverse_b660b + AM4PA - AGMH_reverse_d371c + AGMH
+ + AM3PA - AM3PA_reverse_086bd - ANHMK + ANHMK_reverse_f8dfd = 0
+ anhm3p_c: - AM4PCP_reverse_9f67b + AM4PCP + AGM3PH
+ - AGM3PH_reverse_3acde - AM3PA + AM3PA_reverse_086bd = 0
+ LalaDgluMdap_c: + UM3PL_reverse_32754 - UM3PL + LADGMDH_reverse_f7b48
+ - LADGMDH - s_1578 + x_1577 + AM3PA - AM3PA_reverse_086bd = 0
+ LalaDglu_c: - LADGMDH_reverse_f7b48 + LADGMDH - ALAGLUE
+ + ALAGLUE_reverse_83285 = 0
+ um4p_c: + UM4PCP_reverse_86d06 - UM4PCP + UM4PL - UM4PL_reverse_c309d
+ = 0
+ LalaLglu_c: + LALGP_reverse_4d1aa - LALGP + ALAGLUE
+ - ALAGLUE_reverse_83285 = 0
+ r_740: - PCHLDA650_reverse_2c126 + PCHLDA650 + LPOR_reverse_ae81c
+ - LPOR + PCHLDA430 - PCHLDA430_reverse_0e4b2 = 0
+ fldox_c: - PFOR + PFOR_reverse_1e1f4 = 0
+ fldrd_c: - PFOR_reverse_1e1f4 + PFOR = 0
+ r_743: + ARGDHpp - ARGDHpp_reverse_88804 = 0
+ h2o2_p: - ARGDHpp_reverse_88804 + ARGDHpp = 0
+ leu__L_p: + LEUabcpp_reverse_ab30a - LEUabcpp + LEUtex
+ - LEUtex_reverse_a9685 = 0
+ leu__L_e: + LEUtex_reverse_a9685 - LEUtex + EX_leu__L_e
+ - EX_leu__L_e_reverse_d40a5 = 0
+ no2_p: + NO2tabcpp_reverse_5b0e7 - NO2tabcpp + NO2tex
+ - NO2tex_reverse_fed02 = 0
+ no2_e: + NO2tex_reverse_fed02 - NO2tex = 0
+ r_749: + DEXZEAX_reverse_911e0 - DEXZEAX - 0.08 PHOA490um_reverse_e77e7
+ + 0.08 PHOA490um - 0.024 PHOA450um_reverse_eda8e + 0.024 PHOA450um
+ - 0.008 PHOA410um_reverse_c47f0 + 0.008 PHOA410um + 0.012 PHOA430um
+ - 0.012 PHOA430um_reverse_2152e + 0.08 PHOA470um
+ - 0.08 PHOA470um_reverse_13295 + 0.08 PHOA510um
+ - 0.08 PHOA510um_reverse_b693b = 0
+ r_750: + STCHLPSIum_reverse_e493e - STCHLPSIum
+ - 0.95 ETAPCPSII_reverse_b6974 + 0.95 ETAPCPSII
+ - 0.1 PHOA690um_reverse_77820 + 0.1 PHOA690um + 0.035 ETCHLAS
+ - 0.035 ETCHLAS_reverse_12be2 - PSIICSum + PSIICSum_reverse_e1197 = 0
+ p700_um: + PSIum - PSIum_reverse_43c5e - PSICSum
+ + PSICSum_reverse_f4e46 + PSICRum - PSICRum_reverse_31595 = 0
+ r_752: + PSICRum_reverse_31595 - PSICRum + PSIum_reverse_43c5e - PSIum
+ + PSICSum - PSICSum_reverse_f4e46 = 0
+ r_753: - 4 PSIIum + 4 PSIIum_reverse_30799 + PSIICSum
+ - PSIICSum_reverse_e1197 - PSIICRum + PSIICRum_reverse_68a05 = 0
+ p680_um: - PSIICRum_reverse_68a05 + PSIICRum - 4 PSIIum_reverse_30799
+ + 4 PSIIum - PSIICSum + PSIICSum_reverse_e1197 = 0
+ b14glucan_c: - CELLSYN_reverse_287bb + CELLSYN = 0
+ fald_c: - ALCD1_reverse_895d7 + ALCD1 - FALGTHLs
+ + FALGTHLs_reverse_1514d = 0
+ hmgth_c: - FALGTHLs_reverse_1514d + FALGTHLs - FALDH2
+ + FALDH2_reverse_f1aae = 0
+ Sfglutth_c: + SFGTHi_reverse_71e0b - SFGTHi + FALDH2
+ - FALDH2_reverse_f1aae = 0
+ r_759: + OPAH_reverse_607f0 - OPAH + GGCLUT2 - GGCLUT2_reverse_70203
+ = 0
+ acgam6p_c: + AGDC_reverse_2ab9d - AGDC + AMANAPEr_reverse_8310c
+ - AMANAPEr + ACGAMK - ACGAMK_reverse_1e7a8 + ACM6PH
+ - ACM6PH_reverse_cff51 = 0
+ acmanap_c: - AMANAPEr_reverse_8310c + AMANAPEr = 0
+ acmum6p_c: + ACM6PH_reverse_cff51 - ACM6PH + ANHMK
+ - ANHMK_reverse_f8dfd = 0
+ cl_p: + CLt3_1pp - CLt3_1pp_reverse_6d6d0 + Cltex - Cltex_reverse_bf082
+ = 0
+ cl_c: + CLt3_1pp_reverse_6d6d0 - CLt3_1pp = 0
+ cl_e: + EX_cl_e_reverse_2429b - EX_cl_e - Cltex + Cltex_reverse_bf082
+ = 0
+ k_u: - Ktu_reverse_5c5f2 + Ktu = 0
+ ps2d1_um: - 0.0004 PSIIum + 0.0004 PSIIum_reverse_30799 + NGAM_D1um
+ - NGAM_D1um_reverse_1ddad - 0.01 PSIICRum + 0.01 PSIICRum_reverse_68a05
+ = 0
+ r_768: - 0.01 PSIICRum_reverse_68a05 + 0.01 PSIICRum
+ - 0.0004 PSIIum_reverse_30799 + 0.0004 PSIIum - NGAM_D1um
+ + NGAM_D1um_reverse_1ddad = 0
+
+Bounds
+ 0 <= QULNS <= 1000
+ QULNS_reverse_66da1 = 0
+ 0 <= ORNDC <= 1000
+ ORNDC_reverse_63596 = 0
+ 0 <= LEUTA <= 1000
+ 0 <= LEUTA_reverse_0b6fe <= 1000
+ 0 <= MSBENZMT <= 1000
+ MSBENZMT_reverse_a902a = 0
+ 0 <= DESAT18a <= 1000
+ 0 <= DESAT18a_reverse_fd859 <= 1000
+ 0 <= FUM <= 1000
+ 0 <= FUM_reverse_d3642 <= 1000
+ 0 <= PHYFXOR <= 1000
+ PHYFXOR_reverse_84960 = 0
+ 0 <= VPAMTr <= 1000
+ VPAMTr_reverse_872bd = 0
+ 0 <= GLYCL <= 1000
+ GLYCL_reverse_e418f = 0
+ 0 <= NDPK7 <= 1000
+ 0 <= NDPK7_reverse_9dc79 <= 1000
+ 0 <= GTPCI <= 1000
+ GTPCI_reverse_1ee86 = 0
+ 0 <= MTHFC <= 1000
+ 0 <= MTHFC_reverse_f6fcc <= 1000
+ 0 <= LYCBC2 <= 1000
+ 0 <= LYCBC2_reverse_44059 <= 1000
+ 0 <= ORNTA <= 1000
+ 0 <= ORNTA_reverse_5adff <= 1000
+ 0 <= UPPDC1 <= 1000
+ UPPDC1_reverse_cb592 = 0
+ 0 <= GARFT <= 1000
+ GARFT_reverse_7ecb6 = 0
+ 0 <= H4THDPR <= 1000
+ H4THDPR_reverse_617be = 0
+ 0 <= UDPG4E <= 1000
+ 0 <= UDPG4E_reverse_08c7f <= 1000
+ 0 <= GLCS3 <= 1000
+ GLCS3_reverse_5e7ed = 0
+ 0 <= ASPTA <= 1000
+ 0 <= ASPTA_reverse_36525 <= 1000
+ 0 <= PRAGSr <= 1000
+ PRAGSr_reverse_fd2d8 = 0
+ 0 <= ACKr <= 1000
+ 0 <= ACKr_reverse_b49c0 <= 1000
+ 0 <= KAS14 <= 1000
+ KAS14_reverse_25582 = 0
+ 0 <= UDCPDPS <= 1000
+ UDCPDPS_reverse_04082 = 0
+ 0 <= GLNS <= 1000
+ GLNS_reverse_59581 = 0
+ 0 <= SHKK <= 1000
+ SHKK_reverse_163fd = 0
+ 0 <= G1PACT <= 1000
+ G1PACT_reverse_51580 = 0
+ 0 <= x_55 <= 1000
+ s_56 = 0
+ 0 <= OHPBAT <= 1000
+ 0 <= OHPBAT_reverse_7e72e <= 1000
+ 0 <= Htex <= 1000
+ 0 <= Htex_reverse_6f9a4 <= 1000
+ 0 <= x_61 <= 1000
+ 0 <= x_62 <= 1000
+ 0 <= PGI <= 1000
+ 0 <= PGI_reverse_27efc <= 1000
+ 0 <= PNTK <= 1000
+ PNTK_reverse_236b6 = 0
+ 0 <= x_67 <= 1000
+ 0 <= x_68 <= 1000
+ 0 <= ACGK <= 1000
+ ACGK_reverse_684be = 0
+ 0 <= LEUabcpp <= 1000
+ LEUabcpp_reverse_ab30a = 0
+ 0 <= G5SD <= 1000
+ G5SD_reverse_af8c0 = 0
+ 0 <= DTMPK <= 1000
+ 0 <= DTMPK_reverse_44d5a <= 1000
+ 0 <= NOR <= 1000
+ NOR_reverse_11d45 = 0
+ 0 <= NDH~1(1)um <= 1000
+ NDH~1(1)um_reverse_85750 = 0
+ 0 <= AOOA <= 1000
+ 0 <= AOOA_reverse_2e8da <= 1000
+ 0 <= CMPA <= 1000
+ CMPA_reverse_ae497 = 0
+ 0 <= U23GAAT2 <= 1000
+ U23GAAT2_reverse_387ef = 0
+ 0 <= PGK <= 1000
+ 0 <= PGK_reverse_02696 <= 1000
+ 0 <= IMPD <= 1000
+ IMPD_reverse_6e625 = 0
+ 0 <= LPOR <= 1000
+ LPOR_reverse_ae81c = 0
+ 0 <= CHRPL <= 1000
+ CHRPL_reverse_46f50 = 0
+ 0 <= GCALDDy <= 1000
+ GCALDDy_reverse_2af46 = 0
+ 0 <= RNDR1 <= 1000
+ RNDR1_reverse_f4be1 = 0
+ 0 <= AIRC2 <= 1000
+ AIRC2_reverse_50d74 = 0
+ 0 <= MTAP <= 1000
+ MTAP_reverse_96009 = 0
+ 0 <= HEMEAS <= 1000
+ 0 <= HEMEAS_reverse_9357a <= 1000
+ 0 <= DHORD3um <= 1000
+ DHORD3um_reverse_137f3 = 0
+ 0 <= TRPS1 <= 1000
+ TRPS1_reverse_35c22 = 0
+ 0 <= NNATr <= 1000
+ 0 <= NNATr_reverse_8ab73 <= 1000
+ 0 <= x_111 <= 1000
+ 0 <= x_112 <= 1000
+ 0 <= HISTDb <= 1000
+ HISTDb_reverse_acd55 = 0
+ 0 <= SPS <= 1000
+ SPS_reverse_5835b = 0
+ 0 <= ADCL <= 1000
+ ADCL_reverse_0051f = 0
+ 0 <= CYTK1 <= 1000
+ 0 <= CYTK1_reverse_2fa21 <= 1000
+ 0 <= PSIum <= 1000
+ PSIum_reverse_43c5e = 0
+ 0 <= Cobalt2abcppI <= 1000
+ Cobalt2abcppI_reverse_894f2 = 0
+ 0 <= THRS <= 1000
+ THRS_reverse_a994c = 0
+ 0 <= AOXPBDC <= 1000
+ AOXPBDC_reverse_81d1e = 0
+ 0 <= NAMNPP <= 1000
+ 0 <= NAMNPP_reverse_ebb31 <= 1000
+ 0 <= PERD <= 1000
+ PERD_reverse_c9aa4 = 0
+ 0 <= DAPDC <= 1000
+ DAPDC_reverse_d3ab8 = 0
+ 0 <= COCHL <= 1000
+ COCHL_reverse_a39d4 = 0
+ 0 <= x_137 <= 1000
+ 0 <= x_138 <= 1000
+ 0 <= PFK_3 <= 1000
+ PFK_3_reverse_037e0 = 0
+ 0 <= PPK2r <= 1000
+ 0 <= PPK2r_reverse_30874 <= 1000
+ 0 <= ZNabcpp <= 1000
+ 0 <= ZNabcpp_reverse_14d34 <= 1000
+ 0 <= GLYDHDA <= 1000
+ 0 <= GLYDHDA_reverse_663d3 <= 1000
+ 0 <= ANS <= 1000
+ ANS_reverse_4e062 = 0
+ 0 <= SUCBZL <= 1000
+ SUCBZL_reverse_536e6 = 0
+ 0 <= ADPT <= 1000
+ 0 <= ADPT_reverse_567cf <= 1000
+ 0 <= RNDR3 <= 1000
+ RNDR3_reverse_bc84a = 0
+ 0 <= DHNANT <= 1000
+ DHNANT_reverse_39a88 = 0
+ 0 <= GND <= 1000
+ GND_reverse_eec5c = 0
+ 0 <= O2tcx <= 1000
+ O2tcx_reverse_6b2f8 = 0
+ 0 <= TRPS3 <= 1000
+ TRPS3_reverse_bdfbb = 0
+ 0 <= DNTPPA <= 1000
+ DNTPPA_reverse_7e624 = 0
+ 0 <= HOXGfx <= 1000
+ HOXGfx_reverse_2964c = 0
+ 0 <= TMPPP <= 1000
+ TMPPP_reverse_f275c = 0
+ 0 <= TALA <= 1000
+ 0 <= TALA_reverse_adfda <= 1000
+ 0 <= ACONT <= 1000
+ 0 <= ACONT_reverse_7c2d5 <= 1000
+ 0 <= IGPS <= 1000
+ IGPS_reverse_feb80 = 0
+ 0 <= HBZNPT <= 1000
+ HBZNPT_reverse_37fab = 0
+ 0 <= HSDyi <= 1000
+ HSDyi_reverse_76518 = 0
+ 0 <= GLYOX <= 1000
+ GLYOX_reverse_6ab0a = 0
+ 0 <= CBMD <= 1000
+ CBMD_reverse_4f3e7 = 0
+ 0 <= AICART <= 1000
+ AICART_reverse_b7b59 = 0
+ 0 <= UDPSQS <= 1000
+ UDPSQS_reverse_7ca9b = 0
+ 0 <= GK1 <= 1000
+ 0 <= GK1_reverse_11a40 <= 1000
+ 0 <= OXADC <= 1000
+ OXADC_reverse_49a15 = 0
+ 0 <= PC6AS <= 1000
+ PC6AS_reverse_590fa = 0
+ 0 <= PPND <= 1000
+ PPND_reverse_5463c = 0
+ 0 <= IPDPS <= 1000
+ IPDPS_reverse_baaf9 = 0
+ 0 <= H4THDPS <= 1000
+ H4THDPS_reverse_5f722 = 0
+ 0 <= BM_PIGMENTS <= 1000
+ BM_PIGMENTS_reverse_cb5bd = 0
+ 0 <= x_201 <= 1000
+ 0 <= x_202 <= 1000
+ 0 <= HISTDa <= 1000
+ HISTDa_reverse_76147 = 0
+ 0 <= ADSL1r <= 1000
+ ADSL1r_reverse_2ae14 = 0
+ 0 <= H2Otu_syn <= 1000
+ 0 <= H2Otu_syn_reverse_7aa62 <= 1000
+ 0 <= ADOCBLS <= 1000
+ ADOCBLS_reverse_005a5 = 0
+ 0 <= PDS2 <= 1000
+ PDS2_reverse_c1831 = 0
+ 0 <= ALAALAr <= 1000
+ ALAALAr_reverse_18faa = 0
+ 0 <= ACOATA <= 1000
+ ACOATA_reverse_8c02f = 0
+ 0 <= GLCP2 <= 1000
+ GLCP2_reverse_550c1 = 0
+ 0 <= GLYCK <= 1000
+ GLYCK_reverse_c3ee2 = 0
+ 0 <= MAN1PT <= 1000
+ MAN1PT_reverse_c317b = 0
+ 0 <= DMBZIDS2 <= 1000
+ DMBZIDS2_reverse_6417b = 0
+ 0 <= CS <= 1000
+ CS_reverse_8d7e9 = 0
+ 0 <= DMATT <= 1000
+ DMATT_reverse_3a731 = 0
+ 0 <= PSP_L <= 1000
+ PSP_L_reverse_cfa3c = 0
+ 0 <= NDPK3 <= 1000
+ 0 <= NDPK3_reverse_37ea6 <= 1000
+ 0 <= G3PD2 <= 1000
+ 0 <= G3PD2_reverse_0c363 <= 1000
+ 0 <= PHYTES <= 1000
+ PHYTES_reverse_45da8 = 0
+ 0 <= MOHMT <= 1000
+ MOHMT_reverse_83ce0 = 0
+ 0 <= FBA <= 1000
+ 0 <= FBA_reverse_84806 <= 1000
+ 0 <= BOF <= 2
+ BOF_reverse_2629d = 0
+ 0 <= ACLSa <= 1000
+ ACLSa_reverse_75fb2 = 0
+ 0 <= ASADi <= 1000
+ ASADi_reverse_c6412 = 0
+ 0 <= PSCVT <= 1000
+ 0 <= PSCVT_reverse_1a852 <= 1000
+ 0 <= TYRTA <= 1000
+ 0 <= TYRTA_reverse_e9311 <= 1000
+ 0 <= SERAT <= 1000
+ SERAT_reverse_0de5e = 0
+ 0 <= DHFS <= 1000
+ DHFS_reverse_f7920 = 0
+ 0 <= AMPMS3 <= 1000
+ 0 <= AMPMS3_reverse_b5e80 <= 1000
+ 0 <= ACBIPGT <= 1000
+ ACBIPGT_reverse_bcc45 = 0
+ 0 <= ATPM <= 1000
+ ATPM_reverse_5b752 = 0
+ 0 <= SEPHCHCS <= 1000
+ SEPHCHCS_reverse_cb185 = 0
+ 0 <= NMNDA <= 1000
+ NMNDA_reverse_0dc65 = 0
+ 0 <= IGPDH <= 1000
+ IGPDH_reverse_b1a3c = 0
+ 0 <= OMPDC <= 1000
+ OMPDC_reverse_45ba1 = 0
+ 0 <= DCTPD <= 1000
+ DCTPD_reverse_a48d6 = 0
+ 0 <= x_271 <= 1000
+ 0 <= x_272 <= 1000
+ 0 <= x_273 <= 1000
+ 0 <= x_274 <= 1000
+ 0 <= GLUSfx <= 1000
+ GLUSfx_reverse_468d6 = 0
+ 0 <= NADS2 <= 1000
+ NADS2_reverse_b427b = 0
+ 0 <= GLUTRR <= 1000
+ GLUTRR_reverse_355d5 = 0
+ 0 <= G1PTT <= 1000
+ G1PTT_reverse_acd22 = 0
+ 0 <= UAMAGS <= 1000
+ UAMAGS_reverse_a0d94 = 0
+ 0 <= FOLD3 <= 1000
+ FOLD3_reverse_4bc58 = 0
+ 0 <= x_287 <= 1000
+ 0 <= x_288 <= 1000
+ 0 <= MEHLER <= 1000
+ MEHLER_reverse_20c70 = 0
+ 0 <= GALUi <= 1000
+ 0 <= GALUi_reverse_c40d5 <= 1000
+ 0 <= P5CR <= 1000
+ P5CR_reverse_55c58 = 0
+ 0 <= PQH2tum <= 1000
+ PQH2tum_reverse_270a9 = 0
+ 0 <= ICHORS <= 1000
+ 0 <= ICHORS_reverse_8e175 <= 1000
+ 0 <= x_299 <= 1000
+ s_300 = 0
+ 0 <= SBP <= 1000
+ SBP_reverse_78d5c = 0
+ 0 <= EAR60y <= 1000
+ EAR60y_reverse_02e5e = 0
+ 0 <= O2tu <= 1000
+ 0 <= O2tu_reverse_2d1e7 <= 1000
+ 0 <= SULabcpp <= 1000
+ SULabcpp_reverse_40679 = 0
+ 0 <= PPKr <= 1000
+ 0 <= PPKr_reverse_7720e <= 1000
+ 0 <= BM_DNA <= 1000
+ BM_DNA_reverse_0ba5c = 0
+ 0 <= UAPGR <= 1000
+ 0 <= UAPGR_reverse_4f67b <= 1000
+ 0 <= DHAD1 <= 1000
+ DHAD1_reverse_39dca = 0
+ 0 <= IPPS <= 1000
+ IPPS_reverse_d94c0 = 0
+ 0 <= PPBNGS <= 1000
+ PPBNGS_reverse_dc5a2 = 0
+ 0 <= PRE3BS <= 1000
+ PRE3BS_reverse_ea947 = 0
+ 0 <= PHYTES2 <= 1000
+ PHYTES2_reverse_e5cbe = 0
+ 0 <= x_325 <= 1000
+ 0 <= x_326 <= 1000
+ 0 <= LTHRK <= 1000
+ LTHRK_reverse_61b82 = 0
+ 0 <= PPS <= 1000
+ PPS_reverse_1c319 = 0
+ 0 <= ADCPS2 <= 1000
+ ADCPS2_reverse_34636 = 0
+ 0 <= GF6PTA <= 1000
+ 0 <= GF6PTA_reverse_21fb1 <= 1000
+ 0 <= O2tpp <= 1000
+ 0 <= O2tpp_reverse_28c7e <= 1000
+ 0 <= PGMT <= 1000
+ 0 <= PGMT_reverse_5bcdd <= 1000
+ 0 <= x_339 <= 1000
+ 0 <= x_340 <= 1000
+ 0 <= NMNS <= 1000
+ 0 <= NMNS_reverse_c18e5 <= 1000
+ 0 <= NDPK2 <= 1000
+ 0 <= NDPK2_reverse_10df6 <= 1000
+ 0 <= AGDI <= 1000
+ AGDI_reverse_0a098 = 0
+ 0 <= LPADSS2 <= 1000
+ LPADSS2_reverse_9cafc = 0
+ 0 <= DPR <= 1000
+ 0 <= DPR_reverse_691d8 <= 1000
+ 0 <= H2Otex <= 1000
+ 0 <= H2Otex_reverse_57da2 <= 1000
+ 0 <= TKT2 <= 1000
+ 0 <= TKT2_reverse_7ebc7 <= 1000
+ 0 <= DM_for_c <= 1000
+ DM_for_c_reverse_b39ed = 0
+ 0 <= HEX7 <= 1000
+ HEX7_reverse_f7d4e = 0
+ 0 <= PPNCL2 <= 1000
+ PPNCL2_reverse_a65ee = 0
+ 0 <= CYTBD4cm <= 1000
+ CYTBD4cm_reverse_64e50 = 0
+ 0 <= GLYCOR_nadp <= 1000
+ GLYCOR_nadp_reverse_fe8f6 = 0
+ 0 <= CHORS <= 1000
+ CHORS_reverse_17772 = 0
+ 0 <= x_367 <= 1000
+ 0 <= x_368 <= 1000
+ 0 <= ADMDC <= 1000
+ ADMDC_reverse_e2782 = 0
+ 0 <= PPPGO2 <= 1000
+ PPPGO2_reverse_79864 = 0
+ 0 <= ASP1DC <= 1000
+ ASP1DC_reverse_5dad1 = 0
+ 0 <= DNAMTn2r <= 1000
+ DNAMTn2r_reverse_2612b = 0
+ 0 <= MI3PP <= 1000
+ MI3PP_reverse_1228d = 0
+ 0 <= CYSS_2 <= 1000
+ CYSS_2_reverse_8e1d0 = 0
+ 0 <= PROHX <= 1000
+ PROHX_reverse_27f44 = 0
+ 0 <= FTHFD <= 1000
+ FTHFD_reverse_44321 = 0
+ 0 <= MEPCT <= 1000
+ MEPCT_reverse_de97a = 0
+ 0 <= PDX5POi <= 1000
+ 0 <= PDX5POi_reverse_797dd <= 1000
+ 0 <= PPCDC <= 1000
+ PPCDC_reverse_39306 = 0
+ 0 <= NTD6 <= 1000
+ 0 <= NTD6_reverse_c5bce <= 1000
+ 0 <= NNDMBRT <= 1000
+ NNDMBRT_reverse_13f8c = 0
+ 0 <= ASNN <= 1000
+ ASNN_reverse_515f8 = 0
+ 0 <= PRAIS <= 1000
+ PRAIS_reverse_8e616 = 0
+ 0 <= ORNTAC <= 1000
+ ORNTAC_reverse_b265a = 0
+ 0 <= SUCBZS <= 1000
+ SUCBZS_reverse_cdbc9 = 0
+ 0 <= HGYDAS <= 1000
+ HGYDAS_reverse_bc303 = 0
+ 0 <= GGDPR <= 1000
+ GGDPR_reverse_ea652 = 0
+ 0 <= ASPCT <= 1000
+ 0 <= ASPCT_reverse_c18b9 <= 1000
+ 0 <= PPNDH <= 1000
+ PPNDH_reverse_58300 = 0
+ 0 <= NMNAT <= 1000
+ 0 <= NMNAT_reverse_6a3d7 <= 1000
+ 0 <= ME2 <= 1000
+ 0 <= ME2_reverse_2b0a2 <= 1000
+ 0 <= APRAUR <= 1000
+ APRAUR_reverse_e674d = 0
+ 0 <= SADT <= 1000
+ SADT_reverse_91e08 = 0
+ 0 <= LDH_D <= 1000
+ 0 <= LDH_D_reverse_f8507 <= 1000
+ 0 <= DPCOAK <= 1000
+ DPCOAK_reverse_56ab9 = 0
+ 0 <= O2tex <= 1000
+ 0 <= O2tex_reverse_a3b28 <= 1000
+ DPOR = 0
+ DPOR_reverse_8b09e = 0
+ 0 <= ARGSL <= 1000
+ ARGSL_reverse_1b949 = 0
+ 0 <= HSK <= 1000
+ HSK_reverse_e4218 = 0
+ 0 <= EAR120y <= 1000
+ EAR120y_reverse_c7353 = 0
+ 0 <= BCAROHX2 <= 1000
+ BCAROHX2_reverse_888eb = 0
+ 0 <= HPPK <= 1000
+ 0 <= HPPK_reverse_e0ee3 <= 1000
+ 0 <= PPNCL3 <= 1000
+ PPNCL3_reverse_cd065 = 0
+ 0 <= AHCi <= 1000
+ AHCi_reverse_d29ff = 0
+ 0 <= G6PDH2r <= 1000
+ G6PDH2r_reverse_19ddf = 0
+ 0 <= MPPM <= 1000
+ 0 <= MPPM_reverse_b1b35 <= 1000
+ CPPPGO2 = 0
+ CPPPGO2_reverse_e5000 = 0
+ 0 <= PC17M <= 1000
+ PC17M_reverse_28a28 = 0
+ 0 <= ACCOAC <= 1000
+ ACCOAC_reverse_9d1cd = 0
+ 0 <= GLUCYS <= 1000
+ GLUCYS_reverse_f13d6 = 0
+ 0 <= CYNL <= 1000
+ CYNL_reverse_91a39 = 0
+ 0 <= CYOOum <= 1000
+ CYOOum_reverse_37909 = 0
+ 0 <= ACLSb <= 1000
+ ACLSb_reverse_588fa = 0
+ 0 <= DNMPPA <= 1000
+ DNMPPA_reverse_131b7 = 0
+ 0 <= METS <= 1000
+ METS_reverse_af81e = 0
+ 0 <= TRPS2 <= 1000
+ TRPS2_reverse_cd73f = 0
+ 0 <= PRUK <= 1000
+ PRUK_reverse_a0fb4 = 0
+ 0 <= FNOR <= 1000
+ 0 <= FNOR_reverse_28480 <= 1000
+ 0 <= GART <= 1000
+ GART_reverse_61742 = 0
+ 0 <= G5SADs <= 1000
+ 0 <= G5SADs_reverse_c7fa4 <= 1000
+ 0 <= AMPQT <= 1000
+ AMPQT_reverse_441c1 = 0
+ 0 <= SPMDabcpp <= 1000
+ SPMDabcpp_reverse_7abfe = 0
+ 0 <= DHAD2 <= 1000
+ DHAD2_reverse_755c6 = 0
+ 0 <= PRAMPC <= 1000
+ PRAMPC_reverse_54696 = 0
+ 0 <= x_481 <= 1000
+ s_482 = 0
+ 0 <= G1PCTYT <= 1000
+ G1PCTYT_reverse_16243 = 0
+ 0 <= BM_CELL_WALL <= 1000
+ BM_CELL_WALL_reverse_c47ee = 0
+ 0 <= CA2abcpp <= 1000
+ CA2abcpp_reverse_aa3d6 = 0
+ 0 <= UHGADA2 <= 1000
+ UHGADA2_reverse_e04ae = 0
+ 0 <= ASPO6 <= 1000
+ ASPO6_reverse_ec15c = 0
+ 0 <= ASPK <= 1000
+ ASPK_reverse_115d7 = 0
+ 0 <= DXPS <= 1000
+ DXPS_reverse_86aca = 0
+ 0 <= PRATPP <= 1000
+ PRATPP_reverse_99bf0 = 0
+ 0 <= DDPGA <= 1000
+ DDPGA_reverse_8028f = 0
+ 0 <= NH4tpp <= 1000
+ NH4tpp_reverse_eca16 = 0
+ 0 <= PAPSR <= 1000
+ PAPSR_reverse_75961 = 0
+ 0 <= NAD_H2 <= 1000
+ 0 <= NAD_H2_reverse_69196 <= 1000
+ 0 <= CYRDAAT <= 1000
+ CYRDAAT_reverse_d0652 = 0
+ 0 <= NTPP8 <= 1000
+ NTPP8_reverse_ce3f8 = 0
+ 0 <= PC11M <= 1000
+ PC11M_reverse_f4161 = 0
+ 0 <= ARGabcpp <= 1000
+ ARGabcpp_reverse_2f37a = 0
+ 0 <= ARGOXRum <= 1000
+ ARGOXRum_reverse_9f603 = 0
+ 0 <= PMDPHT <= 1000
+ 0 <= PMDPHT_reverse_8a0fd <= 1000
+ 0 <= DAPE <= 1000
+ 0 <= DAPE_reverse_e08be <= 1000
+ 0 <= LYCBC1 <= 1000
+ 0 <= LYCBC1_reverse_e6b09 <= 1000
+ 0 <= RB15BPtcx <= 1000
+ RB15BPtcx_reverse_6fe05 = 0
+ 0 <= GLCBRAN3 <= 1000
+ GLCBRAN3_reverse_4cd37 = 0
+ 0 <= DB4PS <= 1000
+ DB4PS_reverse_43dd1 = 0
+ 0 <= DXPRIi <= 1000
+ DXPRIi_reverse_85956 = 0
+ 0 <= GTPCII <= 1000
+ GTPCII_reverse_a84d9 = 0
+ 0 <= RBFSa <= 1000
+ RBFSa_reverse_61d96 = 0
+ 0 <= GLUTRS <= 1000
+ GLUTRS_reverse_b214d = 0
+ 0 <= ALDD2y <= 1000
+ 0 <= ALDD2y_reverse_03afb <= 1000
+ 0 <= EHGLAT <= 1000
+ 0 <= EHGLAT_reverse_8439b <= 1000
+ 0 <= METAT <= 1000
+ METAT_reverse_793ef = 0
+ 0 <= DHORTS <= 1000
+ 0 <= DHORTS_reverse_82d73 <= 1000
+ 0 <= PDX5PS2 <= 1000
+ 0 <= PDX5PS2_reverse_cfb17 <= 1000
+ 0 <= ARGDC <= 1000
+ ARGDC_reverse_08faf = 0
+ 0 <= GAPDi_nadp <= 1000
+ GAPDi_nadp_reverse_782a6 = 0
+ 0 <= GLXO3r <= 1000
+ 0 <= GLXO3r_reverse_9f4c1 <= 1000
+ 0 <= PGCD <= 1000
+ 0 <= PGCD_reverse_1bc76 <= 1000
+ 0 <= AIRC3 <= 1000
+ 0 <= AIRC3_reverse_f015f <= 1000
+ 0 <= UMPK <= 1000
+ 0 <= UMPK_reverse_ae8e3 <= 1000
+ 0 <= CBPS <= 1000
+ CBPS_reverse_80907 = 0
+ 0 <= x_561 <= 1000
+ 0 <= x_562 <= 1000
+ 0 <= IMDHT <= 1000
+ IMDHT_reverse_c2b87 = 0
+ 0 <= RZ5PP <= 1000
+ RZ5PP_reverse_b2942 = 0
+ 0 <= RBFSb <= 1000
+ RBFSb_reverse_32299 = 0
+ 0 <= GLNabcpp <= 1000
+ GLNabcpp_reverse_c0546 = 0
+ 0 <= NDPK8 <= 1000
+ 0 <= NDPK8_reverse_13dd1 <= 1000
+ 0 <= PC6YM <= 1000
+ PC6YM_reverse_82472 = 0
+ 0 <= DDPA <= 1000
+ DDPA_reverse_575e8 = 0
+ 0 <= ACOTA <= 1000
+ 0 <= ACOTA_reverse_c4379 <= 1000
+ 0 <= FBP <= 1000
+ FBP_reverse_bf2c9 = 0
+ 0 <= MNabc_1 <= 1000
+ MNabc_1_reverse_d9c27 = 0
+ 0 <= NTD7 <= 1000
+ NTD7_reverse_20dab = 0
+ 0 <= MPOMMM <= 1000
+ MPOMMM_reverse_30349 = 0
+ 0 <= MTHFD <= 1000
+ 0 <= MTHFD_reverse_c10fd <= 1000
+ 0 <= PANTS <= 1000
+ PANTS_reverse_11dcb = 0
+ 0 <= TMPK <= 1000
+ TMPK_reverse_b7673 = 0
+ 0 <= ASNS1 <= 1000
+ ASNS1_reverse_90309 = 0
+ 0 <= AGPR <= 1000
+ 0 <= AGPR_reverse_5dce4 <= 1000
+ 0 <= KARI_23dhmp <= 1000
+ KARI_23dhmp_reverse_d9e1b = 0
+ 0 <= IPMD <= 1000
+ IPMD_reverse_d7a5e = 0
+ 0 <= x_601 <= 1000
+ s_602 = 0
+ 0 <= CDPMEK <= 1000
+ CDPMEK_reverse_01872 = 0
+ 0 <= CITCIa <= 1000
+ 0 <= CITCIa_reverse_6a08b <= 1000
+ 0 <= SUCDum <= 1000
+ 0 <= SUCDum_reverse_abf66 <= 1000
+ 0 <= DVOCHR <= 1000
+ DVOCHR_reverse_5b763 = 0
+ 0 <= H2CO3_NAt_syn <= 1000
+ 0 <= H2CO3_NAt_syn_reverse_5b4d9 <= 1000
+ 0 <= HEMEOS <= 1000
+ 0 <= HEMEOS_reverse_b63ba <= 1000
+ 0 <= ALAD_L <= 1000
+ 0 <= ALAD_L_reverse_4f37b <= 1000
+ 0 <= RPE <= 1000
+ 0 <= RPE_reverse_a1b04 <= 1000
+ 0 <= MPOMT <= 1000
+ MPOMT_reverse_ccd2e = 0
+ 0 <= NDHPQRum <= 1000
+ NDHPQRum_reverse_c36b6 = 0
+ 0 <= UAMAS <= 1000
+ UAMAS_reverse_2b5e6 = 0
+ 0 <= CITCIb <= 1000
+ 0 <= CITCIb_reverse_a5ab2 <= 1000
+ 0 <= BPNT2 <= 1000
+ BPNT2_reverse_ab8bb = 0
+ 0 <= BM_COFACTORS <= 1000
+ BM_COFACTORS_reverse_ee9a6 = 0
+ 0 <= DCTPD2 <= 1000
+ DCTPD2_reverse_164e0 = 0
+ 0 <= HSERTA <= 1000
+ HSERTA_reverse_23c8f = 0
+ 0 <= NDPK1 <= 1000
+ 0 <= NDPK1_reverse_9216a <= 1000
+ 0 <= PGL <= 1000
+ PGL_reverse_2bb6b = 0
+ 0 <= EAR160y <= 1000
+ EAR160y_reverse_e0622 = 0
+ 0 <= MECDPDHf <= 1000
+ MECDPDHf_reverse_07da8 = 0
+ 0 <= MTHFR3_1 <= 1000
+ MTHFR3_1_reverse_1a948 = 0
+ 0 <= x_645 <= 1000
+ 0 <= x_646 <= 1000
+ 0 <= FBA3 <= 1000
+ 0 <= FBA3_reverse_0d49f <= 1000
+ 0 <= DAPNH4T <= 1000
+ DAPNH4T_reverse_37b98 = 0
+ 0 <= MG2uabcpp <= 1000
+ MG2uabcpp_reverse_adeed = 0
+ 0 <= HCO3E_1_cx <= 1000
+ 0 <= HCO3E_1_cx_reverse_3a8f8 <= 1000
+ 0 <= ACODA <= 1000
+ 0 <= ACODA_reverse_504cc <= 1000
+ 0 <= GLU5K <= 1000
+ GLU5K_reverse_0d895 = 0
+ 0 <= EAR100y <= 1000
+ EAR100y_reverse_863b6 = 0
+ 0 <= PGM <= 1000
+ 0 <= PGM_reverse_fc9af <= 1000
+ 0 <= ASPOb <= 1000
+ ASPOb_reverse_0f7c6 = 0
+ 0 <= DM_h2_c <= 1000
+ DM_h2_c_reverse_84240 = 0
+ 0 <= ACS <= 1000
+ ACS_reverse_37635 = 0
+ 0 <= PKETX <= 1000
+ PKETX_reverse_c5cd4 = 0
+ 0 <= AMPTASECG <= 1000
+ AMPTASECG_reverse_11d5d = 0
+ 0 <= SHCHCS3 <= 1000
+ SHCHCS3_reverse_fb361 = 0
+ 0 <= ATPPRT <= 1000
+ ATPPRT_reverse_00060 = 0
+ 0 <= NDH~1(4)um <= 1000
+ NDH~1(4)um_reverse_f9189 = 0
+ 0 <= UAGCVT <= 1000
+ UAGCVT_reverse_ba1ab = 0
+ 0 <= TDPGDH <= 1000
+ TDPGDH_reverse_f570d = 0
+ 0 <= ADSL2r <= 1000
+ 0 <= ADSL2r_reverse_42348 <= 1000
+ 0 <= PRASCSi <= 1000
+ 0 <= PRASCSi_reverse_11704 <= 1000
+ 0 <= MG2tex <= 1000
+ 0 <= MG2tex_reverse_a1983 <= 1000
+ 0 <= HPROb <= 1000
+ HPROb_reverse_9e6b2 = 0
+ 0 <= NTPP2 <= 1000
+ NTPP2_reverse_bff4f = 0
+ 0 <= TRDR <= 1000
+ TRDR_reverse_6372e = 0
+ 0 <= PKETF <= 1000
+ PKETF_reverse_d46d1 = 0
+ 0 <= NDPK6 <= 1000
+ 0 <= NDPK6_reverse_d41ea <= 1000
+ 0 <= GLUPRT <= 1000
+ GLUPRT_reverse_1f180 = 0
+ 0 <= PTRCabcpp <= 1000
+ PTRCabcpp_reverse_96b27 = 0
+ 0 <= UPP3MT <= 1000
+ UPP3MT_reverse_2adf0 = 0
+ 0 <= DHNCOAS <= 1000
+ DHNCOAS_reverse_af3a9 = 0
+ 0 <= MCOATA <= 1000
+ MCOATA_reverse_d10f2 = 0
+ 0 <= PMPK <= 1000
+ PMPK_reverse_48b12 = 0
+ 0 <= HMBS <= 1000
+ HMBS_reverse_23a06 = 0
+ 0 <= PGLYCP <= 1000
+ PGLYCP_reverse_9063f = 0
+ 0 <= UAGAAT2 <= 1000
+ UAGAAT2_reverse_8209e = 0
+ 0 <= HTHRPDH <= 1000
+ HTHRPDH_reverse_9ee3b = 0
+ 0 <= BCT1_syn <= 1000
+ BCT1_syn_reverse_8b530 = 0
+ 0 <= IPDDI <= 1000
+ 0 <= IPDDI_reverse_6c5f9 <= 1000
+ 0 <= GLYALDDy <= 1000
+ 0 <= GLYALDDy_reverse_7e106 <= 1000
+ 0 <= CITMS <= 1000
+ CITMS_reverse_37134 = 0
+ 0 <= IMPC <= 1000
+ 0 <= IMPC_reverse_efa41 <= 1000
+ 0 <= OMCDC <= 1000
+ OMCDC_reverse_74477 = 0
+ 0 <= Htcx <= 1000
+ 0 <= Htcx_reverse_e3f6b <= 1000
+ 0 <= DHQTi <= 1000
+ 0 <= DHQTi_reverse_c4498 <= 1000
+ 0 <= SPODM <= 1000
+ SPODM_reverse_2648f = 0
+ 0 <= MAN6PI <= 1000
+ 0 <= MAN6PI_reverse_d96f0 <= 1000
+ 0 <= x_739 <= 1000
+ s_740 = 0
+ 0 <= PGAMT <= 1000
+ 0 <= PGAMT_reverse_52c23 <= 1000
+ 0 <= ZDS <= 1000
+ ZDS_reverse_25837 = 0
+ 0 <= PSERT <= 1000
+ 0 <= PSERT_reverse_cbee4 <= 1000
+ 0 <= HISTP <= 1000
+ HISTP_reverse_5e409 = 0
+ 0 <= NNDPR <= 1000
+ NNDPR_reverse_445ff = 0
+ 0 <= ADSK <= 1000
+ ADSK_reverse_6806d = 0
+ 0 <= MECDPS <= 1000
+ MECDPS_reverse_8baa5 = 0
+ 0 <= CUabcpp <= 1000
+ CUabcpp_reverse_119a1 = 0
+ 0 <= ADCYRS <= 1000
+ ADCYRS_reverse_3513c = 0
+ 0 <= RBPCcx <= 1000
+ RBPCcx_reverse_6742e = 0
+ 0 <= x_761 <= 1000
+ 0 <= x_762 <= 1000
+ 0 <= EAR180x <= 1000
+ 0 <= EAR180x_reverse_fbf60 <= 1000
+ 0 <= GTHRDH <= 1000
+ GTHRDH_reverse_b9665 = 0
+ 0 <= PRAIi <= 1000
+ PRAIi_reverse_e568f = 0
+ 0 <= CYNTtabcpp <= 1000
+ CYNTtabcpp_reverse_c4528 = 0
+ 0 <= TRSARyr <= 1000
+ TRSARyr_reverse_a22d9 = 0
+ 0 <= PTPATi <= 1000
+ PTPATi_reverse_381d9 = 0
+ 0 <= PC6AR <= 1000
+ 0 <= PC6AR_reverse_0549d <= 1000
+ 0 <= Kabcpp <= 1000
+ Kabcpp_reverse_35f86 = 0
+ 0 <= ENO <= 1000
+ 0 <= ENO_reverse_40eea <= 1000
+ 0 <= TDPDRR <= 1000
+ TDPDRR_reverse_e7bd2 = 0
+ 0 <= PRFGS <= 1000
+ PRFGS_reverse_db4e5 = 0
+ 0 <= PC8XM <= 1000
+ 0 <= PC8XM_reverse_8cde7 <= 1000
+ 0 <= x_787 <= 1000
+ s_788 = 0
+ 0 <= GMPS2 <= 1000
+ 0 <= GMPS2_reverse_aa6c4 <= 1000
+ 0 <= RBFK <= 1000
+ RBFK_reverse_8faa7 = 0
+ 0 <= NTRIRfx <= 1000
+ NTRIRfx_reverse_8d8c5 = 0
+ 0 <= GTHPi <= 1000
+ GTHPi_reverse_0b1e5 = 0
+ 0 <= ARGSS <= 1000
+ ARGSS_reverse_5760d = 0
+ 0 <= SPTr <= 1000
+ 0 <= SPTr_reverse_bb7b1 <= 1000
+ 0 <= H2Otpp <= 1000
+ 0 <= H2Otpp_reverse_01d15 <= 1000
+ 0 <= TDPDRE <= 1000
+ TDPDRE_reverse_26405 = 0
+ 0 <= GTHOr <= 1000
+ 0 <= GTHOr_reverse_8f1f9 <= 1000
+ 0 <= SHK3Dr <= 1000
+ 0 <= SHK3Dr_reverse_d5c8f <= 1000
+ 0 <= CYRDAR <= 1000
+ 0 <= CYRDAR_reverse_9aae4 <= 1000
+ 0 <= ORPT <= 1000
+ 0 <= ORPT_reverse_19432 <= 1000
+ 0 <= GRTT <= 1000
+ GRTT_reverse_f3afe = 0
+ 0 <= TRDRf <= 1000
+ TRDRf_reverse_45a8b = 0
+ 0 <= BM_MEM_LIPIDS <= 1000
+ BM_MEM_LIPIDS_reverse_f1815 = 0
+ 0 <= PRPPS <= 1000
+ 0 <= PRPPS_reverse_dd7f2 <= 1000
+ 0 <= KARA1i <= 1000
+ KARA1i_reverse_af5a6 = 0
+ 0 <= SPRMS <= 1000
+ SPRMS_reverse_ffb14 = 0
+ 0 <= FCLT <= 1000
+ FCLT_reverse_1a6b6 = 0
+ 0 <= PPA <= 1000
+ PPA_reverse_c5293 = 0
+ 0 <= DHQS <= 1000
+ DHQS_reverse_3d16b = 0
+ 0 <= ANPRT <= 1000
+ ANPRT_reverse_e2684 = 0
+ 0 <= ADK1 <= 1000
+ 0 <= ADK1_reverse_a6f90 <= 1000
+ 0 <= UPP3S <= 1000
+ UPP3S_reverse_8bb53 = 0
+ 0 <= NDPK5 <= 1000
+ 0 <= NDPK5_reverse_6973f <= 1000
+ 0 <= NDHPQRcm <= 1000
+ NDHPQRcm_reverse_d5587 = 0
+ 0 <= DHNPA_1 <= 1000
+ DHNPA_1_reverse_b1649 = 0
+ 0 <= NDPK4 <= 1000
+ 0 <= NDPK4_reverse_9a1c8 <= 1000
+ 0 <= RNDR4 <= 1000
+ RNDR4_reverse_aff84 = 0
+ 0 <= NADK <= 1000
+ NADK_reverse_bba52 = 0
+ 0 <= x_849 <= 1000
+ 0 <= x_850 <= 1000
+ 0 <= TKT1 <= 1000
+ 0 <= TKT1_reverse_a1021 <= 1000
+ 0 <= NO3abcpp <= 1000
+ NO3abcpp_reverse_79978 = 0
+ 0 <= FE3abcpp <= 1000
+ FE3abcpp_reverse_4aad8 = 0
+ 0 <= MOBDabcpp <= 1000
+ MOBDabcpp_reverse_4be38 = 0
+ 0 <= NPHBDC <= 1000
+ NPHBDC_reverse_8b305 = 0
+ 0 <= NPDPS <= 1000
+ NPDPS_reverse_e1c6b = 0
+ 0 <= NI2uabcpp <= 1000
+ NI2uabcpp_reverse_db325 = 0
+ 0 <= HCO3tcx <= 1000
+ HCO3tcx_reverse_7ac35 = 0
+ 0 <= RNDR2 <= 1000
+ RNDR2_reverse_7df82 = 0
+ 0 <= KARI <= 1000
+ KARI_reverse_7fbc9 = 0
+ 0 <= EAR40y <= 1000
+ EAR40y_reverse_0f912 = 0
+ 0 <= NADTRHD <= 1000
+ 0 <= NADTRHD_reverse_49725 <= 1000
+ 0 <= DHNCOAT <= 1000
+ DHNCOAT_reverse_58c26 = 0
+ 0 <= BM_PROTEIN <= 1000
+ BM_PROTEIN_reverse_4f8b8 = 0
+ 0 <= x_879 <= 1000
+ s_880 = 0
+ 0 <= G1SAT <= 1000
+ 0 <= G1SAT_reverse_2ec2f <= 1000
+ 0 <= ILETA <= 1000
+ 0 <= ILETA_reverse_aec70 <= 1000
+ 0 <= PDS1 <= 1000
+ PDS1_reverse_1e20b = 0
+ 0 <= UAAGDS <= 1000
+ UAAGDS_reverse_313a9 = 0
+ 0 <= GLCDBRAN3 <= 1000
+ GLCDBRAN3_reverse_85d8b = 0
+ 0 <= HEX1 <= 1000
+ HEX1_reverse_25efa = 0
+ 0 <= ATPSum <= 1000
+ 0 <= ATPSum_reverse_7df19 <= 1000
+ 0 <= CHPHYS <= 1000
+ CHPHYS_reverse_77b21 = 0
+ 0 <= BCAROHX <= 1000
+ BCAROHX_reverse_82eaa = 0
+ 0 <= GLYCLTDx <= 1000
+ GLYCLTDx_reverse_d2f71 = 0
+ 0 <= PIuabcpp <= 1000
+ PIuabcpp_reverse_c4f9b = 0
+ 0 <= PC20M <= 1000
+ PC20M_reverse_ceb32 = 0
+ 0 <= ADSS <= 1000
+ ADSS_reverse_c75bb = 0
+ 0 <= BM_RNA <= 1000
+ BM_RNA_reverse_81982 = 0
+ 0 <= DM_dialurate_c <= 1000
+ DM_dialurate_c_reverse_ae7c2 = 0
+ 0 <= THRPD <= 1000
+ THRPD_reverse_0dc99 = 0
+ 0 <= TMDS3 <= 1000
+ TMDS3_reverse_bd1fa = 0
+ 0 <= DHFR <= 1000
+ DHFR_reverse_65c32 = 0
+ 0 <= ACGS <= 1000
+ ACGS_reverse_c8939 = 0
+ 0 <= VALTA <= 1000
+ 0 <= VALTA_reverse_1d084 <= 1000
+ 0 <= AFAT <= 1000
+ AFAT_reverse_951b7 = 0
+ 0 <= GLYOX_1 <= 1000
+ 0 <= GLYOX_1_reverse_d01d4 <= 1000
+ 0 <= EAR140y <= 1000
+ EAR140y_reverse_dff77 = 0
+ 0 <= FRTT <= 1000
+ FRTT_reverse_5200c = 0
+ 0 <= CTPS2 <= 1000
+ CTPS2_reverse_9c0ad = 0
+ 0 <= DESAT16a <= 1000
+ 0 <= DESAT16a_reverse_7f95a <= 1000
+ 0 <= CO2tex <= 1000
+ 0 <= CO2tex_reverse_3d081 <= 1000
+ 0 <= GTHS <= 1000
+ GTHS_reverse_172f9 = 0
+ 0 <= UAGDP <= 1000
+ UAGDP_reverse_a5ec0 = 0
+ 0 <= DADK <= 1000
+ 0 <= DADK_reverse_006ea <= 1000
+ 0 <= MPOMC1 <= 1000
+ MPOMC1_reverse_5b08b = 0
+ 0 <= Nat_Kpp <= 1000
+ Nat_Kpp_reverse_03d15 = 0
+ 0 <= x_945 <= 1000
+ s_946 = 0
+ 0 <= ARGDHpp <= 1000
+ ARGDHpp_reverse_88804 = 0
+ 0 <= EAR80y <= 1000
+ EAR80y_reverse_2df0a = 0
+ 0 <= ERTHMMOR <= 1000
+ ERTHMMOR_reverse_d7ffe = 0
+ 0 <= PDH <= 1000
+ PDH_reverse_ca160 = 0
+ 0 <= MPML <= 1000
+ MPML_reverse_2bf21 = 0
+ 0 <= USHD2 <= 1000
+ USHD2_reverse_08d67 = 0
+ 0 <= TPI <= 1000
+ 0 <= TPI_reverse_c2c3b <= 1000
+ 0 <= DHPPDA <= 1000
+ DHPPDA_reverse_11c00 = 0
+ 0 <= PRMICI <= 1000
+ PRMICI_reverse_af0a9 = 0
+ 0 <= CYTBD4um <= 1000
+ CYTBD4um_reverse_0a2a0 = 0
+ 0 <= DM_co_c <= 1000
+ DM_co_c_reverse_cb46e = 0
+ 0 <= CAT <= 1000
+ CAT_reverse_c01ae = 0
+ 0 <= GLUR <= 1000
+ 0 <= GLUR_reverse_6b3bf <= 1000
+ 0 <= ALAR <= 1000
+ 0 <= ALAR_reverse_77133 <= 1000
+ 0 <= SULR <= 1000
+ SULR_reverse_12727 = 0
+ 0 <= NAt3ipp <= 1000
+ 0 <= NAt3ipp_reverse_c262c <= 1000
+ 0 <= ADCS <= 1000
+ ADCS_reverse_5303c = 0
+ 0 <= UGMDDS <= 1000
+ UGMDDS_reverse_2401f = 0
+ 0 <= BM_CARB <= 1000
+ BM_CARB_reverse_8b7cd = 0
+ 0 <= ICDHyr <= 1000
+ ICDHyr_reverse_7f84b = 0
+ 0 <= ACHBSb <= 1000
+ ACHBSb_reverse_a040e = 0
+ 0 <= MTRI <= 1000
+ 0 <= MTRI_reverse_36e0d <= 1000
+ 0 <= SPMS <= 1000
+ SPMS_reverse_92c51 = 0
+ 0 <= AHSERL2 <= 1000
+ AHSERL2_reverse_2d820 = 0
+ 0 <= PEPC <= 1000
+ PEPC_reverse_66f39 = 0
+ 0 <= PHETA1 <= 1000
+ 0 <= PHETA1_reverse_9d47a <= 1000
+ 0 <= CHORM <= 1000
+ 0 <= CHORM_reverse_38aac <= 1000
+ 0 <= GAPD <= 1000
+ GAPD_reverse_459c1 = 0
+ 0 <= PQH2tcm <= 1000
+ PQH2tcm_reverse_90815 = 0
+ 0 <= CPPPGO <= 1000
+ CPPPGO_reverse_f858f = 0
+ 0 <= URIDK2r <= 1000
+ 0 <= URIDK2r_reverse_1aa74 <= 1000
+ 0 <= OCBT <= 1000
+ 0 <= OCBT_reverse_f5568 <= 1000
+ 0 <= E4PD <= 1000
+ E4PD_reverse_babdb = 0
+ 0 <= IMDHT_3c2hmp <= 1000
+ IMDHT_3c2hmp_reverse_231f8 = 0
+ 0 <= GLGC <= 1000
+ GLGC_reverse_f6fb0 = 0
+ 0 <= PYK <= 1000
+ PYK_reverse_bc8ff = 0
+ 0 <= x_1019 <= 1000
+ 0 <= x_1020 <= 1000
+ 0 <= x_1021 <= 1000
+ s_1022 = 0
+ 0 <= MPOMOR <= 1000
+ MPOMOR_reverse_ad3a7 = 0
+ 0 <= x_1025 <= 1000
+ s_1026 = 0
+ 0 <= IG3PS <= 1000
+ IG3PS_reverse_12008 = 0
+ 0 <= DMPPS_syn <= 1000
+ DMPPS_syn_reverse_e9648 = 0
+ 0 <= NTRARf2 <= 1000
+ NTRARf2_reverse_5d5d6 = 0
+ 0 <= G6PDA <= 1000
+ G6PDA_reverse_74cec = 0
+ 0 <= PFK <= 1000
+ PFK_reverse_d24a6 = 0
+ 0 <= CA2t2pp <= 1000
+ CA2t2pp_reverse_81d82 = 0
+ 0 <= DM_5drib_c <= 1000
+ DM_5drib_c_reverse_37606 = 0
+ 0 <= RPI <= 1000
+ 0 <= RPI_reverse_853a1 <= 1000
+ 0 <= FMNRy <= 1000
+ FMNRy_reverse_1ba9b = 0
+ 0 <= ANS2 <= 1000
+ ANS2_reverse_5a40c = 0
+ 0 <= GHMT2r <= 1000
+ 0 <= GHMT2r_reverse_d977f <= 1000
+ 0 <= BPNT <= 1000
+ BPNT_reverse_53108 = 0
+ 0 <= PSIIum <= 1000
+ PSIIum_reverse_30799 = 0
+ 0 <= CBFCum <= 1000
+ CBFCum_reverse_e7502 = 0
+ SK_amylose_c = 0
+ 0 <= SK_amylose_c_reverse_116da <= 1000
+ SK_14glucan_c = 0
+ SK_14glucan_c_reverse_d5217 = 0
+ SK_glycogen_c = 0
+ SK_glycogen_c_reverse_bf5b0 = 0
+ 0 <= EX_h2o_e <= 1000
+ 0 <= EX_h2o_e_reverse_3ced4 <= 100
+ 0 <= EX_o2_e <= 1000
+ 0 <= EX_o2_e_reverse_efa94 <= 100
+ 0 <= EX_co2_e <= 1000
+ 0 <= EX_co2_e_reverse_d0466 <= 1.99
+ 0 <= EX_leu__L_e <= 1000
+ EX_leu__L_e_reverse_d40a5 = 0
+ 0 <= EX_cobalt2_e <= 1000
+ 0 <= EX_cobalt2_e_reverse_2bf0e <= 1.7e-05
+ 0 <= EX_zn2_e <= 1000
+ 0 <= EX_zn2_e_reverse_3c725 <= 7.7e-05
+ 0 <= EX_so4_e <= 1000
+ 0 <= EX_so4_e_reverse_5c8ed <= 0.03
+ 0 <= EX_spmd_e <= 1000
+ EX_spmd_e_reverse_761ad = 0
+ 0 <= EX_ca2_e <= 1000
+ 0 <= EX_ca2_e_reverse_aac13 <= 0.024
+ 0 <= EX_nh4_e <= 1000
+ 0 <= EX_nh4_e_reverse_f9cc6 <= 0.0031
+ 0 <= EX_arg__L_e <= 1000
+ EX_arg__L_e_reverse_d8799 = 0
+ 0 <= EX_gln__L_e <= 1000
+ EX_gln__L_e_reverse_6a1a1 = 0
+ 0 <= EX_mn2_e <= 1000
+ 0 <= EX_mn2_e_reverse_48316 <= 0.0009
+ 0 <= EX_hco3_e <= 1000
+ 0 <= EX_hco3_e_reverse_55cc1 <= 1.99
+ 0 <= EX_mg2_e <= 1000
+ 0 <= EX_mg2_e_reverse_b1c98 <= 0.03
+ 0 <= EX_ptrc_e <= 1000
+ EX_ptrc_e_reverse_6c850 = 0
+ 0 <= EX_fe2_e <= 1000
+ EX_fe2_e_reverse_25e68 = 0
+ 0 <= EX_cu2_e <= 1000
+ 0 <= EX_cu2_e_reverse_02682 <= 3e-05
+ 0 <= EX_k_e <= 1000
+ 0 <= EX_k_e_reverse_42613 <= 0.046
+ 0 <= EX_no3_e <= 1000
+ 0 <= EX_no3_e_reverse_98d30 <= 1.76
+ 0 <= EX_fe3_e <= 1000
+ 0 <= EX_fe3_e_reverse_8b617 <= 0.001
+ 0 <= EX_mobd_e <= 1000
+ 0 <= EX_mobd_e_reverse_c6396 <= 0.00016
+ 0 <= EX_ni2_e <= 1000
+ EX_ni2_e_reverse_7ba33 = 0
+ 0 <= EX_na1_e <= 1000
+ 0 <= EX_na1_e_reverse_c64df <= 1.79854
+ 0 <= EX_cynt_e <= 1000
+ EX_cynt_e_reverse_b53e8 = 0
+ 0 <= EX_h_e <= 1000
+ 0 <= EX_h_e_reverse_3e0c5 <= 100
+ 0 <= FE3tex <= 1000
+ 0 <= FE3tex_reverse_d0931 <= 1000
+ 0 <= FE2tex <= 1000
+ 0 <= FE2tex_reverse_62032 <= 1000
+ 0 <= NI2tex <= 1000
+ 0 <= NI2tex_reverse_a2971 <= 1000
+ 0 <= MNtex <= 1000
+ 0 <= MNtex_reverse_711cc <= 1000
+ 0 <= COBALT2tex <= 1000
+ 0 <= COBALT2tex_reverse_0862d <= 1000
+ 0 <= CU2tex <= 1000
+ 0 <= CU2tex_reverse_521e6 <= 1000
+ 0 <= Zn2tex <= 1000
+ 0 <= Zn2tex_reverse_6b2c9 <= 1000
+ 0 <= SPMDtex <= 1000
+ 0 <= SPMDtex_reverse_5a2d5 <= 1000
+ 0 <= LEUtex <= 1000
+ 0 <= LEUtex_reverse_a9685 <= 1000
+ 0 <= HCO3tex <= 1000
+ 0 <= HCO3tex_reverse_d9055 <= 1000
+ 0 <= GLNtex <= 1000
+ 0 <= GLNtex_reverse_7b7bb <= 1000
+ 0 <= CYNTtex <= 1000
+ 0 <= CYNTtex_reverse_8c4ef <= 1000
+ 0 <= ARGtex <= 1000
+ 0 <= ARGtex_reverse_244d5 <= 1000
+ 0 <= MOBDtex <= 1000
+ 0 <= MOBDtex_reverse_4fdc7 <= 1000
+ 0 <= NH4tex <= 1000
+ 0 <= NH4tex_reverse_ce04b <= 1000
+ 0 <= SO4tex <= 1000
+ 0 <= SO4tex_reverse_1908f <= 1000
+ 0 <= PTRCtex <= 1000
+ 0 <= PTRCtex_reverse_a3bd6 <= 1000
+ 0 <= NO3tex <= 1000
+ 0 <= NO3tex_reverse_b1290 <= 1000
+ 0 <= NAtex <= 1000
+ 0 <= NAtex_reverse_0181e <= 1000
+ 0 <= CA2tex <= 1000
+ 0 <= CA2tex_reverse_27b69 <= 1000
+ 0 <= Ktex <= 1000
+ 0 <= Ktex_reverse_03b32 <= 1000
+ 0 <= CO2tpp <= 1000
+ 0 <= CO2tpp_reverse_d9a27 <= 1000
+ 0 <= EX_pi_e <= 1000
+ 0 <= EX_pi_e_reverse_1fb09 <= 0.023
+ 0 <= PItex <= 1000
+ 0 <= PItex_reverse_05721 <= 1000
+ 0 <= MDRPD <= 1000
+ MDRPD_reverse_fc553 = 0
+ 0 <= ENOPH <= 1000
+ ENOPH_reverse_b1c96 = 0
+ 0 <= ARD <= 1000
+ ARD_reverse_1e910 = 0
+ 0 <= UNK3 <= 1000
+ UNK3_reverse_8083f = 0
+ 0 <= PHYPQOX <= 1000
+ PHYPQOX_reverse_846b6 = 0
+ 0 <= ZISO <= 1000
+ ZISO_reverse_27e2a = 0
+ 0 <= ZCARDS <= 1000
+ ZCARDS_reverse_28abb = 0
+ 0 <= PLYCOI <= 1000
+ PLYCOI_reverse_c2299 = 0
+ 0 <= CHLADMT <= 1000
+ CHLADMT_reverse_2790a = 0
+ 0 <= PHEOASE <= 1000
+ PHEOASE_reverse_22360 = 0
+ 0 <= PHEOX <= 1000
+ PHEOX_reverse_c1df7 = 0
+ 0 <= PHYTK <= 1000
+ PHYTK_reverse_bc1a5 = 0
+ 0 <= TRNFE <= 1000
+ 0 <= TRNFE_reverse_f6e07 <= 1000
+ 0 <= PTHPS <= 1000
+ PTHPS_reverse_272ea = 0
+ 0 <= SPR <= 1000
+ SPR_reverse_d4f3a = 0
+ 0 <= THBTGT <= 1000
+ THBTGT_reverse_0885a = 0
+ 0 <= NADDP <= 1000
+ NADDP_reverse_7a11e = 0
+ 0 <= CYSDS <= 1000
+ CYSDS_reverse_c49c8 = 0
+ 0 <= THISAT <= 1000
+ THISAT_reverse_a22de = 0
+ 0 <= THII <= 1000
+ THII_reverse_23906 = 0
+ 0 <= GLYCOX1 <= 1000
+ GLYCOX1_reverse_b84e6 = 0
+ 0 <= GLYCOX2 <= 1000
+ GLYCOX2_reverse_852ec = 0
+ 0 <= DXYTST <= 1000
+ DXYTST_reverse_72484 = 0
+ 0 <= THZT <= 1000
+ THZT_reverse_26970 = 0
+ 0 <= SHS1 <= 1000
+ SHS1_reverse_92a6f = 0
+ 0 <= MALCOAMT <= 1000
+ MALCOAMT_reverse_1031e = 0
+ 0 <= OGMEACPS <= 1000
+ OGMEACPS_reverse_13b17 = 0
+ 0 <= OGMEACPR <= 1000
+ OGMEACPR_reverse_53919 = 0
+ 0 <= OGMEACPD <= 1000
+ OGMEACPD_reverse_fa697 = 0
+ 0 <= EGMEACPR <= 1000
+ EGMEACPR_reverse_1b486 = 0
+ 0 <= OPMEACPS <= 1000
+ OPMEACPS_reverse_e3f2d = 0
+ 0 <= OPMEACPR <= 1000
+ OPMEACPR_reverse_7cc6e = 0
+ 0 <= OPMEACPD <= 1000
+ OPMEACPD_reverse_d1190 = 0
+ 0 <= EPMEACPR <= 1000
+ EPMEACPR_reverse_794bd = 0
+ 0 <= PMEACPE <= 1000
+ PMEACPE_reverse_002c3 = 0
+ 0 <= AOXSr2 <= 1000
+ 0 <= AOXSr2_reverse_0c982 <= 1000
+ 0 <= AMAOTr <= 1000
+ 0 <= AMAOTr_reverse_a5426 <= 1000
+ 0 <= DBTS <= 1000
+ DBTS_reverse_b5da6 = 0
+ 0 <= BTS6 <= 1000
+ BTS6_reverse_40426 = 0
+ 0 <= BACCL <= 1000
+ BACCL_reverse_8bcde = 0
+ 0 <= BTNPL2 <= 1000
+ BTNPL2_reverse_605bf = 0
+ 0 <= LIPOCT <= 1000
+ LIPOCT_reverse_0078e = 0
+ 0 <= LIPOS2 <= 1000
+ LIPOS2_reverse_2319a = 0
+ 0 <= LIPATPT <= 1000
+ LIPATPT_reverse_e209a = 0
+ 0 <= LIPAMPL <= 1000
+ LIPAMPL_reverse_71584 = 0
+ 0 <= MEOHtpp <= 1000
+ 0 <= MEOHtpp_reverse_67046 <= 1000
+ 0 <= MEOHtex <= 1000
+ 0 <= MEOHtex_reverse_fb32d <= 1000
+ 0 <= DM_amob_c <= 1000
+ DM_amob_c_reverse_90c8f = 0
+ 0 <= AGTi <= 1000
+ AGTi_reverse_69260 = 0
+ 0 <= ADNK1 <= 1000
+ ADNK1_reverse_fe466 = 0
+ 0 <= CPH4S <= 1000
+ CPH4S_reverse_542c3 = 0
+ 0 <= CDGS <= 1000
+ CDGS_reverse_6b7cb = 0
+ 0 <= CCGS <= 1000
+ CCGS_reverse_3ff79 = 0
+ 0 <= CDGR <= 1000
+ CDGR_reverse_e4464 = 0
+ 0 <= QUERT <= 1000
+ QUERT_reverse_caaac = 0
+ 0 <= SAMTRI <= 1000
+ SAMTRI_reverse_06c4c = 0
+ 0 <= EPXQR <= 1000
+ EPXQR_reverse_6205d = 0
+ 0 <= UPPRT <= 1000
+ UPPRT_reverse_07052 = 0
+ 0 <= UDPGD <= 1000
+ UDPGD_reverse_de167 = 0
+ 0 <= UDPGLDC <= 1000
+ UDPGLDC_reverse_6bd69 = 0
+ 0 <= GMAND <= 1000
+ GMAND_reverse_b3087 = 0
+ 0 <= GFUCS <= 1000
+ GFUCS_reverse_2cd5e = 0
+ 0 <= ALCD19 <= 1000
+ 0 <= ALCD19_reverse_d90b5 <= 1000
+ 0 <= CDPGLC46DH <= 1000
+ CDPGLC46DH_reverse_17ba1 = 0
+ 0 <= SPP <= 1000
+ SPP_reverse_a434e = 0
+ NDH~1(2)um = 0
+ NDH~1(2)um_reverse_c7743 = 0
+ NDH~1(3)um = 0
+ NDH~1(3)um_reverse_d4f81 = 0
+ 0 <= KAS15 <= 1000
+ KAS15_reverse_6f7fb = 0
+ 0 <= AACPS6 <= 1000
+ AACPS6_reverse_8fda3 = 0
+ 0 <= ALDR18 <= 1000
+ ALDR18_reverse_34ff9 = 0
+ 0 <= ALDDC17 <= 1000
+ ALDDC17_reverse_1b5d0 = 0
+ 0 <= G3PAT160 <= 1000
+ G3PAT160_reverse_446d0 = 0
+ 0 <= G3PAT161 <= 1000
+ G3PAT161_reverse_1ef08 = 0
+ 0 <= G3PAT1819Z <= 1000
+ G3PAT1819Z_reverse_56ab2 = 0
+ 0 <= AGPAT160 <= 1000
+ AGPAT160_reverse_22d12 = 0
+ 0 <= AGPATACP_HDE_PALM <= 1000
+ AGPATACP_HDE_PALM_reverse_dfda5 = 0
+ 0 <= AGPAT161 <= 1000
+ AGPAT161_reverse_debc5 = 0
+ 0 <= AGPATACP_OLE_HDE <= 1000
+ AGPATACP_OLE_HDE_reverse_d491a = 0
+ 0 <= AGPATACP_OLE_PALM <= 1000
+ AGPATACP_OLE_PALM_reverse_2ce3a = 0
+ 0 <= PAPA160 <= 1000
+ PAPA160_reverse_c64df = 0
+ 0 <= PAPA_HDE_PALM <= 1000
+ PAPA_HDE_PALM_reverse_64217 = 0
+ 0 <= PAPA161 <= 1000
+ PAPA161_reverse_1bc33 = 0
+ 0 <= PAPA_OLE_HDE <= 1000
+ PAPA_OLE_HDE_reverse_e662c = 0
+ 0 <= PAPA_OLE_PALM <= 1000
+ PAPA_OLE_PALM_reverse_d17e1 = 0
+ 0 <= SQDGS_PALM_PALM <= 1000
+ SQDGS_PALM_PALM_reverse_eec5a = 0
+ 0 <= SQDGS_HDE_PALM <= 1000
+ SQDGS_HDE_PALM_reverse_af549 = 0
+ 0 <= DGDGS_HDE_PALM <= 1000
+ DGDGS_HDE_PALM_reverse_d95be = 0
+ 0 <= DGDGS_HDE_HDE <= 1000
+ DGDGS_HDE_HDE_reverse_c88d1 = 0
+ 0 <= DGDGS_OLE_HDE <= 1000
+ DGDGS_OLE_HDE_reverse_ee8ff = 0
+ 0 <= CDPDAGS_OLE_PALM <= 1000
+ CDPDAGS_OLE_PALM_reverse_c0d83 = 0
+ 0 <= PGPS_OLE_PALM <= 1000
+ PGPS_OLE_PALM_reverse_108ca = 0
+ 0 <= PGPP_OLE_PALM <= 1000
+ PGPP_OLE_PALM_reverse_c21ff = 0
+ 0 <= DAGK160 <= 1000
+ DAGK160_reverse_0238d = 0
+ 0 <= DAGK_HDE_PALM <= 1000
+ DAGK_HDE_PALM_reverse_f515e = 0
+ 0 <= DAGK161 <= 1000
+ DAGK161_reverse_9bfe7 = 0
+ 0 <= DAGK_OLE_HDE <= 1000
+ DAGK_OLE_HDE_reverse_219fc = 0
+ 0 <= DAGK_OLE_PALM <= 1000
+ DAGK_OLE_PALM_reverse_b7767 = 0
+ 0 <= GLUDGS_HDE_PALM <= 1000
+ GLUDGS_HDE_PALM_reverse_99a1b = 0
+ 0 <= GLUDGE_HDE_PALM <= 1000
+ GLUDGE_HDE_PALM_reverse_6886e = 0
+ 0 <= GLUDGS_HDE_HDE <= 1000
+ GLUDGS_HDE_HDE_reverse_66701 = 0
+ 0 <= GLUDGE_HDE_HDE <= 1000
+ GLUDGE_HDE_HDE_reverse_80ae3 = 0
+ 0 <= GLUDGS_OLE_HDE <= 1000
+ GLUDGS_OLE_HDE_reverse_ab756 = 0
+ 0 <= GLUDGE_OLE_HDE <= 1000
+ GLUDGE_OLE_HDE_reverse_dee33 = 0
+ 0 <= GLUDGS_OLE_PALM <= 1000
+ GLUDGS_OLE_PALM_reverse_da027 = 0
+ 0 <= GLUDGE_OLE_PALM <= 1000
+ GLUDGE_OLE_PALM_reverse_108b5 = 0
+ 0 <= DGDGS_OLE_PALM <= 1000
+ DGDGS_OLE_PALM_reverse_e6526 = 0
+ 0 <= H2Otcx <= 1000
+ 0 <= H2Otcx_reverse_6097e <= 1000
+ 0 <= GLNTRS <= 1000
+ GLNTRS_reverse_062f1 = 0
+ 0 <= TYRTRS <= 1000
+ TYRTRS_reverse_27d64 = 0
+ 0 <= METTRS <= 1000
+ METTRS_reverse_d6cd0 = 0
+ 0 <= SERTRS <= 1000
+ SERTRS_reverse_b65b1 = 0
+ 0 <= GLYTRS <= 1000
+ GLYTRS_reverse_b4742 = 0
+ 0 <= PROTRS <= 1000
+ PROTRS_reverse_9d634 = 0
+ 0 <= CYSTRS <= 1000
+ CYSTRS_reverse_08992 = 0
+ 0 <= ARGTRS <= 1000
+ ARGTRS_reverse_1ecbf = 0
+ 0 <= TRPTRS <= 1000
+ TRPTRS_reverse_f29b7 = 0
+ 0 <= PHETRS <= 1000
+ PHETRS_reverse_a31de = 0
+ 0 <= HISTRS <= 1000
+ HISTRS_reverse_a6df2 = 0
+ 0 <= ASNTRS <= 1000
+ ASNTRS_reverse_ee3aa = 0
+ 0 <= ASPTRS <= 1000
+ ASPTRS_reverse_8f6e6 = 0
+ 0 <= THRTRS <= 1000
+ THRTRS_reverse_12237 = 0
+ 0 <= LEUTRS <= 1000
+ LEUTRS_reverse_06175 = 0
+ 0 <= ILETRS <= 1000
+ ILETRS_reverse_02878 = 0
+ 0 <= LYSTRS <= 1000
+ LYSTRS_reverse_d3497 = 0
+ 0 <= ALATRS <= 1000
+ ALATRS_reverse_de5e9 = 0
+ 0 <= VALTRS <= 1000
+ VALTRS_reverse_72083 = 0
+ 0 <= FMETTRS <= 1000
+ FMETTRS_reverse_3b6c6 = 0
+ 0 <= EX_photon410_e <= 1000
+ 0 <= EX_photon410_e_reverse_09d09 <= 1000
+ 0 <= EX_photon430_e <= 1000
+ 0 <= EX_photon430_e_reverse_7fe3b <= 1000
+ 0 <= EX_photon450_e <= 1000
+ 0 <= EX_photon450_e_reverse_897c6 <= 1000
+ 0 <= EX_photon470_e <= 1000
+ 0 <= EX_photon470_e_reverse_e0bef <= 1000
+ 0 <= EX_photon490_e <= 1000
+ 0 <= EX_photon490_e_reverse_33832 <= 1000
+ 0 <= EX_photon510_e <= 1000
+ 0 <= EX_photon510_e_reverse_45541 <= 1000
+ 0 <= EX_photon530_e <= 1000
+ 0 <= EX_photon530_e_reverse_07389 <= 1000
+ 0 <= EX_photon550_e <= 1000
+ 0 <= EX_photon550_e_reverse_22d6e <= 1000
+ 0 <= EX_photon570_e <= 1000
+ 0 <= EX_photon570_e_reverse_61760 <= 1000
+ 0 <= EX_photon590_e <= 1000
+ 0 <= EX_photon590_e_reverse_30b0a <= 1000
+ 0 <= EX_photon610_e <= 1000
+ 0 <= EX_photon610_e_reverse_1a480 <= 1000
+ 0 <= EX_photon630_e <= 1000
+ 0 <= EX_photon630_e_reverse_38d55 <= 1000
+ 0 <= EX_photon650_e <= 1000
+ 0 <= EX_photon650_e_reverse_212c9 <= 1000
+ 0 <= EX_photon670_e <= 1000
+ 0 <= EX_photon670_e_reverse_cc92c <= 1000
+ 0 <= EX_photon690_e <= 1000
+ 0 <= EX_photon690_e_reverse_7986f <= 1000
+ 0 <= ZXANHX <= 1000
+ ZXANHX_reverse_a99d5 = 0
+ 0 <= CXANHX <= 1000
+ CXANHX_reverse_34809 = 0
+ 0 <= PHOA410um <= 1000
+ PHOA410um_reverse_c47f0 = 0
+ 0 <= PHOA430um <= 1000
+ PHOA430um_reverse_2152e = 0
+ 0 <= PHOA450um <= 1000
+ PHOA450um_reverse_eda8e = 0
+ 0 <= PHOA470um <= 1000
+ PHOA470um_reverse_13295 = 0
+ 0 <= PHOA490um <= 1000
+ PHOA490um_reverse_e77e7 = 0
+ 0 <= PHOA510um <= 1000
+ PHOA510um_reverse_b693b = 0
+ 0 <= PHOA530um <= 1000
+ PHOA530um_reverse_77936 = 0
+ 0 <= PHOA550um <= 1000
+ PHOA550um_reverse_f2fc9 = 0
+ 0 <= PHOA570um <= 1000
+ PHOA570um_reverse_ca3c7 = 0
+ 0 <= PHOA590um <= 1000
+ PHOA590um_reverse_5c23a = 0
+ 0 <= PHOA610um <= 1000
+ PHOA610um_reverse_5cadd = 0
+ 0 <= PHOA630um <= 1000
+ PHOA630um_reverse_82e48 = 0
+ 0 <= PHOA650um <= 1000
+ PHOA650um_reverse_84ba9 = 0
+ 0 <= PHOA670um <= 1000
+ PHOA670um_reverse_26802 = 0
+ 0 <= PHOA690um <= 1000
+ PHOA690um_reverse_77820 = 0
+ 0 <= DM_pho_loss_c <= 1000
+ DM_pho_loss_c_reverse_ea38a = 0
+ 0 <= ETCHLAS <= 1000
+ ETCHLAS_reverse_12be2 = 0
+ 0 <= ETBCARO <= 1000
+ ETBCARO_reverse_6e466 = 0
+ 0 <= ETCPC <= 1000
+ ETCPC_reverse_26ed1 = 0
+ 0 <= STACPSI <= 1000
+ STACPSI_reverse_8addd = 0
+ 0 <= A5PISO <= 1000
+ 0 <= A5PISO_reverse_3adc0 <= 1000
+ 0 <= KDOPS <= 1000
+ KDOPS_reverse_d4842 = 0
+ 0 <= KDOPP <= 1000
+ KDOPP_reverse_c38fd = 0
+ 0 <= KDOCT2 <= 1000
+ KDOCT2_reverse_b2fcd = 0
+ 0 <= MOAT <= 1000
+ MOAT_reverse_0fdf8 = 0
+ 0 <= UAG2E <= 1000
+ 0 <= UAG2E_reverse_83643 <= 1000
+ 0 <= ACGAMT <= 1000
+ ACGAMT_reverse_2307a = 0
+ 0 <= ACMAMT <= 1000
+ ACMAMT_reverse_098cf = 0
+ 0 <= ICLIPAS <= 1000
+ ICLIPAS_reverse_5cd81 = 0
+ 0 <= ICLIPAabcpp <= 1000
+ ICLIPAabcpp_reverse_54b98 = 0
+ 0 <= OANTS <= 1000
+ OANTS_reverse_6b135 = 0
+ 0 <= OANTIabcpp <= 1000
+ OANTIabcpp_reverse_ccec6 = 0
+ 0 <= OANTILpp <= 1000
+ OANTILpp_reverse_4957a = 0
+ 0 <= COLIPAabcex <= 1000
+ COLIPAabcex_reverse_d4779 = 0
+ 0 <= MPTG <= 1000
+ MPTG_reverse_610dd = 0
+ 0 <= MPTG2 <= 1000
+ MPTG2_reverse_fd602 = 0
+ 0 <= MCTP2App <= 1000
+ MCTP2App_reverse_ab790 = 0
+ 0 <= MCTP1App <= 1000
+ MCTP1App_reverse_33fae = 0
+ 0 <= MCTP1Bpp <= 1000
+ MCTP1Bpp_reverse_801d1 = 0
+ 0 <= MDDCP1pp <= 1000
+ MDDCP1pp_reverse_77f34 = 0
+ 0 <= MDDCP2pp <= 1000
+ MDDCP2pp_reverse_16437 = 0
+ 0 <= MDDCP3pp <= 1000
+ MDDCP3pp_reverse_def42 = 0
+ 0 <= MDDCP4pp <= 1000
+ MDDCP4pp_reverse_76a1f = 0
+ 0 <= MDDCP5pp <= 1000
+ MDDCP5pp_reverse_fd1dc = 0
+ 0 <= MDDEP1pp <= 1000
+ MDDEP1pp_reverse_6e8fc = 0
+ 0 <= MDDEP2pp <= 1000
+ MDDEP2pp_reverse_952c4 = 0
+ 0 <= MDDEP3pp <= 1000
+ MDDEP3pp_reverse_99f89 = 0
+ 0 <= MDDEP4pp <= 1000
+ MDDEP4pp_reverse_6d84a = 0
+ 0 <= MLDCP1App <= 1000
+ MLDCP1App_reverse_96701 = 0
+ 0 <= MLDCP1Bpp <= 1000
+ MLDCP1Bpp_reverse_5a028 = 0
+ 0 <= MLDCP2App <= 1000
+ MLDCP2App_reverse_ab200 = 0
+ 0 <= MLDCP2Bpp <= 1000
+ MLDCP2Bpp_reverse_14d0a = 0
+ 0 <= MLTGY1pp <= 1000
+ MLTGY1pp_reverse_83a82 = 0
+ 0 <= MLTGY2pp <= 1000
+ MLTGY2pp_reverse_21ef1 = 0
+ 0 <= MLTGY3pp <= 1000
+ MLTGY3pp_reverse_b3def = 0
+ 0 <= MLTGY4pp <= 1000
+ MLTGY4pp_reverse_73320 = 0
+ 0 <= AGM4PA <= 1000
+ AGM4PA_reverse_cc387 = 0
+ 0 <= AGM4PApp <= 1000
+ AGM4PApp_reverse_5ec54 = 0
+ 0 <= AGM4PCP <= 1000
+ AGM4PCP_reverse_4f872 = 0
+ 0 <= AGM4PH <= 1000
+ AGM4PH_reverse_b09ff = 0
+ 0 <= AGM3PApp <= 1000
+ AGM3PApp_reverse_74a9d = 0
+ 0 <= AGMH <= 1000
+ AGMH_reverse_d371c = 0
+ 0 <= AGM3PH <= 1000
+ AGM3PH_reverse_3acde = 0
+ 0 <= AM4PCP <= 1000
+ AM4PCP_reverse_9f67b = 0
+ 0 <= x_1577 <= 1000
+ s_1578 = 0
+ 0 <= AM3PA <= 1000
+ AM3PA_reverse_086bd = 0
+ 0 <= AM4PA <= 1000
+ AM4PA_reverse_b660b = 0
+ 0 <= LADGMDH <= 1000
+ LADGMDH_reverse_f7b48 = 0
+ 0 <= UM4PL <= 1000
+ UM4PL_reverse_c309d = 0
+ 0 <= ALAGLUE <= 1000
+ 0 <= ALAGLUE_reverse_83285 <= 1000
+ 0 <= UM3PL <= 1000
+ UM3PL_reverse_32754 = 0
+ 0 <= UM4PCP <= 1000
+ UM4PCP_reverse_86d06 = 0
+ 0 <= LALGP <= 1000
+ LALGP_reverse_4d1aa = 0
+ 0 <= AGM4Pt2pp <= 1000
+ AGM4Pt2pp_reverse_58aad = 0
+ 0 <= AGMt2pp <= 1000
+ AGMt2pp_reverse_23bf9 = 0
+ 0 <= x_1599 <= 1000
+ s_1600 = 0
+ 0 <= UAGPT3 <= 1000
+ UAGPT3_reverse_7f3f7 = 0
+ 0 <= UDCPDP <= 1000
+ UDCPDP_reverse_1813b = 0
+ 0 <= PAPPT3 <= 1000
+ PAPPT3_reverse_0a787 = 0
+ 0 <= ALAALAD <= 1000
+ ALAALAD_reverse_ddcdd = 0
+ 0 <= DALAabcpp <= 1000
+ DALAabcpp_reverse_0bf96 = 0
+ 0 <= ALAALAabcpp <= 1000
+ ALAALAabcpp_reverse_75b27 = 0
+ 0 <= x_1613 <= 1000
+ s_1614 = 0
+ 0 <= PCHLDA430 <= 1000
+ PCHLDA430_reverse_0e4b2 = 0
+ 0 <= PCHLDA650 <= 1000
+ PCHLDA650_reverse_2c126 = 0
+ 0 <= EX_meoh_e <= 1000
+ EX_meoh_e_reverse_45228 = 0
+ 0 <= PFOR <= 1000
+ PFOR_reverse_1e1f4 = 0
+ 0 <= NO2tabcpp <= 1000
+ NO2tabcpp_reverse_5b0e7 = 0
+ 0 <= NO2tex <= 1000
+ 0 <= NO2tex_reverse_fed02 <= 1000
+ 0 <= Htabcpp <= 1000
+ Htabcpp_reverse_13163 = 0
+ 0 <= ETAPCPSII <= 1000
+ ETAPCPSII_reverse_b6974 = 0
+ 0 <= PSICSum <= 1000
+ PSICSum_reverse_f4e46 = 0
+ 0 <= PSIICSum <= 1000
+ PSIICSum_reverse_e1197 = 0
+ 0 <= STCHLPSIum <= 1000
+ STCHLPSIum_reverse_e493e = 0
+ 0 <= DEXZEAX <= 1000
+ DEXZEAX_reverse_911e0 = 0
+ 0 <= CELLSYN <= 1000
+ CELLSYN_reverse_287bb = 0
+ 0 <= ADPGDP <= 1000
+ ADPGDP_reverse_29379 = 0
+ 0 <= ALCD1 <= 1000
+ ALCD1_reverse_895d7 = 0
+ 0 <= FALGTHLs <= 1000
+ FALGTHLs_reverse_1514d = 0
+ 0 <= FALDH2 <= 1000
+ FALDH2_reverse_f1aae = 0
+ 0 <= SFGTHi <= 1000
+ SFGTHi_reverse_71e0b = 0
+ 0 <= GGCLUT2 <= 1000
+ GGCLUT2_reverse_70203 = 0
+ 0 <= OPAH <= 1000
+ OPAH_reverse_607f0 = 0
+ 0 <= ACGAMK <= 1000
+ ACGAMK_reverse_1e7a8 = 0
+ 0 <= AMANAPEr <= 1000
+ 0 <= AMANAPEr_reverse_8310c <= 1000
+ 0 <= AGDC <= 1000
+ AGDC_reverse_2ab9d = 0
+ 0 <= ANHMK <= 1000
+ ANHMK_reverse_f8dfd = 0
+ 0 <= ACM6PH <= 1000
+ ACM6PH_reverse_cff51 = 0
+ 0 <= SUCR <= 1000
+ SUCR_reverse_ea228 = 0
+ 0 <= CLt3_1pp <= 1000
+ CLt3_1pp_reverse_6d6d0 = 0
+ 0 <= Cltex <= 1000
+ 0 <= Cltex_reverse_bf082 <= 1000
+ 0 <= EX_cl_e <= 1000
+ EX_cl_e_reverse_2429b = 0
+ 0 <= Ktu <= 1000
+ 0 <= Ktu_reverse_5c5f2 <= 1000
+ 0 <= FDH6 <= 1000
+ FDH6_reverse_bc29e = 0
+ 0 <= DM_fum_c <= 1000
+ DM_fum_c_reverse_dd639 = 0
+ 0 <= DM_succ_c <= 1000
+ DM_succ_c_reverse_8e529 = 0
+ 0 <= DM_akg_c <= 1000
+ DM_akg_c_reverse_1fe72 = 0
+ 0 <= NGAM_D1um <= 1000
+ NGAM_D1um_reverse_1ddad = 0
+ 0 <= PSICRum <= 1000
+ PSICRum_reverse_31595 = 0
+ 0 <= PSIICRum <= 1000
+ PSIICRum_reverse_68a05 = 0
+ 0 <= DM_ac_c <= 1000
+ DM_ac_c_reverse_17912 = 0
+ 0 <= DM_lac__D_c <= 1000
+ DM_lac__D_c_reverse_357de = 0
+ 0 <= ASPO5 <= 1000
+ ASPO5_reverse_4d759 = 0
+ 0 <= MNHNAtpp <= 1000
+ MNHNAtpp_reverse_59fe7 = 0
+ 0 <= PCXHtpp <= 1000
+ PCXHtpp_reverse_77e96 = 0
+ 0 <= NGAM <= 1000
+ NGAM_reverse_0959e = 0
+
+End

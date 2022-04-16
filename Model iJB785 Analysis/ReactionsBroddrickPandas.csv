@@ -1,0 +1,58 @@
+Name,ID,Subsystem
+15-cis-phytoene:plastoquinone oxidoreductase,PHYPQOX,Carotenoid biosynthesis
+"7,9,7,9-tetracis-lycopene cis-trans-isomerase",PLYCOI,Carotenoid biosynthesis
+"7,9,9-tricis-neurosporene:quinone oxidoreductase",ZCARDS,Carotenoid biosynthesis
+"9,15,9-tricis-zeta-carotene cis-trans-isomerase",ZISO,Carotenoid biosynthesis
+ATP synthase (thylakoid membrane),ATPSum,Photosynthesis/respiration
+Beta-carotene hydroxylase (beta-cryptoxanthin forming),BCAROHX,Carotenoid biosynthesis
+Beta-carotene hydroxylase (zeaxanthin forming),BCAROHX2,Carotenoid biosynthesis
+Bidirectional [NiFe] Hydrogenase,NAD_H2,Photosynthesis/respiration
+Biomass: pigments and xanthophylls,BM_PIGMENTS,Biomass and maintenance functions
+Caloxanthin hydroxylase (nostoxanthin forming),CXANHX,Carotenoid biosynthesis
+Carbonic anhydrase,HCO3E_1_cx,Photosynthesis/respiration
+Catalase,CAT,Photosynthesis/respiration
+Cytb6f complex,CBFCum,Photosynthesis/respiration
+"Cytochrome aa3 oxidase (plastocyanin utilizing, H+/e-:  0.9)",CYOOum,Photosynthesis/respiration
+"Cytochrome bd oxidase (plastoquinone utilizing, non-proton translocating)",CYTBD4um,Photosynthesis/respiration
+Energy transfer (Allophycocyanin to PSII ChlA Qy),ETAPCPSII,Photosynthesis/respiration
+Energy transfer (Beta carotene to ChlA Qy),ETBCARO,Photosynthesis/respiration
+Energy transfer (ChlA Soret to ChlA Qy),ETCHLAS,Photosynthesis/respiration
+Energy transfer (Phycocyanin to allophycocyanin),ETCPC,Photosynthesis/respiration
+Ferredoxin:NADPH oxidoreductase,FNOR,Photosynthesis/respiration
+Lycopene cyclase (beta-carotene producing),LYCBC2,Carotenoid biosynthesis
+Lycopene cyclase (gamma-carotene producing),LYCBC1,Carotenoid biosynthesis
+Mehler reaction,MEHLER,Photosynthesis/respiration
+Modeling: Non-growth associated maintenance,NGAM,Biomass and maintenance functions
+NAD transhydrogenase,NADTRHD,Photosynthesis/respiration
+NAD(P)H dehydrogenase (plastoquinone-8 & 4 protons)( Thylakoid),NDH-1(2)um,Photosynthesis/respiration
+"NAD(P)H dehydrogenase, carbon dioxide coupled (plastoquinone-8 & 4 protons)( Thylakoid)",NDH-1(3)um,Photosynthesis/respiration
+NADH:plastoquinone reductase (non-electrogenic),NDHPQRcm,Photosynthesis/respiration
+Non-growth associated maintenance: PSII D1 protein repair,NGAM_D1um,Photosynthesis/respiration
+Photon absorption (400nm-420nm),PHOA410um,Photosynthesis/respiration
+Photon absorption (420nm-440nm) ,PHOA430um,Photosynthesis/respiration
+Photon absorption (440nm-460nm) ,PHOA450um,Photosynthesis/respiration
+Photon absorption (460nm-480nm) ,PHOA470um,Photosynthesis/respiration
+Photon absorption (480-500nm) ,PHOA490um,Photosynthesis/respiration
+Photon absorption (500nm-520nm),PHOA510um,Photosynthesis/respiration
+Photon absorption (520nm-540nm) ,PHOA530um,Photosynthesis/respiration
+Photon absorption (540nm-560nm) ,PHOA550um,Photosynthesis/respiration
+Photon absorption (560nm-580nm) ,PHOA570um,Photosynthesis/respiration
+Photon absorption (580-600nm) ,PHOA590um,Photosynthesis/respiration
+Photon absorption (600nm-620nm),PHOA610um,Photosynthesis/respiration
+Photon absorption (620nm-640nm) ,PHOA630um,Photosynthesis/respiration
+Photon absorption (640nm-660nm) ,PHOA650um,Photosynthesis/respiration
+Photon absorption (660nm-680nm) ,PHOA670um,Photosynthesis/respiration
+Photon absorption (680-700nm) ,PHOA690um,Photosynthesis/respiration
+Photosystem I,PSIum,Photosynthesis/respiration
+Photosystem I charge recombination,PSICRum,Photosynthesis/respiration
+Photosystem I charge separation,PSICSum,Photosynthesis/respiration
+Photosystem II,PSIIum,Photosynthesis/respiration
+Photosystem II charge recombination,PSIICRum,Photosynthesis/respiration
+Photosystem II charge separation,PSIICSum,Photosynthesis/respiration
+Pigment de-excitation (xanthophylls),DEXZEAX,Photosynthesis/respiration
+State transition energy transfer (Allophycocyanin to PSI ChlA Qy),STACPSI,Photosynthesis/respiration
+State transition energy transfer (PSII ChlA Qy to PSI ChlA Qy),STCHLPSIum,Photosynthesis/respiration
+"Succinate dehydrogenase (plastoquinone utilizing, thylakoid membrane localized)",SUCDum,Photosynthesis/respiration
+Superoxide dismutase,SPODM,Photosynthesis/respiration
+Thioredoxin:ferredoxin reductase,TRDRf,Photosynthesis/respiration
+Zeaxanthin hydroxylase (caloxanthin forming),ZXANHX,Carotenoid biosynthesis

@@ -1,0 +1,51 @@
+1. {Amino acid metabolism: Alanine, Aspartate and Glutamate metabolism}
+2. {Amino acid metabolism: Asparagine metabolism}
+3. {Amino acid metabolism: Cysteine and Methionine metabolism}
+4. {Amino acid metabolism: Glycine, Serine and Threonine metabolism}
+5. {Amino acid metabolism: Lysine biosynthesis}
+6. {Amino acid metabolism: Phenylalanine, Tyrosine, Tryptophan biosynthesis}
+7. {Amino acid metabolism: Proline and Arginine metabolism}
+8. {Amino acid metabolism: Valine, Leucine and Isoleucine biosynthesis}
+9. {Biomass and maintenance functions}
+10. {Calvin cycle/Pentose phosphate pathway}
+11. {Carotenoid biosynthesis}
+12. {Cofactor biosynthesis: Biotin biosynthesis}
+13. {Cofactor biosynthesis: Folate biosynthesis}
+14. {Cofactor biosynthesis: Lipoate biosynthesis}
+15. {Cofactor biosynthesis: Nicotinate and Nicotinamide metabolism}
+16. {Cofactor biosynthesis: Pantothenate and CoA biosynthesis}
+17. {Cofactor biosynthesis: Riboflavin biosynthesis}
+18. {Cofactor biosynthesis: Thiamine (B1)}
+19. {Cofactor biosynthesis: Vitamin B12}
+20. {Cofactor biosynthesis: Vitamin B6}
+21. {Cofactor Regeneration}
+22. {Extracellular exchange}
+23. {Fatty acid biosynthesis}
+24. {Galactoglycerolipid metabolism}
+25. {Glycogen and sucrose metabolism}
+26. {Glycolysis/Gluconeogenesis}
+27. {Histidine Metabolism}
+28. {Inorganic Ion Transport and Metabolism}
+29. {Inositol phosphate metabolism}
+30. {Intracellular demand}
+31. {Lipopolysaccharide/O-antigen Biosynthesis}
+32. {Metabolism of other amino acids: Glutathione metabolism}
+33. {Murein Biosynthesis/Recycling}
+34. {Nitrogen metabolism}
+35. {Nucleotide sugar metabolism}
+36. {Phosphoglycerolipid metabolism}
+37. {Photorespiration/Glyoxylate Degredation}
+38. {Photosynthesis/respiration}
+39. {Phylloquinone biosynthesis}
+40. {Plastoquinol biosynthesis}
+41. {Porphyrin and chlorophyll metabolism}
+42. {Purine and Pyrimidine Biosynthesis}
+43. {Pyruvate metabolism/TCA Reactions}
+44. {Sulfolipid biosynthesis}
+45. {Terpenoid Biosynthesis}
+46. {Transport: carboxyzome}
+47. {Transport: Inner Membrane}
+48. {Transport: Outer Membrane}
+49. {Transport: Thylakoid Membrane}
+50. {tRNA Charging}
+51. {tRNA modification: queuosine}
