@@ -1,0 +1,122 @@
+1. {}
+2. {Alanine and aspartate metabolism}
+3. {Alanine and aspartate metabolism;Glutamate metabolism}
+4. {Alanine and aspartate metabolism;Glycine, serine and threonine metabolism}
+5. {Alanine and aspartate metabolism;Nitrogen metabolism}
+6. {alpha-Linolenic acid metabolism}
+7. {Amino sugar and nucleotide sugar metabolism}
+8. {Arginine and proline metabolism}
+9. {Arginine and proline metabolism;Urea cycle and metabolism of amino groups}
+10. {Ascorbate and aldarate metabolism}
+11. {ATP maintenance}
+12. {beta-Alanine metabolism}
+13. {beta-Alanine metabolism;Pyrimidine metabolism}
+14. {Biomass}
+15. {Biosynthesis of Steroids}
+16. {Biosynthesis of steroids}
+17. {Biosynthesis of unsaturated fatty acids}
+18. {Biotin metabolism}
+19. {Brassinosteroid biosynthesis}
+20. {Butanoate metabolism}
+21. {Carbon fixation}
+22. {Carbon fixation;Glutamate metabolism;Alanine and aspartate metabolism}
+23. {Carbon fixation;Pyruvate metabolism}
+24. {Carotenoid biosynthesis}
+25. {Cofactor recycling}
+26. {Cysteine and methionine metabolism}
+27. {Cysteine metabolism}
+28. {Cysteine metabolism;Sulfur metabolism}
+29. {Demand}
+30. {Drug metabolism - cytochrome P450}
+31. {Drug metabolism - other enzymes}
+32. {Exchange}
+33. {Fatty acid biosynthesis}
+34. {Fatty acid elongation in mitochondria}
+35. {Fatty acid metabolism}
+36. {Folate biosynthesis}
+37. {Fructose and mannose metabolism}
+38. {Galactose metabolism}
+39. {Glutamate metabolism}
+40. {Glutamate metabolism;Arginine and proline metabolism}
+41. {Glutamate metabolism;Glutathione metabolism}
+42. {Glutamate metabolism;Nitrogen metabolism}
+43. {Glutamate metabolism;Nitrogen metabolism;Arginine and proline metabolism}
+44. {Glutathione metabolism}
+45. {Glycerolipid metabolism}
+46. {Glycerophospholipid metabolism}
+47. {Glycine, serine and threonine metabolism}
+48. {Glycine, serine and threonine metabolism;Cysteine and methionine metabolism}
+49. {Glycine, serine and threonine metabolism;Lysine biosynthesis}
+50. {Glycolysis / Gluconeogenesis}
+51. {Glycolysis / Gluconeogenesis;Alanine and aspartate metabolism}
+52. {Glycolysis / Gluconeogenesis;Alanine and aspartate metabolism;Glycine, serine and threonine metabolism}
+53. {Glycolysis / Gluconeogenesis;Carbon fixation}
+54. {Glycolysis / Gluconeogenesis;Pyruvate metabolism}
+55. {Glycolysis / Gluconeogenesis;Valine, leucine and isoleucine degradation}
+56. {Glyoxylate and dicarboxylate metabolism}
+57. {Glyoxylate metabolism}
+58. {Glyoxylate metabolism;CO2 fixation}
+59. {Glyoxylate metabolism;Pyruvate metabolism}
+60. {High-mannose type N-glycan biosynthesis}
+61. {Histidine metabolism}
+62. {Inositol phosphate metabolism}
+63. {iRC1080:Glycerophospholipid metabolism}
+64. {Linoleic acid metabolism}
+65. {Lipoic acid metabolism}
+66. {Lysine biosynthesis}
+67. {Lysine biosynthesis; Lysine degradation}
+68. {Methane metabolism}
+69. {Methionine metabolism}
+70. {Methionine metabolism;Urea cycle and metabolism of amino groups}
+71. {N-Glycan biosynthesis}
+72. {Nicotinate and nicotinamide metabolism}
+73. {Nitrogen metabolism}
+74. {Nitrogen metabolism;Histidine metabolism}
+75. {O-Glycan biosynthesis}
+76. {One carbon pool by folate}
+77. {Oxidative phosphorylation}
+78. {Pantothenate and CoA biosynthesis}
+79. {Pentose phosphate pathway}
+80. {Pentose phosphate pathway;Carbon fixation}
+81. {Phenylalanine, tyrosine and tryptophan biosynthesis}
+82. {Phenylalanine, tyrosine and tryptophan biosynthesis; Tyrosine metabolism}
+83. {Photosynthesis}
+84. {Polyamine metabolism}
+85. {Porphyrin and chlorophyll metabolism}
+86. {Propanoate metabolism}
+87. {Protein synthesis}
+88. {Purine metabolism}
+89. {Purine Metabolism}
+90. {Pyrimidine metabolism}
+91. {Pyruvate metabolism}
+92. {Pyruvate metabolism;CO2 fixation}
+93. {Pyruvate metabolism;Glyoxylate metabolism}
+94. {Retinol metabolism}
+95. {Riboflavin metabolism}
+96. {Selenoamino acid metabolism}
+97. {Spectral decomposition}
+98. {Sphingolipid metabolism}
+99. {Starch and sucrose metabolism}
+100. {Starch and sucrose metabolism;Galactose metabolism}
+101. {Starch metabolism}
+102. {Sulfur metabolism}
+103. {TCA cycle}
+104. {TCA cycle;Carbon fixation;CO2 fixation}
+105. {TCA cycle;CO2 fixation}
+106. {TCA cycle;Oxidative phosphorylation}
+107. {TCA cycle;Pyruvate metabolism;Carbon fixation}
+108. {Terpenoid backbone biosynthesis}
+109. {Thiamine metabolism}
+110. {Transport, chloroplast}
+111. {Transport, extracellular}
+112. {Transport, glyoxysome}
+113. {Transport, mitochondria}
+114. {Transport, thylakoid lumen}
+115. {Tryptophan metabolism}
+116. {Tyrosine metabolism}
+117. {Ubiquinone and other terpenoid-quinone biosynthesis}
+118. {Urea degradation}
+119. {Valine, leucine and isoleucine biosynthesis}
+120. {Valine, leucine and isoleucine degradation}
+121. {Valine, leucine and isoleucine degradation;Valine, leucine and isoleucine biosynthesis}
+122. {Vitamin B6 metabolism}
