@@ -1,0 +1,7 @@
+LCHI Absorption Espectra:
+    Figue 3. Optical Absorbance property of the C. reinhardtii LHCI complex. 
+        a. Room temperaturE ABSORBANCE OF LHCI
+    Ref: Kargul et. al., 2003
+    Name: Three-dimensional Reconstruction of a Light-harvesting Complex I- Photosystem I (LHCI-PSI) Supercomplex from the Green Alga Chlamydomonas reinhardtii
+    DOI: https://doi.org/10.1074/jbc.M300262200
+

@@ -1,0 +1,32 @@
+1. {Modeling: exchange reaction, photon absorption (400nm-420nm): EX_photon410_e // photon410_e <=> }
+2. {Photon absorption (400nm-420nm): PHOA410um // 0.092 caro_c + 0.9 cholphya_c + photon410_e + 0.008 zeax_c --> 0.092 bcaro*_c + 0.9 chla_soret*_c + 0.008 zeax*_c}
+3. {Photon absorption (420nm-440nm) : PHOA430um // 0.13799999999999998 caro_c + 0.85 cholphya_c + photon430_e + 0.012 zeax_c --> 0.13799999999999998 bcaro*_c + 0.85 chla_soret*_c + 0.012 zeax*_c}
+4. {Protochlorophyllide excitation (430nm photon): PCHLDA430 // pchlld_c + photon430_e --> pchlld*_c}
+5. {Modeling: exchange reaction, photon absorption (420nm-440nm) : EX_photon430_e // photon430_e <=> }
+6. {Modeling: exchange reaction, photon absorption (440nm-460nm) : EX_photon450_e // photon450_e <=> }
+7. {Photon absorption (440nm-460nm) : PHOA450um // 0.27599999999999997 caro_c + 0.7 cholphya_c + photon450_e + 0.024 zeax_c --> 0.27599999999999997 bcaro*_c + 0.7 chla_soret*_c + 0.024 zeax*_c}
+8. {Modeling: exchange reaction, photon absorption (460nm-480nm) : EX_photon470_e // photon470_e <=> }
+9. {Photon absorption (460nm-480nm) : PHOA470um // 0.92 caro_c + photon470_e + 0.08 zeax_c --> 0.92 bcaro*_c + 0.08 zeax*_c}
+10. {Photon absorption (480-500nm) : PHOA490um // 0.92 caro_c + photon490_e + 0.08 zeax_c --> 0.92 bcaro*_c + 0.08 zeax*_c}
+11. {Modeling: exchange reaction, photon absorption (480-500nm) : EX_photon490_e // photon490_e <=> }
+12. {Photon absorption (500nm-520nm): PHOA510um // 0.92 caro_c + photon510_e + 0.08 zeax_c --> 0.92 bcaro*_c + 0.08 zeax*_c}
+13. {Modeling: exchange reaction, photon absorption (500nm-520nm): EX_photon510_e // photon510_e <=> }
+14. {Photon absorption (520nm-540nm) : PHOA530um // photon530_e + phycy_c --> phycy*_c}
+15. {Modeling: exchange reaction, photon absorption (520nm-540nm) : EX_photon530_e // photon530_e <=> }
+16. {Photon absorption (540nm-560nm) : PHOA550um // photon550_e + phycy_c --> phycy*_c}
+17. {Modeling: exchange reaction, photon absorption (540nm-560nm) : EX_photon550_e // photon550_e <=> }
+18. {Modeling: exchange reaction, photon absorption (560nm-580nm) : EX_photon570_e // photon570_e <=> }
+19. {Photon absorption (560nm-580nm) : PHOA570um // photon570_e + phycy_c --> phycy*_c}
+20. {Modeling: exchange reaction, photon absorption (580-600nm) : EX_photon590_e // photon590_e <=> }
+21. {Photon absorption (580-600nm) : PHOA590um // photon590_e + phycy_c --> phycy*_c}
+22. {Modeling: exchange reaction, photon absorption (600nm-620nm): EX_photon610_e // photon610_e <=> }
+23. {Photon absorption (600nm-620nm): PHOA610um // photon610_e + phycy_c --> phycy*_c}
+24. {Modeling: exchange reaction, photon absorption (620nm-640nm) : EX_photon630_e // photon630_e <=> }
+25. {Photon absorption (620nm-640nm) : PHOA630um // photon630_e + phycy_c --> phycy*_c}
+26. {Protochlorophyllide excitation (650nm photon): PCHLDA650 // pchlld_c + photon650_e --> pchlld*_c}
+27. {Modeling: exchange reaction, photon absorption (640nm-660nm) : EX_photon650_e // photon650_e <=> }
+28. {Photon absorption (640nm-660nm) : PHOA650um // photon650_e + phycy_c --> phycy*_c}
+29. {Modeling: exchange reaction, photon absorption (660nm-680nm) : EX_photon670_e // photon670_e <=> }
+30. {Photon absorption (660nm-680nm) : PHOA670um // photon670_e + phycy_c --> phycy*_c}
+31. {Modeling: exchange reaction, photon absorption (680-700nm) : EX_photon690_e // photon690_e <=> }
+32. {Photon absorption (680-700nm) : PHOA690um // cholphya_c + photon690_e --> 0.9 chla_qy1*_c + 0.1 chla_qy2*_c}
