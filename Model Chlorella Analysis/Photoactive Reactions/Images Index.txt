@@ -1,7 +1,30 @@
-LCHI Absorption Espectra:
-    Figue 3. Optical Absorbance property of the C. reinhardtii LHCI complex. 
+LCHI Absorption Spectrum:
+    Figure 3. Optical Absorbance property of the C. reinhardtii LHCI complex. 
         a. Room temperaturE ABSORBANCE OF LHCI
     Ref: Kargul et. al., 2003
     Name: Three-dimensional Reconstruction of a Light-harvesting Complex I- Photosystem I (LHCI-PSI) Supercomplex from the Green Alga Chlamydomonas reinhardtii
     DOI: https://doi.org/10.1074/jbc.M300262200
 
+LCHI Absorption Spectrum:
+    Figure 1. Absorption spectra and protein composition of C. reinhardtii LHCII· PSII supercomplex
+    Ref: Nield et. al., 2000
+    Name: Three-dimensional Structure of Chlamydomonas reinhardtii and Synechococcus elongatus Photosystem II Complexes Allows for Comparison of Their Oxygen-evolving Complex Organization
+    DOI: https://doi.org/10.1074/jbc.M003069200
+
+Protochlorophyllide photoreductase Absorption Spectrum
+    Figure 7. Action spectrum of phototransformation of Pchlide 634. The cells were irradiated for 60 s with monochromatic light
+    Ref: Shioi And Sasa, 1984
+    Name: Chlorophyll Formation in the YG-6 Mutant of Chlorella regularis': Spectral Characterization of Protochlorophyllide Phototransformation
+    DOI: https://doi.org/10.1093/oxfordjournals.pcp.a076686
+
+Vitamin D3 Synthesis Activity Spectrum
+    Figure 1.b. The action spectrum of preD3 formation from 7-DHC in human epidermis (0) and the spectral irradiance curve for sunlight (----). The action spectrum was obtained by plotting the reciprocal of the dose as a function of wavelength. At any wavelength, no more than 5 percent of product was made. The overlay of the curve of the action spectrum with that of the solar spectrum demonstrates the small portion of the solar UV spectrum that is involved with the production of preD3 from 7-DHC.
+    Ref: MAcLAUGHLIN et. al., 1982
+    Name: Spectral Character of Sunlight Modulates Photosynthesis of Previtamin D3 and Its Photoisomers in Human Skin
+    DOI: https://doi.org/10.1126/science.6281884
+
+Rhodopsin photoisomerase Activity Spectrum
+    Figure 5. Action spectra for photoreceptor currents in CSRA-enriched and CSRB-enriched cells. Sensitivity is the relative effectiveness of monochromatic light determined from fluence-response curves as the reciprocal of the fluence that gives a photoreceptor-current amplitude equal to that at a reference wavelength (500 nm for CSRA and 470 nm for CSRB), expressed in percent of the reference value. Spectra were measured at fluences of ≈1 μE/m2 (1 μE = 1 μmol of photons). Reproducibility was better than 90%.
+    Ref: Sineshchekov et. al., 2002
+    Name: Two rhodopsins mediate phototaxis to low- and high-intensity light in Chlamydomonas reinhardtii
+    DOI: https://doi.org/10.1073/pnas.122243399
