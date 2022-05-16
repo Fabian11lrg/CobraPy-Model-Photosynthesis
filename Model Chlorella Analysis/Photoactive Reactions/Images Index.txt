@@ -28,3 +28,17 @@ Rhodopsin photoisomerase Activity Spectrum
     Ref: Sineshchekov et. al., 2002
     Name: Two rhodopsins mediate phototaxis to low- and high-intensity light in Chlamydomonas reinhardtii
     DOI: https://doi.org/10.1073/pnas.122243399
+
+Beta-Carotene - Chla Action Spectrum
+    Figure 4. Action spectrum (open circles; left vertical axis) of the F698/F717 ratio (indicating the extent of state transition) calculated from emission spectra obtained at 77 K by exciting differently adapted samples with 436 nm ligh
+    Ref: Stamatakis et. al. 2014
+    Name: On the question of the light-harvesting role of b-carotene in photosystem II and photosystem I core complexes
+    DOI: https://doi.org/10.1016/j.plaphy.2014.01.014
+
+Xanthophylls Action Absorption
+    Figure 2. Weight-specific in vitro absorption spectra of various pigments, ܽa*(l), derived from measuring the absorption spectra of individual pigments in solvent and shifting the maxima of the spectra
+    Ref: Devred et. al. 2013
+    Name: Future Retrievals of Water Column Bio-Optical Properties using the Hyperspectral Infrared Imager (HyspIRI)
+    DOI: https://doi.org/10.3390/rs5126812
+
+Data Extracted from digitize the images on https://apps.automeris.io/wpd/

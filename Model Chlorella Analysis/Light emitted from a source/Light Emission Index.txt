@@ -1,0 +1,11 @@
+Solar lithosphere - astmg173:
+	The ASTMG173 spectrum is of sunlight measured from Earth’s ground level. Three different spectrums according to the correspondent spectral emission (Extraterrestrial, Direct and Tilted Light Irradiance)
+	Ref: ASTM
+	Name: Spectrum
+	Link: http://rredc.nrel.gov/solar/spectra/am1.5
+
+White LED Spectral Irradiance:
+	Spectral irradiance of a Hewlett Packard HLMP-CW31 white LED was collected from an online resource
+	Ref: Pedro J. Aphalo., 1999
+	Name: Light emitting diode (LED), white (Hewlett Packard HLMP-CW31)
+	Link: https://www.mv.helsinki.fi/home/aphalo/photobio/lamps.html
