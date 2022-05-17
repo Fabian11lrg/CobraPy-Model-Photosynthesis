@@ -41,4 +41,10 @@ Xanthophylls Action Absorption
     Name: Future Retrievals of Water Column Bio-Optical Properties using the Hyperspectral Infrared Imager (HyspIRI)
     DOI: https://doi.org/10.3390/rs5126812
 
+Zeaxanthin emission spectra
+    Figure 3.  Corrected fluorescence spectra of (a) zeaxanthin and (bj violaxanthin aggregates in 10%ethanol in water (&,,=400 nm)
+    Ref: Gruszecki et. al., 1990
+    Name: Fluorescence of zeaxanthin and violaxanthin in aggregated forms
+    DOI: https://doi.org/10.1016/0009-2614(90)85264-d
+
 Data Extracted from digitize the images on https://apps.automeris.io/wpd/
