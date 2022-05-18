@@ -12,8 +12,8 @@
 12. {beta-Alanine metabolism}
 13. {beta-Alanine metabolism;Pyrimidine metabolism}
 14. {Biomass}
-15. {Biosynthesis of Steroids}
-16. {Biosynthesis of steroids}
+15. {Biosynthesis of steroids}
+16. {Biosynthesis of Steroids}
 17. {Biosynthesis of unsaturated fatty acids}
 18. {Biotin metabolism}
 19. {Brassinosteroid biosynthesis}

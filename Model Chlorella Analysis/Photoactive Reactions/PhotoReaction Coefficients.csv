@@ -1,58 +1,136 @@
-Vitamin D3 Synthesis, photon265,250,280,4.687115
-Vitamin D3 Synthesis, photon295,280,310,1
-Vitamin D3 Synthesis, photon325,310,340,29.564662
-Beta-Carotene - Chla Action Spectrum, photon385,370,400,2.634999
-Beta-Carotene - Chla Action Spectrum, photon415,400,430,1.020173
-Beta-Carotene - Chla Action Spectrum, photon445,430,460,1
-Beta-Carotene - Chla Action Spectrum, photon475,460,490,1.10905
-Beta-Carotene - Chla Action Spectrum, photon505,490,520,1.265633
-Beta-Carotene - Chla Action Spectrum, photon535,520,550,1.40218
-Beta-Carotene - Chla Action Spectrum, photon565,550,580,1.39618
-Beta-Carotene - Chla Action Spectrum, photon595,580,610,1.326382
-Beta-Carotene - Chla Action Spectrum, photon625,610,640,1.226915
-Beta-Carotene - Chla Action Spectrum, photon655,640,670,1.285886
-Beta-Carotene - Chla Action Spectrum, photon685,670,700,1.312026
-LHCI Absorption Spectrum, photon355,340,370,6.424863
-LHCI Absorption Spectrum, photon385,370,400,1.84706
-LHCI Absorption Spectrum, photon415,400,430,1.216632
-LHCI Absorption Spectrum, photon445,430,460,1
-LHCI Absorption Spectrum, photon475,460,490,1.48465
-LHCI Absorption Spectrum, photon505,490,520,4.728123
-LHCI Absorption Spectrum, photon535,520,550,17.166146
-LHCI Absorption Spectrum, photon565,550,580,14.667145
-LHCI Absorption Spectrum, photon595,580,610,8.73336
-LHCI Absorption Spectrum, photon625,610,640,5.85704
-LHCI Absorption Spectrum, photon655,640,670,2.715645
-LHCI Absorption Spectrum, photon685,670,700,3.347481
-Protochlorophyllide photoreductase Absorption Spectrum, photon385,370,400,20.145925
-Protochlorophyllide photoreductase Absorption Spectrum, photon415,400,430,2.486051
-Protochlorophyllide photoreductase Absorption Spectrum, photon445,430,460,1.164281
-Protochlorophyllide photoreductase Absorption Spectrum, photon475,460,490,2.096614
-Protochlorophyllide photoreductase Absorption Spectrum, photon505,490,520,5.602686
-Protochlorophyllide photoreductase Absorption Spectrum, photon535,520,550,3.866782
-Protochlorophyllide photoreductase Absorption Spectrum, photon565,550,580,2.841563
-Protochlorophyllide photoreductase Absorption Spectrum, photon595,580,610,2.152929
-Protochlorophyllide photoreductase Absorption Spectrum, photon625,610,640,1.129706
-Protochlorophyllide photoreductase Absorption Spectrum, photon655,640,670,1
-Protochlorophyllide photoreductase Absorption Spectrum, photon685,670,700,3.894834
-Rhodopsin photoisomerase Activity Spectrum, photon415,400,430,51.057334
-Rhodopsin photoisomerase Activity Spectrum, photon445,430,460,4.923494
-Rhodopsin photoisomerase Activity Spectrum, photon475,460,490,1.607211
-Rhodopsin photoisomerase Activity Spectrum, photon505,490,520,1
-Rhodopsin photoisomerase Activity Spectrum, photon535,520,550,2.210456
-Rhodopsin photoisomerase Activity Spectrum, photon565,550,580,13.647549
-Xanthophylls Action Absorption, photon385,370,400,9.918204
-Xanthophylls Action Absorption, photon415,400,430,2.356105
-Xanthophylls Action Absorption, photon445,430,460,1.141971
-Xanthophylls Action Absorption, photon475,460,490,1
-Xanthophylls Action Absorption, photon505,490,520,1.621248
-Xanthophylls Action Absorption, photon535,520,550,25.887228
-Xanthophylls Action Absorption, photon565,550,580,309.085851
-Xanthophylls Emission Spectra, photon475,460,490,3.455278
-Xanthophylls Emission Spectra, photon505,490,520,1.300963
-Xanthophylls Emission Spectra, photon535,520,550,1.031285
-Xanthophylls Emission Spectra, photon565,550,580,1
-Xanthophylls Emission Spectra, photon595,580,610,1.080576
-Xanthophylls Emission Spectra, photon625,610,640,1.224469
-Xanthophylls Emission Spectra, photon655,640,670,1.39987
-Xanthophylls Emission Spectra, photon685,670,700,1.638009
+Beta-Carotene - Chla Action Spectrum, photon265, 250, 280, 573.259612 
+Beta-Carotene - Chla Action Spectrum, photon295, 280, 310, 573.259612 
+Beta-Carotene - Chla Action Spectrum, photon325, 310, 340, 573.259612 
+Beta-Carotene - Chla Action Spectrum, photon355, 340, 370, 573.259612 
+Beta-Carotene - Chla Action Spectrum, photon385, 370, 400, 2.664555 
+Beta-Carotene - Chla Action Spectrum, photon415, 400, 430, 1.019228 
+Beta-Carotene - Chla Action Spectrum, photon445, 430, 460, 1.000000 
+Beta-Carotene - Chla Action Spectrum, photon475, 460, 490, 1.108382 
+Beta-Carotene - Chla Action Spectrum, photon505, 490, 520, 1.265722 
+Beta-Carotene - Chla Action Spectrum, photon535, 520, 550, 1.400919 
+Beta-Carotene - Chla Action Spectrum, photon565, 550, 580, 1.395611 
+Beta-Carotene - Chla Action Spectrum, photon595, 580, 610, 1.326882 
+Beta-Carotene - Chla Action Spectrum, photon625, 610, 640, 1.226208 
+Beta-Carotene - Chla Action Spectrum, photon655, 640, 670, 1.285591 
+Beta-Carotene - Chla Action Spectrum, photon685, 670, 700, 1.311067 
+Beta-Carotene - Chla Action Spectrum, photon715, 700, 730, 7.505618 
+Beta-Carotene - Chla Action Spectrum, photon745, 730, 760, 573.259612 
+LHCI Absorption Spectrum, photon265, 250, 280, 1113.804908 
+LHCI Absorption Spectrum, photon295, 280, 310, 1113.804908 
+LHCI Absorption Spectrum, photon325, 310, 340, 1113.804908 
+LHCI Absorption Spectrum, photon355, 340, 370, 6.424863 
+LHCI Absorption Spectrum, photon385, 370, 400, 1.847060 
+LHCI Absorption Spectrum, photon415, 400, 430, 1.216632 
+LHCI Absorption Spectrum, photon445, 430, 460, 1.000000 
+LHCI Absorption Spectrum, photon475, 460, 490, 1.484650 
+LHCI Absorption Spectrum, photon505, 490, 520, 4.728123 
+LHCI Absorption Spectrum, photon535, 520, 550, 17.166146 
+LHCI Absorption Spectrum, photon565, 550, 580, 14.667145 
+LHCI Absorption Spectrum, photon595, 580, 610, 8.733360 
+LHCI Absorption Spectrum, photon625, 610, 640, 5.857040 
+LHCI Absorption Spectrum, photon655, 640, 670, 2.715645 
+LHCI Absorption Spectrum, photon685, 670, 700, 3.347481 
+LHCI Absorption Spectrum, photon715, 700, 730, 150.089868 
+LHCI Absorption Spectrum, photon745, 730, 760, -4266.275691 
+LHCII Absorption Spectrum, photon265, 250, 280, 935.540517 
+LHCII Absorption Spectrum, photon295, 280, 310, 935.540517 
+LHCII Absorption Spectrum, photon325, 310, 340, 935.540517 
+LHCII Absorption Spectrum, photon355, 340, 370, 5.064726 
+LHCII Absorption Spectrum, photon385, 370, 400, 1.414892 
+LHCII Absorption Spectrum, photon415, 400, 430, 1.015335 
+LHCII Absorption Spectrum, photon445, 430, 460, 1.000000 
+LHCII Absorption Spectrum, photon475, 460, 490, 1.473148 
+LHCII Absorption Spectrum, photon505, 490, 520, 2.927622 
+LHCII Absorption Spectrum, photon535, 520, 550, 9.461126 
+LHCII Absorption Spectrum, photon565, 550, 580, 9.828286 
+LHCII Absorption Spectrum, photon595, 580, 610, 6.728335 
+LHCII Absorption Spectrum, photon625, 610, 640, 4.962702 
+LHCII Absorption Spectrum, photon655, 640, 670, 2.522521 
+LHCII Absorption Spectrum, photon685, 670, 700, 2.221290 
+LHCII Absorption Spectrum, photon715, 700, 730, 48.759677 
+LHCII Absorption Spectrum, photon745, 730, 760, 97.039977 
+Protochlorophyllide photoreductase Absorption Spectrum, photon265, 250, 280, 948.046221 
+Protochlorophyllide photoreductase Absorption Spectrum, photon295, 280, 310, 948.046221 
+Protochlorophyllide photoreductase Absorption Spectrum, photon325, 310, 340, 948.046221 
+Protochlorophyllide photoreductase Absorption Spectrum, photon355, 340, 370, 948.046221 
+Protochlorophyllide photoreductase Absorption Spectrum, photon385, 370, 400, 20.145925 
+Protochlorophyllide photoreductase Absorption Spectrum, photon415, 400, 430, 2.486051 
+Protochlorophyllide photoreductase Absorption Spectrum, photon445, 430, 460, 1.164281 
+Protochlorophyllide photoreductase Absorption Spectrum, photon475, 460, 490, 2.096614 
+Protochlorophyllide photoreductase Absorption Spectrum, photon505, 490, 520, 5.602686 
+Protochlorophyllide photoreductase Absorption Spectrum, photon535, 520, 550, 3.866782 
+Protochlorophyllide photoreductase Absorption Spectrum, photon565, 550, 580, 2.841563 
+Protochlorophyllide photoreductase Absorption Spectrum, photon595, 580, 610, 2.152929 
+Protochlorophyllide photoreductase Absorption Spectrum, photon625, 610, 640, 1.129706 
+Protochlorophyllide photoreductase Absorption Spectrum, photon655, 640, 670, 1.000000 
+Protochlorophyllide photoreductase Absorption Spectrum, photon685, 670, 700, 3.894834 
+Protochlorophyllide photoreductase Absorption Spectrum, photon715, 700, 730, 11.010060 
+Protochlorophyllide photoreductase Absorption Spectrum, photon745, 730, 760, 948.046221 
+Rhodopsin photoisomerase Activity Spectrum, photon265, 250, 280, 2096.954698 
+Rhodopsin photoisomerase Activity Spectrum, photon295, 280, 310, 2096.954698 
+Rhodopsin photoisomerase Activity Spectrum, photon325, 310, 340, 2096.954698 
+Rhodopsin photoisomerase Activity Spectrum, photon355, 340, 370, 2096.954698 
+Rhodopsin photoisomerase Activity Spectrum, photon385, 370, 400, 2096.954698 
+Rhodopsin photoisomerase Activity Spectrum, photon415, 400, 430, 51.057334 
+Rhodopsin photoisomerase Activity Spectrum, photon445, 430, 460, 4.923494 
+Rhodopsin photoisomerase Activity Spectrum, photon475, 460, 490, 1.607211 
+Rhodopsin photoisomerase Activity Spectrum, photon505, 490, 520, 1.000000 
+Rhodopsin photoisomerase Activity Spectrum, photon535, 520, 550, 2.194574 
+Rhodopsin photoisomerase Activity Spectrum, photon565, 550, 580, 11.925879 
+Rhodopsin photoisomerase Activity Spectrum, photon595, 580, 610, 2096.954698 
+Rhodopsin photoisomerase Activity Spectrum, photon625, 610, 640, 2096.954698 
+Rhodopsin photoisomerase Activity Spectrum, photon655, 640, 670, 2096.954698 
+Rhodopsin photoisomerase Activity Spectrum, photon685, 670, 700, 2096.954698 
+Rhodopsin photoisomerase Activity Spectrum, photon715, 700, 730, 2096.954698 
+Rhodopsin photoisomerase Activity Spectrum, photon745, 730, 760, 2096.954698 
+Vitamin D3 Synthesis Activity Spectrum, photon265, 250, 280, 4.689234 
+Vitamin D3 Synthesis Activity Spectrum, photon295, 280, 310, 1.000000 
+Vitamin D3 Synthesis Activity Spectrum, photon325, 310, 340, 29.574867 
+Vitamin D3 Synthesis Activity Spectrum, photon355, 340, 370, 602.372574 
+Vitamin D3 Synthesis Activity Spectrum, photon385, 370, 400, 2020.497317 
+Vitamin D3 Synthesis Activity Spectrum, photon415, 400, 430, 4002.491225 
+Vitamin D3 Synthesis Activity Spectrum, photon445, 430, 460, 4002.491225 
+Vitamin D3 Synthesis Activity Spectrum, photon475, 460, 490, 4002.491225 
+Vitamin D3 Synthesis Activity Spectrum, photon505, 490, 520, 4002.491225 
+Vitamin D3 Synthesis Activity Spectrum, photon535, 520, 550, 4002.491225 
+Vitamin D3 Synthesis Activity Spectrum, photon565, 550, 580, 4002.491225 
+Vitamin D3 Synthesis Activity Spectrum, photon595, 580, 610, 4002.491225 
+Vitamin D3 Synthesis Activity Spectrum, photon625, 610, 640, 4002.491225 
+Vitamin D3 Synthesis Activity Spectrum, photon655, 640, 670, 4002.491225 
+Vitamin D3 Synthesis Activity Spectrum, photon685, 670, 700, 4002.491225 
+Vitamin D3 Synthesis Activity Spectrum, photon715, 700, 730, 4002.491225 
+Vitamin D3 Synthesis Activity Spectrum, photon745, 730, 760, 4002.491225 
+Xanthophylls Action Absorption , photon265, 250, 280, 1634.197471 
+Xanthophylls Action Absorption , photon295, 280, 310, 1634.197471 
+Xanthophylls Action Absorption , photon325, 310, 340, 1634.197471 
+Xanthophylls Action Absorption , photon355, 340, 370, 1634.197471 
+Xanthophylls Action Absorption , photon385, 370, 400, 9.918204 
+Xanthophylls Action Absorption , photon415, 400, 430, 2.356105 
+Xanthophylls Action Absorption , photon445, 430, 460, 1.141971 
+Xanthophylls Action Absorption , photon475, 460, 490, 1.000000 
+Xanthophylls Action Absorption , photon505, 490, 520, 1.621248 
+Xanthophylls Action Absorption , photon535, 520, 550, 25.887228 
+Xanthophylls Action Absorption , photon565, 550, 580, 309.085851 
+Xanthophylls Action Absorption , photon595, 580, 610, 1634.197471 
+Xanthophylls Action Absorption , photon625, 610, 640, 1634.197471 
+Xanthophylls Action Absorption , photon655, 640, 670, 1634.197471 
+Xanthophylls Action Absorption , photon685, 670, 700, 1634.197471 
+Xanthophylls Action Absorption , photon715, 700, 730, 1634.197471 
+Xanthophylls Action Absorption , photon745, 730, 760, 1634.197471 
+Zeaxanthin emission spectra, photon265, 250, 280, 708.649409 
+Zeaxanthin emission spectra, photon295, 280, 310, 708.649409 
+Zeaxanthin emission spectra, photon325, 310, 340, 708.649409 
+Zeaxanthin emission spectra, photon355, 340, 370, 708.649409 
+Zeaxanthin emission spectra, photon385, 370, 400, 708.649409 
+Zeaxanthin emission spectra, photon415, 400, 430, 708.649409 
+Zeaxanthin emission spectra, photon445, 430, 460, 708.649409 
+Zeaxanthin emission spectra, photon475, 460, 490, 3.455278 
+Zeaxanthin emission spectra, photon505, 490, 520, 1.300963 
+Zeaxanthin emission spectra, photon535, 520, 550, 1.031285 
+Zeaxanthin emission spectra, photon565, 550, 580, 1.000000 
+Zeaxanthin emission spectra, photon595, 580, 610, 1.080576 
+Zeaxanthin emission spectra, photon625, 610, 640, 1.224469 
+Zeaxanthin emission spectra, photon655, 640, 670, 1.399870 
+Zeaxanthin emission spectra, photon685, 670, 700, 1.638009 
+Zeaxanthin emission spectra, photon715, 700, 730, 1.934440 
+Zeaxanthin emission spectra, photon745, 730, 760, 2.252096 

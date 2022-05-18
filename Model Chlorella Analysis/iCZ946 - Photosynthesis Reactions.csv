@@ -75,3 +75,4 @@ gamma-carotene transport,GCAROtu,"Transport, thylakoid lumen",,gcaro_h <=> gcaro
 "reduced glutathione transport via diffusion, lumen",GTHRDtu,"Transport, thylakoid lumen",,gthrd_h <=> gthrd_u,-1.0 Reduced glutathione (Chloroplast); 1.0 Reduced glutathione (Thylakoid),,
 "violaxanthin transport, chloroplast",VIOXANth,"Transport, thylakoid lumen",,vioxan_c --> vioxan_h,-1.0 Violaxanthin (Cytoplasm); 1.0 Violaxanthin (Chloroplast),,
 "violaxanthin transport, thylakoid lumen",VIOXANtu,"Transport, thylakoid lumen",,vioxan_h --> vioxan_u,-1.0 Violaxanthin (Chloroplast); 1.0 Violaxanthin (Thylakoid),,
+chlorophyll a demetalase,CHLADMT,Porphyrin and chlorophyll metabolism,CRv4_Au5.s11.g2578.t1,[u] : chla + h <==> phphtna + mg2,-1.0 Chlorophyll a (Chloroplast); 1.0 Pheophytin a (Thylakoid); -1 proton (Thylakoid); 1.0 magnesium,,
