@@ -1,30 +1,34 @@
-Solar - lithosphere - astmg173, photon265,250,280,0
-Solar - lithosphere - astmg174, photon295,280,310,0.000113
-Solar - lithosphere - astmg175, photon325,310,340,0.006737
-Solar - lithosphere - astmg176, photon355,340,370,0.01486
-Solar - lithosphere - astmg177, photon385,370,400,0.021734
-Solar - lithosphere - astmg178, photon415,400,430,0.044005
-Solar - lithosphere - astmg179, photon445,430,460,0.059512
-Solar - lithosphere - astmg180, photon475,460,490,0.075556
-Solar - lithosphere - astmg181, photon505,490,520,0.084235
-Solar - lithosphere - astmg182, photon535,520,550,0.094622
-Solar - lithosphere - astmg183, photon565,550,580,0.103522
-Solar - lithosphere - astmg184, photon595,580,610,0.112304
-Solar - lithosphere - astmg185, photon625,610,640,0.120736
-Solar - lithosphere - astmg186, photon655,640,670,0.128904
-Solar - lithosphere - astmg187, photon685,670,700,0.133161
-White LED Spectral Irradiance, photon265,250,280,0
-White LED Spectral Irradiance, photon295,280,310,0.000229
-White LED Spectral Irradiance, photon325,310,340,0.000378
-White LED Spectral Irradiance, photon355,340,370,0.000265
-White LED Spectral Irradiance, photon385,370,400,0.000197
-White LED Spectral Irradiance, photon415,400,430,0.000498
-White LED Spectral Irradiance, photon445,430,460,0.007507
-White LED Spectral Irradiance, photon475,460,490,0.042628
-White LED Spectral Irradiance, photon505,490,520,0.067283
-White LED Spectral Irradiance, photon535,520,550,0.127436
-White LED Spectral Irradiance, photon565,550,580,0.178851
-White LED Spectral Irradiance, photon595,580,610,0.190611
-White LED Spectral Irradiance, photon625,610,640,0.170808
-White LED Spectral Irradiance, photon655,640,670,0.128865
-White LED Spectral Irradiance, photon685,670,700,0.084445
+Solar lithosphere - astmg173, photon265,250,280,0.000059
+Solar lithosphere - astmg173, photon295,280,310,0.005656
+Solar lithosphere - astmg173, photon325,310,340,0.012363
+Solar lithosphere - astmg173, photon355,340,370,0.017857
+Solar lithosphere - astmg173, photon385,370,400,0.022499
+Solar lithosphere - astmg173, photon415,400,430,0.041042
+Solar lithosphere - astmg173, photon445,430,460,0.051459
+Solar lithosphere - astmg173, photon475,460,490,0.062454
+Solar lithosphere - astmg173, photon505,490,520,0.067298
+Solar lithosphere - astmg173, photon535,520,550,0.074427
+Solar lithosphere - astmg173, photon565,550,580,0.081602
+Solar lithosphere - astmg173, photon595,580,610,0.087673
+Solar lithosphere - astmg173, photon625,610,640,0.090866
+Solar lithosphere - astmg173, photon655,640,670,0.092985
+Solar lithosphere - astmg173, photon685,670,700,0.096292
+Solar lithosphere - astmg173, photon715,700,730,0.097518
+Solar lithosphere - astmg173, photon745,730,760,0.09795
+White LED Spectral Irradiance, photon265, 250, 280, 0.000000 
+White LED Spectral Irradiance, photon295, 280, 310, 0.000415 
+White LED Spectral Irradiance, photon325, 310, 340, 0.000643 
+White LED Spectral Irradiance, photon355, 340, 370, 0.000412 
+White LED Spectral Irradiance, photon385, 370, 400, 0.000251 
+White LED Spectral Irradiance, photon415, 400, 430, 0.000595 
+White LED Spectral Irradiance, photon445, 430, 460, 0.009167 
+White LED Spectral Irradiance, photon475, 460, 490, 0.049127 
+White LED Spectral Irradiance, photon505, 490, 520, 0.073036 
+White LED Spectral Irradiance, photon535, 520, 550, 0.130505 
+White LED Spectral Irradiance, photon565, 550, 580, 0.173717 
+White LED Spectral Irradiance, photon595, 580, 610, 0.175911 
+White LED Spectral Irradiance, photon625, 610, 640, 0.150148 
+White LED Spectral Irradiance, photon655, 640, 670, 0.108133 
+White LED Spectral Irradiance, photon685, 670, 700, 0.067773 
+White LED Spectral Irradiance, photon715, 700, 730, 0.038971 
+White LED Spectral Irradiance, photon745, 730, 760, 0.021196 
