@@ -75,4 +75,8 @@ gamma-carotene transport,GCAROtu,"Transport, thylakoid lumen",,gcaro_h <=> gcaro
 "reduced glutathione transport via diffusion, lumen",GTHRDtu,"Transport, thylakoid lumen",,gthrd_h <=> gthrd_u,-1.0 Reduced glutathione (Chloroplast); 1.0 Reduced glutathione (Thylakoid),,
 "violaxanthin transport, chloroplast",VIOXANth,"Transport, thylakoid lumen",,vioxan_c --> vioxan_h,-1.0 Violaxanthin (Cytoplasm); 1.0 Violaxanthin (Chloroplast),,
 "violaxanthin transport, thylakoid lumen",VIOXANtu,"Transport, thylakoid lumen",,vioxan_h --> vioxan_u,-1.0 Violaxanthin (Chloroplast); 1.0 Violaxanthin (Thylakoid),,
-chlorophyll a demetalase,CHLADMT,Porphyrin and chlorophyll metabolism,CRv4_Au5.s11.g2578.t1,[u] : chla + h <==> phphtna + mg2,-1.0 Chlorophyll a (Chloroplast); 1.0 Pheophytin a (Thylakoid); -1 proton (Thylakoid); 1.0 magnesium,,
+chlorophyll a demetalase,CHLADMT,Porphyrin and chlorophyll metabolism,CRv4_Au5.s11.g2578.t1,[u] : chla + h <==> phphtna + mg2,-1.0 Chlorophyll a (Chloroplast); 1.0 Pheophytin a (Thylakoid); -1 H+ (Thylakoid); 1.0 magnesium,,
+Plastoquinone first quenching,,Photosynthesis,,2pqh2_u + 1O2_u --> 2pq_u+2h2o_u,,"It is known that PQ-C accumulates in older leaves and PQ-C-like compounds are formed from PQ-9 during scavenging reaction of singlet oxygen https://doi.org/10.1016/j.bbabio.2010.06.007, Possible oxidation pathway for
+prenylquinol and plastoquinone https://doi.org/10.1016/j.freeradbiomed.2008.06.025",
+Plastoquinone second quenching,,Photosynthesis,,pq_u + 1O2_u + 2h_u --> pqohc_u+h2o_u,,"It is known that PQ-C accumulates in older leaves and PQ-C-like compounds are formed from PQ-9 during scavenging reaction of singlet oxygen https://doi.org/10.1016/j.bbabio.2010.06.007, Possible oxidation pathway for
+prenylquinol and plastoquinone https://doi.org/10.1016/j.freeradbiomed.2008.06.025",

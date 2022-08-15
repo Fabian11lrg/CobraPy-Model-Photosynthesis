@@ -47,4 +47,10 @@ Zeaxanthin emission spectra
     Name: Fluorescence of zeaxanthin and violaxanthin in aggregated forms
     DOI: https://doi.org/10.1016/0009-2614(90)85264-d
 
+OEC Photoinhibition Action Spectra
+    Figure 3. omparison of action spectra of photoinhibition (experimental points; [2], triangles; [49], circles) with absorption spectra of three model complexes of the oxygen-evolving Mn cluster
+    Ref: Tyystjârvi, 2008
+    Name: Photoinhibition of Photosystem II and photodamage of the oxygen evolving manganese cluster
+    DOI: https://doi.org/10.1016/j.ccr.2007.08.021
+
 Data Extracted from digitize the images on https://apps.automeris.io/wpd/

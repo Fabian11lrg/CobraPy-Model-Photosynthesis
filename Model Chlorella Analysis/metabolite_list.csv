@@ -1,0 +1,102 @@
+Initial Formula,id,name,formula,compartment
+1O2(L),1o2_u,Singlet Oxygen,O2,u
+1P680(T),1psII_680_u,"PSII reaction center P680, singlet form",C220H284Mg4N16O20,u
+1P700,1psI_700_u,"PSI reaction center P700, singlet form",C110H142Mg2N8O10,u
+3P680(T),3psII_680_u,"PSII reaction center P680, triplet form",C220H284Mg4N16O20,u
+7dhchsterol_c,7dhchsterol_c,"Cholesta-5,7-dien-3beta-ol",C27H44O,c
+ADP,adp_h,ADP,C10H12N5O10P2,h
+ATP,atp_h,ATP,C10H12N5O13P3,h
+bathorhodopsin_h,bathorhodopsin_h,Bathorhodopsin,C20H28OR,h
+caro_u,caro_u,beta-Carotene,C40H56,u
+caroExc_u,caroExc_u,"beta-Carotene, excited state",C40H56,u
+chla_u,chla_u,Chlorophyll a,C55H72MgN4O5,u
+chla1_u,chla1_u,"Chlorophyll a, singlet state",C55H72MgN4O5,u
+chla3_u,chla3_u,"Chlorophyll a, triplet state",C55H72MgN4O5,u
+chlda_h,chlda_u,Chlorophyllide a,C35H34MgN4O5,u
+Cyt bP -,cytbprd_u,"Heme group in cytochrome b6f, reduced",X,u
+Cyt bP*,cytbpox_u,"Heme group in cytochrome b6f, oxidized",X,u
+Cyt f -,apocytfcrd_u,"Apocytochrome f, reduced",C8H12N4O4S2R4,u
+Cyt f*,apocytfcox_u,"Apocytochrome f, oxidized",C8H12N4O4S2R4,u
+dvchlda_h,dvchlda_h,Divinyl chlorophyllide a,C35H32MgN4O5,h
+dvpchlda_h,dvpchlda_h,Divinylprotochlorophyllide a,C35H30MgN4O5,h
+Fd,fdxox_u,Oxidized ferredoxin,Fe8S8X,u
+Fd-,fdxrd_u,Reduced ferredoxin,Fe8S8X,u
+Fe2S2 H+,rieskef2s2rd_u,"iron–sulfur Rieske protein, reduced",HFe2S2X,u
+Fe2S2*,rieskef2s2ox_u,"iron–sulfur Rieske protein, oxidized",Fe2S2X,u
+GDP,gdp_h,GDP,C10H12N5O11P2,h
+GTP,gtp_h,GTP,C10H12N5O14P3,h
+H+(L),h_u,H+,H,u
+H+(S),h_h,H+,H,h
+H2O (L),h2o_u,H2O,H2O,u
+H2O (S),h2o_h,H2O,H2O,h
+H2O2 (S),h2o2_h,Hydrogen peroxide,H2O2,h
+Mn+2(L),mn2_u,Manganese Ion (+2),Mn,u
+NAD+(S),nad_h,Nicotinamide adenine dinucleotide,C21H26N7O14P2,h
+NADH(S),nadh_h,Nicotinamide adenine dinucleotide - reduced,C21H27N7O14P2,h
+NADP+(S),nadp_h,Nicotinamide adenine dinucleotide phosphate,C21H25N7O17P3,h
+NADPH(S),nadph_h,Nicotinamide adenine dinucleotide phosphate - reduced,C21H26N7O17P3,h
+O2 (L),o2_u,O2,O2,u
+O2 (S),o2_h,O2,O2,h
+O2-1 (S),o2s_h,Superoxide Anion,O2,h
+P+680(T),psII_680ox_u,"PSII reaction center P680, oxidized",C220H284Mg4N16O20,u
+P680(T),psII_680_u,PSII reaction center P680,C220H284Mg4N16O20,u
+"P680, D(T)",psII_680Deg_u,"PSII reaction center P680, damaged",C220H284Mg4N16O22,u
+P700,psI_700_u,PSI reaction center P700,C110H142Mg2N8O10,u
+P700+,psI_700ox_u,"PSI reaction center P700, oxidized",C110H142Mg2N8O10,u
+PC -(L),pccu1p_u,Plastocyanin(Cu+),X,u
+PC(L),pccu2p_u,Plastocyanin(Cu2+),X,u
+pchlda_h,pchlda_h,Protochlorophyllide a,C35H32MgN4O5,h
+PheoA (T),phphtna_u,Pheophytin a,C55H73N4O5,u
+PheoA- (T),phphtn_rd_u,"Pheophytin a, reduced form",C55H73N4O5,u
+photonVis_e,photonVis_e,"photon (250 to 760 nm, visible spectrum + UV)",Z,e
+Pi,pi_h,Phosphate,HPO4,h
+PQH° (T),plaq9h_u,Semiplastoquinone-9,C53H81O2,u
+PQH2 (T),plaq9h2_u,Plastoquinol-9,C53H82O2,u
+PQOH(T),plaq9oh_u,Plastoquinone C,C53H81O3,u
+QB (T),plaq9_u,Plastoquinone-9,C53H80O2,u
+QB- (T),plaq9e_u,"Plastoquinone-9, 1 electron reduced",C53H80O2,u
+rhodopsin_h,rhodopsin_h,Rhodopsin,C20H28OR,h
+S0 (T),oec0_u,"Oxygen Evolution complex, 4 electrons",H4Mn4CaO5R,u
+S1 (T),oec1_u,"Oxygen Evolution complex, 3 electrons",H3Mn4CaO5R,u
+S2 (T),oec2_u,"Oxygen Evolution complex, 2 electrons",H3Mn4CaO5R,u
+"S2, D (T)",oecd2_u,"Oxygen Evolution complex, 2 electrons - Damaged",H3Mn3CaO5R,u
+S3 (T),oec3_u,"Oxygen Evolution complex, 1 electron",H2Mn4CaO5R,u
+"S3, D (T)",oecd3_u,"Oxygen Evolution complex, 1 electron - Damaged",H2Mn2CaO5R,u
+S4 (T),oec4_u,"Oxygen Evolution complex, Photolysis State",HMn4CaO5R,u
+vitd3_c,vitd3_c,Vitamin D3,C27H44O,c
+zaxan_u,zaxan_u,Zeaxanthin,C40H56O2,u
+zaxanExc_u,zaxanExc_u,"Zeaxanthin, excited State",C40H56O2,u
+gamma265,photon265_c,photon (250 to 280 nm),Z,c
+gamma295,photon295_c,photon (280 to 310 nm),Z,c
+gamma325,photon325_c,photon (310 to 340 nm),Z,c
+gamma355,photon355_c,photon (340 to 370 nm),Z,c
+gamma385,photon385_c,photon (370 to 400 nm),Z,c
+gamma415,photon415_c,photon (400 to 430 nm),Z,c
+gamma445,photon445_c,photon (430 to 460 nm),Z,c
+gamma475,photon475_c,photon (460 to 490 nm),Z,c
+gamma505,photon505_c,photon (490 to 520 nm),Z,c
+gamma535,photon535_c,photon (520 to 550 nm),Z,c
+gamma565,photon565_c,photon (550 to 580 nm),Z,c
+gamma595,photon595_c,photon (580 to 610 nm),Z,c
+gamma625,photon625_c,photon (610 to 640 nm),Z,c
+gamma655,photon655_c,photon (640 to 670 nm),Z,c
+gamma685,photon685_c,photon (670 to 700 nm),Z,c
+gamma715,photon715_c,photon (700 to 730 nm),Z,c
+gamma745,photon745_c,photon (730 to 760 nm),Z,c
+"gammaout,265",photonOUT265_c,output photon (250 to 280 nm),Z,c
+"gammaout,295",photonOUT295_c,output photon (280 to 310 nm),Z,c
+"gammaout,325",photonOUT325_c,output photon (310 to 340 nm),Z,c
+"gammaout,355",photonOUT355_c,output photon (340 to 370 nm),Z,c
+"gammaout,385",photonOUT385_c,output photon (370 to 400 nm),Z,c
+"gammaout,415",photonOUT415_c,output photon (400 to 430 nm),Z,c
+"gammaout,445",photonOUT445_c,output photon (430 to 460 nm),Z,c
+"gammaout,475",photonOUT475_c,output photon (460 to 490 nm),Z,c
+"gammaout,505",photonOUT505_c,output photon (490 to 520 nm),Z,c
+"gammaout,535",photonOUT535_c,output photon (520 to 550 nm),Z,c
+"gammaout,565",photonOUT565_c,output photon (550 to 580 nm),Z,c
+"gammaout,595",photonOUT595_c,output photon (580 to 610 nm),Z,c
+"gammaout,625",photonOUT625_c,output photon (610 to 640 nm),Z,c
+"gammaout,655",photonOUT655_c,output photon (640 to 670 nm),Z,c
+"gammaout,685",photonOUT685_c,output photon (670 to 700 nm),Z,c
+"gammaout,715",photonOUT715_c,output photon (700 to 730 nm),Z,c
+"gammaout,745",photonOUT745_c,output photon (730 to 760 nm),Z,c
