@@ -15,25 +15,25 @@ Due to the photoinhibition phenomenon, microalgae culture efficiency strongly de
 
 ## Repository overview
 
-├── README.md
-├── gitignore
-├── environment.yml for using in Anaconda
-├── Tutorial Cobrapy (Some tests on *Synechococcus elongatus* model)
-│   ├── CobraPy_Tutorial.ipynb
-│   ├── Model_iJB785.mat (Broddrick model)
-│   └── SolverCobra.txt
-├── Model iJB785 Analysis (*Synechococcus elongatus* model analyzed to extract the photosynthetic module and its proposal for photoinhibition)
-    ├── Broddrick_Analysis_Model.ipynb
-    ├── CSV documents where the photosynthetic model is explained
-└── Model Chlorella Analysis (The previous iCZ947 model of *Chlorella v.*, and its modifications released in the iFR947 model)
-    ├── BoundSenz (CSV documents analyzing the sensibility of several constraints in solver bounds)
-    ├── Light emitted from a source (Raw data and interpolation of different light-sources spectra)
-        ├── Light Emission Index.txt → A recopilation of information about light-emmited spectra and its bibliography
-    ├── PhotoActive Reactions (Raw data and interpolation of absorption spectrum for several light reactions in the metabolic model)
-        ├── Images Index.txt → A recopilation of information about light absorption spectra and its bibliography
-    ├── Chlorella_Analysis_Model.ipynb → The development of the model and corresponding tests
-    ├── Photoacive_ReactionData_Integration.ipynb → Algorithm to integrate light coefficients for absorption and emission spectrum, used as stoichiometric coefficients in the metabolic model
-    ├── CheckpointTest.json → first release of iFR947 Genome Scale Metabolic Model
+├── README.md  
+├── gitignore  
+├── environment.yml for using in Anaconda  
+├── Tutorial Cobrapy (Some tests on *Synechococcus elongatus* model)  
+│   ├── CobraPy_Tutorial.ipynb  
+│   ├── Model_iJB785.mat (Broddrick model)  
+│   └── SolverCobra.txt  
+├── Model iJB785 Analysis (*Synechococcus elongatus* model analyzed to extract the photosynthetic module and its proposal for photoinhibition)  
+│   ├── Broddrick_Analysis_Model.ipynb  
+│   └── CSV documents where the photosynthetic model is explained  
+└── Model Chlorella Analysis (The previous iCZ947 model of *Chlorella v.*, and its modifications released in the iFR947 model)  
+│   ├── BoundSenz (CSV documents analyzing the sensibility of several constraints in solver bounds)  
+│   ├── Light emitted from a source (Raw data and interpolation of different light-sources spectra)  
+│   │   └── Light Emission Index.txt → A recopilation of information about light-emmited spectra and its bibliography  
+│   ├── PhotoActive Reactions (Raw data and interpolation of absorption spectrum for several light reactions in the metabolic model)  
+│   │   └── Images Index.txt → A recopilation of information about light absorption spectra and its bibliography  
+│   ├── Chlorella_Analysis_Model.ipynb → The development of the model and corresponding tests  
+│   ├── Photoacive_ReactionData_Integration.ipynb → Algorithm to integrate light coefficients for absorption and emission spectrum, used as stoichiometric coefficients in the metabolic model  
+│   └── CheckpointTest.json → first release of iFR947 Genome Scale Metabolic Model  
 
 
 ## About
